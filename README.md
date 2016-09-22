@@ -26,15 +26,14 @@
 * 미래창조과학부 & 정보통신산업진흥원, 한국IT비즈니스진흥협회, 공개SW개발자Lab
 
 ###프로젝트 소개
-	1. Instagram 정보 가공 플러그인 (멘토 강명구)
-	  (daily 링크 걸기)
+    1. Instagram 정보 가공 플러그인 (멘토 강명구)
+      (daily 링크 걸기)
     
     2. Titanium Boiler Plate Templete (멘토 김동우)
       (daily 링크 걸기)
 	
-    3. IoT Labs (
-    4. 멘토 김종광)
-      (dauly 링크 걸기)
+    3. IoT Labs (멘토 김종광)
+      (daily 링크 걸기)
       
     4. Chromium/Blink (멘토 방진호)
       (daily 링크 걸기)
@@ -59,4 +58,5 @@
       
     11. Apache Zeppelin & Project Johanna
       (daily 링크 걸기)
+      
       

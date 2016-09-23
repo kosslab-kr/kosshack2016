@@ -57,7 +57,7 @@
 	- 활동 내용 : https://github.com/kosslab-kr/kosshack2016/blob/master/daily/11_Apache_Zeppelin_Project_Johanna/2016-09-24.md
 	
 * 프로젝트에 대한 자세한 내용은 https://kosshackathon.kr/project 에서 확인
-
+* 일일 결과보고서 양식은 https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md 참조 
 
 
 ### 프로그램 일정

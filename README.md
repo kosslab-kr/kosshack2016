@@ -24,7 +24,8 @@
 
 ###프로젝트 소개
 1. Instagram 정보 가공 플러그인 (멘토 강명구)
-	- 활동 내용 : https://github.com/kosslab-kr/kosshack2016/blob/master/daily/01_Instagram/2016-09-24.md
+	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/01_Instagram/progress.md)
+	- [Repository]()
     
 2. Titanium Boiler Plate Templete (멘토 김동우)
 	- 활동 내용 : https://github.com/kosslab-kr/kosshack2016/blob/master/daily/02_Titanium_Boiler_Plate_Template/2016-09-24.md

@@ -24,37 +24,39 @@
 
 ###프로젝트 소개
 	1. Instagram 정보 가공 플러그인 (멘토 강명구)
-	  플프롲프로젝프로젝트(daily 링크 걸기)
+       활동 내용 : https://github.com/kosslab-kr/kosshack2016/blob/master/daily/01_Instagram/2016-09-24.md
     
     2. Titanium Boiler Plate Templete (멘토 김동우)
-      (daily 링크 걸기)
+      활동 내용 : https://github.com/kosslab-kr/kosshack2016/blob/master/daily/02_Titanium_Boiler_Plate_Template/2016-09-24.md
 	
     3. IoT Labs (멘토 김종광)
-      (daily 링크 걸기)
+      활동 내용 : https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-24.md
       
     4. Chromium/Blink (멘토 방진호)
-      (daily 링크 걸기)
+      활동 내용 : https://github.com/kosslab-kr/kosshack2016/blob/master/daily/04_Chromium_Blink/2016-09-24.md
       
     5. Perf(Linux) (멘토 송태웅)
-      (daily 링크 걸기)
+      활동 내용 : https://github.com/kosslab-kr/kosshack2016/blob/master/daily/05_Perf_Linux/2016-09-24.md
       
     6. Toybox (멘토 이창환)
-      (daily 링크 걸기)
+      활동 내용 : https://github.com/kosslab-kr/kosshack2016/blob/master/daily/06_Toybox/2016-09-24.md
       
     7. AX5UI (멘토 장기영)
-      (daily 링크 걸기)
+      활동 내용 : https://github.com/kosslab-kr/kosshack2016/blob/master/daily/07_AX5UI/2016-09-24.md
       
     8. 블리티터 (멘토 주영택)
-      (daily 링크 걸기)
+      활동 내용 : https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md
       
     9. Say (멘토 정윤원)
-      (daily 링크 걸기)
+      활동 내용 : https://github.com/kosslab-kr/kosshack2016/blob/master/daily/09_Say/2016-09-24.md
       
     10. Rust (멘토 서상현)
-      (daily 링크 걸기)
+      활동 내용 : https://github.com/kosslab-kr/kosshack2016/blob/master/daily/10_Rust/2016-09-24.md
       
     11. Apache Zeppelin & Project Johanna
-      (daily 링크 걸기)
+      활동 내용 : https://github.com/kosslab-kr/kosshack2016/blob/master/daily/11_Apache_Zeppelin_Project_Johanna/2016-09-24.md
+
+
 
 ### 프로그램 일정
 

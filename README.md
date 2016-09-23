@@ -55,6 +55,8 @@
       
     11. Apache Zeppelin & Project Johanna
        활동 내용 : https://github.com/kosslab-kr/kosshack2016/blob/master/daily/11_Apache_Zeppelin_Project_Johanna/2016-09-24.md
+	
+	* 프로젝트에 대한 자세한 내용은 https://kosshackathon.kr/project 에서 확인
 
 
 

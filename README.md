@@ -49,7 +49,7 @@
 
 7. AX5UI (멘토 장기영)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/07_AX5UI/README.md)
-	- [Repository](github.com/ax5ui)
+	- [Repository](https://github.com/ax5ui)
 
 8. 블리티터 (멘토 주영택)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md)

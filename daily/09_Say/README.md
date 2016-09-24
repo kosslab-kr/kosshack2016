@@ -9,6 +9,9 @@
 * @AWEEKJ: [#14](https://github.com/youknowone/Say/issues/14) 지정시간에 울리는 알람 기능 개발
 * @kjy95: [#15](https://github.com/youknowone/Say/issues/15) URL을 넣으면 웹페이지 읽어주기
 * @pmw9027: [#19](https://github.com/youknowone/Say/issues/19) 텍스트파일 불러오기 기능 개발
+* @tobark: [#20](https://github.com/youknowone/Say/pull/20) 언어 선택 박스에 아무 문자나 입력할 수 있는 문제 수정
+* @eeneguee [#22](https://github.com/youknowone/Say/issues/22) 선택한 텍스트가 있을 경우 선택한 텍스트만 재생
+@closer27 님이 많은 분들의 git/코드 이슈 해결을 도와주시고 있습니다.
 
 개막식으로 인증을 대체합니다.
 

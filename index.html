@@ -4,28 +4,111 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, user-scalable=no">
+
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+    <script type="text/javascript" src="https://cdn.rawgit.com/ax5ui/ax5core/master/dist/ax5core.min.js"></script>
     <title>kosshack2016 LOG</title>
     <style>
         html, body {
             width: 100%;
             height: 100%;
             margin: 0;
-            padding: 0;
+            padding: 10px 0;
         }
     </style>
 </head>
 <body>
-<div id="result"></div>
+<div class="container">
+
+    <div class="jumbotron">
+        <div class="media">
+            <div class="media-left">
+                <img src="https://avatars2.githubusercontent.com/u/20199184?v=3&s=150">
+            </div>
+            <div class="media-body" style="padding-left: 20px;">
+                <h1>kosshack2016 Logs</h1>
+                <p>2016 공개SW 해카톤 실시간 진행상황 입니다. <span class="text-primary">업데이트 시간</span></p>
+            </div>
+        </div>
+
+
+    </div>
+
+
+    <div id="result" class="row"></div>
+</div>
+<script type="text/html" data-tmpl="list">
+
+    {{#events}}
+    <div class="col-md-4">
+        <div class="media" style="margin-bottom: 20px;height: 100px;overflow: hidden;">
+            <div class="media-left">
+                {{#actor}}
+                <a href="{{url}}" target="_blank">
+                    <img class="media-object" src="{{avatar_url}}" width="100" style="border-radius: 50%;"/>
+
+                </a>
+                {{/actor}}
+            </div>
+            <div class="media-body">
+                <span class="text-info">{{created_at}} <b>{{actor.display_login}}</b></span>
+                <p class="media-heading text-danger">
+                    {{#@getType}}{{type}}{{/@getType}}
+                    :
+                    {{#payload.ref}}{{.}}{{/payload.ref}}
+                    {{^payload.ref}}
+                        {{repo.name}}
+                    {{/payload.ref}}
+                </p>
+                <p style="color: #888;">
+                    {{#payLoad}}
+                        {{#commits}}
+                        {{{message}}}
+                        {{/commits}}
+                        {{#pull_request}}
+                        {{{title}}}
+                        {{/pull_request}}
+                        {{#issue}}
+                        {{{title}}}
+                        {{#comment}}
+                        {{{title}}}
+                        {{/comment}}
+                        {{/issue}}
+                    {{/payLoad}}
+                </p>
+
+            </div>
+        </div>
+    </div>
+
+    {{/events}}
+</script>
 <script language="javascript">
     $(function () {
 
+        var tmpl = $('[data-tmpl="list"]').html();
+        var $result = $("#result");
         $.ajax({
-            url: "https://github.com/orgs/kosslab-kr/dashboard"
-            , crossDomain: true
-            , type: 'GET'
-            , data: {}
-            , error: function (jqXHR, textStatus, errorThrown) {
+            url: "https://api.github.com/users/kosslab-kr/events",
+            crossDomain: true, type: 'GET', data: {},
+            success: function (res) {
+                console.log(res);
+                var data = {
+                    events: res,
+                    '@getType': function () {
+                        this.type = this.type.replace("Event", "");
+                        return this;
+                    }
+                };
+
+                $result.html(ax5.mustache.render(tmpl, data))
+            },
+            error: function (jqXHR, textStatus, errorThrown) {
                 alert(textStatus + ", " + errorThrown);
             }
 

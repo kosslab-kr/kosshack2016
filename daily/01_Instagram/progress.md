@@ -1,19 +1,17 @@
-## Basic Progress
-
-- OneTeam
-	- Goal
-		- 각자 기여할 수 있는 부분에 꾸준히 기여를 해보자.
-		- 서로 부족한 부분, 혹은 발전될 부분을 도와주자. 
-		- 모두 빠짐없이 프로젝트에 자신의 흔적을 남기자. 
-		- 릴리즈 버전 배포
-	- 사전지식
-	 	- git, github
-		- MARKDOWN
-		- NPM
-		- ES2015
-		- JavaScript
-		- JavaScript Style guide
-			- https://github.com/tipjs/javascript-style-guide
+# OneTeam
+- Goal
+	- 각자 기여할 수 있는 부분에 꾸준히 기여를 해보자.
+	- 서로 부족한 부분, 혹은 발전될 부분을 도와주자. 
+	- 모두 빠짐없이 프로젝트에 자신의 흔적을 남기자. 
+	- 릴리즈 버전 배포
+- 사전지식
+ 	- git, github
+	- MARKDOWN
+	- NPM
+	- ES2015
+	- JavaScript
+	- JavaScript Style guide
+		- https://github.com/tipjs/javascript-style-guide
 
 - Repository
 	- https://github.com/JeffGuKang/npm-es2015-boilerplate

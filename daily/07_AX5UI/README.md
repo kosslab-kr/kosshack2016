@@ -9,10 +9,12 @@ Gitter : https://gitter.im/ax5ui/KOSSLAB2016
 - https://github.com/ax5ui/ax5docs
 - https://github.com/kosslab-kr/ax5ui-quick-start
 
-# 9월 24일
-**행사 시작일**
+## [ax5ui-quick-start website](http://guide.ax5.io/)
 
-**팀원** : 금대건, 김동근, 김동영, 김동욱, 김인영, 김태근, 마진형, 박현준, 송다운, 위세라, 이소은, 이한빈, 한대승 (1명 불참)
+# 9월 24일
+
+##팀원
+금대건, 김동근, 김동영, 김동욱, 김인영, 김태근, 마진형, 박현준, 송다운, 위세라, 이소은, 이한빈, 한대승 (1명 불참)
 
 ## 해커톤 진행방법
 코드개발, 테스트코드작성, 문서작성, 번역 으로 롤 분배

@@ -25,27 +25,27 @@
 ###프로젝트 소개
 1. Instagram 정보 가공 플러그인 (멘토 강명구)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/01_Instagram/progress.md)
-	- [Repository]()
+	- [Repository](https://github.com/stevenschobert/instafeed.js)
     
 2. Titanium Boiler Plate Templete (멘토 김동우)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/02_Titanium_Boiler_Plate_Template/2016-09-24.md)
-	- [Repository]()
+	- [Repository](https://github.com/appcelerator/titanium_mobile)
 	
 3. IoT Labs (멘토 김종광)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-24.md)
-	- [Repository]()
+	- [Repository](https://github.com/jongkwang/IoTLabs)
 
 4. Chromium/Blink (멘토 방진호)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/04_Chromium_Blink/2016-09-24.md)
-	- [Repository]()
+	- [Repository](https://chromium.googlesource.com/chromium/src.git)
 
 5. Perf(Linux) (멘토 송태웅)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/05_Perf_Linux/2016-09-24.md)
-	- [Repository]()
+	- [Repository](https://git.kernel.org/cgit/linux/kernel/git/tip/tip.git)
 
 6. Toybox (멘토 이창환)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/06_Toybox/2016-09-24.md)
-	- [Repository]()
+	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/06_Toybox/README.md)
+	- [Repository](https://github.com/landley/toybox.git)
 
 7. AX5UI (멘토 장기영)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/07_AX5UI/README.md)
@@ -53,19 +53,19 @@
 
 8. 블리티터 (멘토 주영택)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md)
-	- [Repository]()
+	- [Repository](https://github.com/soomtong/blititor)
       
 9. Say (멘토 정윤원)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/09_Say/2016-09-24.md)
-	- [Repository]()
+	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/09_Say/README.md)
+	- [Repository](https://github.com/youknowone/Say)
       
 10. Rust (멘토 서상현)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/10_Rust/2016-09-24.md)
-	- [Repository]()
+	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/10_Rust/README.md)
+	- [Repository](https://github.com/rust-lang/rust)
       
-11. Apache Zeppelin & Project Johanna
+11. Apache Zeppelin & Project Johanna (멘토 윤제상)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/11_Apache_Zeppelin_Project_Johanna/2016-09-24.md)
-	- [Repository]()
+	- [Repository](https://github.com/addnull/johanna)
 	
 * 프로젝트에 대한 자세한 내용은 [홈페이지](https://kosshackathon.kr/project)에서 확인
 * 일일 결과보고서 양식은 [블리티터](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md) 참조 

@@ -29,3 +29,6 @@
 ## Goal
 1. 27일까지 [npm-es2015-boilerplate](https://github.com/JeffGuKang/npm-es2015-boilerplate) 릴리즈 버전 배포
 2. [npm-es2015-boilerplate](https://github.com/JeffGuKang/npm-es2015-boilerplate) 릴리즈 버전을 기반으로 새로운 모듈 생성 및 npm 업로드
+
+
+# Daily Report

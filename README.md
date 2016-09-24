@@ -60,8 +60,8 @@
 	- [Repository]()
       
 10. Rust (멘토 서상현)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/10_Rust/2016-09-24.md)
-	- [Repository]()
+	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/10_Rust/README.md)
+	- [Repository](https://github.com/rust-lang/rust)
       
 11. Apache Zeppelin & Project Johanna (멘토 윤제상)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/11_Apache_Zeppelin_Project_Johanna/2016-09-24.md)

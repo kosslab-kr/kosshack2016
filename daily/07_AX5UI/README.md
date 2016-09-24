@@ -9,7 +9,6 @@ Gitter : https://gitter.im/ax5ui/KOSSLAB2016
 - https://github.com/ax5ui/ax5docs
 - https://github.com/kosslab-kr/ax5ui-quick-start
 
-## [ax5ui-quick-start website](http://guide.ax5.io/)
 
 # 9월 24일
 

@@ -12,7 +12,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
 
-    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/ax5ui/ax5ui-toast/master/dist/ax5toast.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/ax5ui/ax5ui-toast/master/dist/ax5toast.css"/>
     <script type="text/javascript" src="https://cdn.rawgit.com/ax5ui/ax5core/master/dist/ax5core.min.js"></script>
     <script type="text/javascript" src="https://cdn.rawgit.com/ax5ui/ax5ui-toast/master/dist/ax5toast.min.js"></script>
     <title>kosshack2016 LOG</title>
@@ -68,26 +68,19 @@
                 <p class="media-heading text-danger">
                     {{#@getType}}{{type}}{{/@getType}}
                     :
-                    {{#payload.ref}}{{.}}{{/payload.ref}}
-                    {{^payload.ref}}
-                    {{repo.name}}
-                    {{/payload.ref}}
+                    {{payload.ref}} {{repo.name}}
                 </p>
                 <p style="color: #888;">
-                    {{#payLoad}}
-                    {{#commits}}
-                    {{{message}}}
-                    {{/commits}}
-                    {{#pull_request}}
-                    {{{title}}}
-                    {{/pull_request}}
-                    {{#issue}}
-                    {{{title}}}
-                    {{#comment}}
-                    {{{title}}}
-                    {{/comment}}
-                    {{/issue}}
-                    {{/payLoad}}
+                    {{#payload}}
+                        {{#commits}}
+                        {{{message}}}
+                        {{/commits}}
+                        {{#pull_request}}{{{title}}}{{/pull_request}}
+                        {{#issue}}
+                            {{{title}}}
+                            {{#comment}}{{{title}}}{{/comment}}
+                        {{/issue}}
+                    {{/payload}}
                 </p>
 
             </div>
@@ -115,7 +108,7 @@
                 url: "https://api.github.com/users/kosslab-kr/events",
                 crossDomain: true, type: 'GET', data: {},
                 success: function (res) {
-
+                    console.log(res);
                     if (res.message) {
                         myToast.push(res.message);
                     }

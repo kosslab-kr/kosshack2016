@@ -1,37 +1,44 @@
 # OneTeam
-- Goal
-	- 각자 기여할 수 있는 부분에 꾸준히 기여를 해보자.
-	- 서로 부족한 부분, 혹은 발전될 부분을 도와주자. 
-	- 모두 빠짐없이 프로젝트에 자신의 흔적을 남기자. 
-	- 릴리즈 버전 배포
-- 사전지식
- 	- git, github
-	- MARKDOWN
-	- NPM
-	- ES2015
-	- JavaScript
-	- JavaScript Style guide
-		- https://github.com/tipjs/javascript-style-guide
+## Goal
+- 각자 기여할 수 있는 부분에 꾸준히 기여를 해보자.
+- 서로 부족한 부분, 혹은 발전될 부분을 도와주자.
+- **모두 빠짐없이** 프로젝트에 자신의 흔적을 남기자.
+- 첫번째 릴리즈 버전 배포
 
-- Repository
-	- https://github.com/JeffGuKang/npm-es2015-boilerplate
+## 사전지식
+- Git / Github / Markdown
+- Node.js / npm
+- JavaScript
+	- ES2015
+	- [Airbnb/JavaScript](https://github.com/tipjs/javascript-style-guide)
+
+## Repository
+[JeffGuKang/npm-es2015-boilerplate](https://github.com/JeffGuKang/npm-es2015-boilerplate)
 
 ## Team
 
-주로 맡을 역할을 나눴습니다. 조별로 git초보분과 숙련자분들을 함께 배정하였습니다.
-물론 다른 카테고리쪽에 관심을 갖고 토론과 수정하시는건 매우 권장됩니다. 
+주로 맡을 역할을 조단위로 나눴습니다. Git초보분과 숙련자분들을 조마다 함께 배정하였습니다.
 ![team structure](./teamstructure.png)
-- Example
-	- 조승윤(조장), 성대경, 이성현 
+- Example : 예제 코드 작성
+	- 조승윤 ([@choseungyoon](https://github.com/choseungyoon)) : Group Leader
+	- 성대경 ([@sdk115](https://github.com/sdk115))
+	- 이성현 ([@nygosh](https://github.com/nygosh))
 - Test
-	- 오도근(조장), 이현주, 이동기	
+	- 오도근 ([ohdoking](https://github.com/ohdoking)) : Group Leader
+	- 이현주 ([lacieliz](https://github.com/lacieliz))
+	- 이동기 (unknow)
 - Docs
-	- 김무훈(조장), 이기신(팀장), 최규호, 김강민
+	- 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
+	- 이기신 (unknow) : Team Leader
+	- 최규호 ([@gyuho26](https://github.com/gyuho26))
+	- 김강민 ([@kangmin93](https://github.com/kangmin93))
 - Task
-	- 신미르(조장), 이태순, 박경원
+	- 신미르 (unknow) : Team Leader
+	- 이태순 ([LeeTaeSoon](https://github.com/LeeTaeSoon))
+	- 박경원 ([cosmicboon](https://github.com/cosmicboon))
 
 ## Goal
-1. 27일까지 [npm-es2015-boilerplate](https://github.com/JeffGuKang/npm-es2015-boilerplate) 릴리즈 버전 배포
+1. 27일까지 [npm-es2015-boilerplate](https://github.com/JeffGuKang/npm-es2015-boilerplate) 릴리즈 첫 버전 배포
 2. [npm-es2015-boilerplate](https://github.com/JeffGuKang/npm-es2015-boilerplate) 릴리즈 버전을 기반으로 새로운 모듈 생성 및 npm 업로드
 
 
@@ -40,7 +47,7 @@
 ### 2016년 9월 24일
 - 자기소개
 - 프로젝트 설명
-- 조 배분 및 역할 분담에 대해 토의 
+- 조 배분 및 역할 분담에 대해 토의
 
 #### Task
 
@@ -56,4 +63,3 @@
 #### Test
 #### Example
 #### Task
-

@@ -23,9 +23,9 @@
 * 미래창조과학부 & 정보통신산업진흥원, 한국IT비즈니스진흥협회, 공개SW개발자Lab
 
 ###프로젝트 소개
-1. Instagram 정보 가공 플러그인 (멘토 강명구)
+1. npm module제작 boilerplate (멘토 강명구)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/01_Instagram/progress.md)
-	- [Repository](https://github.com/stevenschobert/instafeed.js)
+	- [Repository](https://github.com/JeffGuKang/npm-module-es2015-boilerplate)
     
 2. Titanium Boiler Plate Templete (멘토 김동우)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/02_Titanium_Boiler_Plate_Template/2016-09-24.md)
@@ -52,7 +52,8 @@
 	- [Repository](https://github.com/ax5ui)
 
 8. 블리티터 (멘토 주영택)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md)
+	- [활동 내용 Day 1](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md)
+	- [활동 내용 Day 2](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-25.md)
 	- [Repository](https://github.com/soomtong/blititor)
       
 9. Say (멘토 정윤원)

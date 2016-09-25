@@ -1,8 +1,8 @@
 # OneTeam
 - Goal
 	- 각자 기여할 수 있는 부분에 꾸준히 기여를 해보자.
-	- 서로 부족한 부분, 혹은 발전될 부분을 도와주자. 
-	- 모두 빠짐없이 프로젝트에 자신의 흔적을 남기자. 
+	- 서로 부족한 부분, 혹은 발전될 부분을 도와주자.
+	- 모두 빠짐없이 프로젝트에 자신의 흔적을 남기자.
 	- 릴리즈 버전 배포
 - 사전지식
  	- git, github
@@ -19,12 +19,12 @@
 ## Team
 
 주로 맡을 역할을 나눴습니다. 조별로 git초보분과 숙련자분들을 함께 배정하였습니다.
-물론 다른 카테고리쪽에 관심을 갖고 토론과 수정하시는건 매우 권장됩니다. 
+물론 다른 카테고리쪽에 관심을 갖고 토론과 수정하시는건 매우 권장됩니다.
 ![team structure](./teamstructure.png)
 - Example
-	- 조승윤(조장), 성대경, 이성현 
+	- 조승윤(조장), 성대경, 이성현
 - Test
-	- 오도근(조장), 이현주, 이동기	
+	- 오도근(조장), 이현주, 이동기
 - Docs
 	- 김무훈(조장), 이기신(팀장), 최규호, 김강민
 - Task
@@ -40,7 +40,7 @@
 ### 2016년 9월 24일
 - 자기소개
 - 프로젝트 설명
-- 조 배분 및 역할 분담에 대해 토의 
+- 조 배분 및 역할 분담에 대해 토의
 
 #### Task
 
@@ -53,7 +53,33 @@
 
 ### 2016년 9월 25일
 #### Docs
-#### Test
-#### Example
-#### Task
+- 최규호
+	- Atom Editor 설치
+	- Slack에 올라온 linter와 linter-eslint 설치
+	- Slack에 올라온 git 관련 블로그 일부 읽음
+	- github에서 갱신되는 것 확인을 위해 MuhunKim/npm-gulp-es2015-boilerplate를 watch 눌러놓음
+	- 'OneTeam'의 사전지식에 적혀있는 JavaScript Style guide에 대한 부분 일부 읽음
+	- Markdown 문법에 관한 간략한 조사
+	- 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음(이메일로 확인)
 
+
+- 김강민
+	- 하루패드 설치
+	- markdown 문법 익히기
+	- github 사용법 및 git 설치 숙지
+	- 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음
+#### Test
+
+#### Example(A-Yo)
+- Team Goal
+	- GitHub 사용법 숙달
+	- 다른 Open소스 Example 살펴보기
+	- Npm, Gulp 사용하여 Example 수정
+
+- 개인활동 사항
+	- 이성현
+		- GitHub Full-Request 요청
+		- Brach로 add, commit, push 등 소스 수정
+		- 기본 src:console -> return으로 수정하여 Example 구성
+
+#### Task

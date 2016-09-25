@@ -63,5 +63,17 @@
 	- 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음(이메일로 확인)
 
 #### Test
-#### Example
+
+#### Example(A-Yo)
+- Team Goal
+	- GitHub 사용법 숙달
+	- 다른 Open소스 Example 살펴보기
+	- Npm, Gulp 사용하여 Example 수정
+
+- 개인활동 사항
+	- 이성현
+		- GitHub Full-Request 요청
+		- Brach로 add, commit, push 등 소스 수정
+		- 기본 src:console -> return으로 수정하여 Example 구성
+
 #### Task

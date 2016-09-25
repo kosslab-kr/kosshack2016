@@ -75,6 +75,22 @@
 	- Slack에 팀 별 Channel 등록 / 모든 팀원 Slack에 등록
 	- Github Repository 생성 / Collaborator 등록
 
+	- 멘토가 한일 : 해카톤 진행, 멘티가 읽을 거리 작성 (http://tidev.kr/t/topic/1832)
+
 ### 2016-09-25 (일)
-	-
-	
+	- 각자의 feature를 쪼개서 waffle.io를 통해 github 이슈 등록
+	- SourceTree를 이용한 git과 github 사용법 학습
+	- Titanium 개발환경 구축 (Studio IDE, Titanium/Android SDK, NodeJS 기반 설치)
+	- Rss Reader 샘플 코드 import & build
+	- JavaScript 기초 및 Titanium Code 구조 학습
+	- Main Repository import & build
+	- 백엔드 서버인 Parse Server 로컬 개발환경 구축 및 학습
+
+	- Project (Brand New) 등록 이슈 : 25건 중 완료 3건
+		https://github.com/kosslab-kr/Titanium-BrandNew/issues
+
+	- Project (Save My Friend) 등록 이슈 : 18건 중 완료 3건
+		https://github.com/kosslab-kr/Titanium-SaveMyFriend/issues
+
+	- 멘토가 한일 : 개발환경 구축 및 샘플 코드 빌드 가이드, 백엔드 서버 구축
+		읽을 거리 작성 (http://tidev.kr/t/topic/1833)

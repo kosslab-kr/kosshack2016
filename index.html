@@ -11,6 +11,8 @@
     <!-- Latest compiled and minified JavaScript -->
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 
+    <script src="https://cdn.rawgit.com/LinZap/jquery.waterfall/master/waterfall-light.js"></script>
+
     <meta property="og:title" content="공개SW개발센터 해카톤 2016"/>
     <meta property="og:type" content="article"/>
     <meta property="og:url" content="https://kosslab-kr.github.io/kosshack2016/"/>
@@ -27,6 +29,18 @@
             height: 100%;
             margin: 0;
             padding: 10px 0;
+        }
+
+        .card{
+            border: 1px solid #f3f3f3;
+            border-radius: 5px;
+            padding: 5px;
+        }
+        .card:nth-child(odd){
+            background: #f3f3f3;
+        }
+        .card *{
+            word-break: break-all;
         }
     </style>
 </head>
@@ -58,13 +72,13 @@
     </div>
 </div>
 <script type="text/html" data-tmpl="list">
-    <div class="row">
+
         {{#events}}
-        <div class="col-md-4">
+        <div class="card">
             <div class="media" style="margin-bottom: 20px;">
                 <div class="media-left">
                     {{#actor}}
-                    <img class="media-object" src="{{avatar_url}}" width="60" style="border-radius: 50%;"/>
+                    <img class="media-object" src="{{avatar_url}}" width="60" style="border-radius: 5px;"/>
                     {{/actor}}
                 </div>
                 <div class="media-body">
@@ -90,9 +104,9 @@
                         {{^comment}}
                         <a href="{{html_url}}" target="_blank">
                             {{{title}}}</a>
-                            <div style="color: #888;">
-                                {{{body}}}
-                            </div>
+                    <div style="color: #888;">
+                        {{{body}}}
+                    </div>
                     {{/comment}}
                     {{#comment}}
                     <a href="{{html_url}}" target="_blank">{{{title}}}</a>
@@ -109,10 +123,10 @@
             </div>
         </div>
         {{#@isThird}}
-        <div style="clear:both;"></div>
+        <!--div style="clear:both;"></div-->
         {{/@isThird}}
         {{/events}}
-    </div>
+
 </script>
 
 <script language="javascript">
@@ -135,6 +149,7 @@
                 url: "https://api.github.com/users/kosslab-kr/events",
                 crossDomain: true, type: 'GET', data: {},
                 success: function (res) {
+
 
                     if (res.message) {
                         myToast.push(res.message);
@@ -159,6 +174,17 @@
                     };
 
                     $result.html(ax5.mustache.render(tmpl, data));
+                    $result.waterfall({
+                        gap: 10,
+                        gridWidth: [0, 400, 600, 800, 1200],
+                        refresh: 500,
+                        scrollbottom: {
+                            ele: $('body'),
+                            endtxt: 'No More~~',
+                            gap: 300
+                        }
+                    });
+
                 },
                 error: function (jqXHR, textStatus, errorThrown) {
                     myToast.push("API응답오류 발생. gitHub에 너무 많은 요청을 하여 API가 작동하지 않습니다. 잠시후 다시 시도해 보세요. ");

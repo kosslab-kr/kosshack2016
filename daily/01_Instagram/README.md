@@ -28,7 +28,7 @@
 
 ### Docs : 문서 작성 및 Daily Report 관리
 - 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
-- 이기신 (unknow) : Team Leader
+- 이기신 ([@kshinlee](https://github.com/kshinlee)) : Team Leader
 - 최규호 ([@gyuho26](https://github.com/gyuho26))
 - 김강민 ([@kangmin93](https://github.com/kangmin93))
 
@@ -82,8 +82,8 @@
  ![](c-team-collaborator.png)
 
 ## 2016년 9월 25일
-#### Docs
-- 최규호
+### Docs
+- 최규호 ([@gyuho26](https://github.com/gyuho26))
 	- Atom Editor 설치
 	- Slack에 올라온 linter와 linter-eslint 설치
 	- Slack에 올라온 git 관련 블로그 일부 읽음
@@ -92,23 +92,23 @@
 	- Markdown 문법에 관한 간략한 조사
 	- 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음(이메일로 확인)
 
-- 김강민
+- 김강민 ([@kangmin93](https://github.com/kangmin93))
 	- 하루패드 설치
 	- markdown 문법 익히기
 	- github 사용법 및 git 설치 숙지
 	- 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음
 
 ### Example(A-Yo)
-- Team Goal
+- Group Goal
 	- GitHub 사용법 숙달
 	- 다른 Open-Source Example 살펴보기
 	- Npm, Gulp 사용하여 Example 수정
 
 - 개인활동 사항
-	- 이성현
+	- 이성현 ([@nygosh](https://github.com/nygosh))
 		- GitHub Full-Request 요청
 		- Brach로 add, commit, push 등 소스 수정
 		- 기본 `src`폴더 내의 코드들을 `console.log()` 대신 `return`으로 수정하여 Example 구성
 
 ### Task
-#### Test
+### Test

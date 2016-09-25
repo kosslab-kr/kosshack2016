@@ -87,6 +87,34 @@
 
 ## 2016년 9월 25일
 ### Docs
+- 최규호
+	- Atom Editor 설치
+	- Slack에 올라온 linter와 linter-eslint 설치
+	- Slack에 올라온 git 관련 블로그 일부 읽음
+	- github에서 갱신되는 것 확인을 위해 MuhunKim/npm-gulp-es2015-boilerplate를 watch 눌러놓음
+	- 'OneTeam'의 사전지식에 적혀있는 JavaScript Style guide에 대한 부분 일부 읽음
+	- Markdown 문법에 관한 간략한 조사
+	- 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음(이메일로 확인)
+
+
+- 김강민
+	- 하루패드 설치
+	- markdown 문법 익히기
+	- github 사용법 및 git 설치 숙지
+	- 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음
+
 ### Test
-### Example
+
+### Example(A-Yo)
+- Team Goal
+	- GitHub 사용법 숙달
+	- 다른 Open-Source Example 살펴보기
+	- Npm, Gulp 사용하여 Example 수정
+
+- 개인활동 사항
+	- 이성현
+		- GitHub Full-Request 요청
+		- Brach로 add, commit, push 등 소스 수정
+		- 기본 `src`폴더 내의 코드들을 `console.log()` 대신 `return`으로 수정하여 Example 구성
+
 ### Task

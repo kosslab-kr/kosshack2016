@@ -37,12 +37,12 @@
 
 # Daily Report
 
-#### 2016년 10월 24일
+### 2016년 10월 24일
 - 자기소개
 - 프로젝트 설명
 - 조 배분 및 역할 분담에 대해 토의 
 
-##### Task
+#### Task
 
 https://github.com/JeffGuKang/npm-module-es2015-boilerplate/pull/8
 
@@ -50,8 +50,9 @@ https://github.com/JeffGuKang/npm-module-es2015-boilerplate/pull/8
 - package.json 을 업데이트하였습니다.
 - ESLINT 설정을 잡았습니다.
 
-#### 2016년 10월 25일
-##### Docs
-##### Test
-##### Example
-##### Task
+### 2016년 10월 25일
+#### Docs
+#### Test
+#### Example
+#### Task
+

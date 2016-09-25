@@ -44,11 +44,12 @@
 
 #### Task
 
-https://github.com/JeffGuKang/npm-module-es2015-boilerplate/pull/8
 
-- Webpack을 통해 Build 및 Dev server를 실행할 수 있도록 해당 packages와 scripts를 추가하였습니다.
-- package.json 을 업데이트하였습니다.
-- ESLINT 설정을 잡았습니다.
+- 신미르
+	- https://github.com/JeffGuKang/npm-module-es2015-boilerplate/pull/8
+	- Webpack을 통해 Build 및 Dev server를 실행할 수 있도록 해당 packages와 scripts를 추가하였습니다.
+	- package.json 을 업데이트하였습니다.
+	- ESLINT 설정을 잡았습니다.
 
 ### 2016년 10월 25일
 #### Docs

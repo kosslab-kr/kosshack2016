@@ -38,56 +38,69 @@
                 <p>2016 공개SW 해카톤 실시간 진행상황 <span class="text-primary" id="updateTime">업데이트 시간</span></p>
             </div>
         </div>
-
-
     </div>
 
+    <div id="result"></div>
 
-    <div id="result" class="row"></div>
 
+    <div style="margin-top: 50px;text-align: center;">
 
-    <div style="margin-top: 50px;">
-        <p class="text-success" style="text-align: center;">ax5ui - <a href="http://ax5.io">http://ax5.io</a></p>
+        <button class="btn" onclick="location.href='https://github.com/kosslab-kr';">
+            https://github.com/kosslab-kr
+        </button>
+
+        <p class="text-success" style="text-align: center;margin-top: 10px;">ax5ui - <a href="http://ax5.io">http://ax5.io</a></p>
     </div>
 </div>
 <script type="text/html" data-tmpl="list">
+    <div class="row">
+        {{#events}}
+        <div class="col-md-4">
+            <div class="media" style="margin-bottom: 20px;height: 100px;overflow: hidden;">
+                <div class="media-left">
+                    {{#actor}}
+                    <a href="{{url}}" target="_blank">
+                        <img class="media-object" src="{{avatar_url}}" width="100" style="border-radius: 50%;"/>
 
-    {{#events}}
-    <div class="col-md-4">
-        <div class="media" style="margin-bottom: 20px;height: 100px;overflow: hidden;">
-            <div class="media-left">
-                {{#actor}}
-                <a href="{{url}}" target="_blank">
-                    <img class="media-object" src="{{avatar_url}}" width="100" style="border-radius: 50%;"/>
+                    </a>
+                    {{/actor}}
+                </div>
+                <div class="media-body">
+                    <span class="text-info">{{created_at}} <b>{{actor.display_login}}</b></span>
+                    <p class="media-heading text-danger">
+                        {{#@getType}}{{type}}{{/@getType}}
+                        :
+                        {{payload.ref}} {{repo.name}}
+                    </p>
+                    <p style="color: #888;">
+                        {{#payload}}
 
-                </a>
-                {{/actor}}
-            </div>
-            <div class="media-body">
-                <span class="text-info">{{created_at}} <b>{{actor.display_login}}</b></span>
-                <p class="media-heading text-danger">
-                    {{#@getType}}{{type}}{{/@getType}}
-                    :
-                    {{payload.ref}} {{repo.name}}
-                </p>
-                <p style="color: #888;">
-                    {{#payload}}
                         {{#commits}}
-                        {{{message}}}
+                        <a href="{{#@htmlURL}}{{url}}{{/@htmlURL}}" target="_blank">{{{message}}}</a>
                         {{/commits}}
-                        {{#pull_request}}{{{title}}}{{/pull_request}}
+
+                        {{#pull_request}}
+                        <a href="{{#@htmlURL}}{{url}}{{/@htmlURL}}" target="_blank">{{{title}}}</a>
+                        {{/pull_request}}
+
                         {{#issue}}
+                        <a href="{{html_url}}" target="_blank">
                             {{{title}}}
                             {{#comment}}{{{title}}}{{/comment}}
+                        </a>
                         {{/issue}}
-                    {{/payload}}
-                </p>
 
+                        {{/payload}}
+                    </p>
+
+                </div>
             </div>
         </div>
+        {{#@isThird}}
+        <div style="clear:both;"></div>
+        {{/@isThird}}
+        {{/events}}
     </div>
-
-    {{/events}}
 </script>
 <script language="javascript">
     $(function () {
@@ -104,11 +117,12 @@
         var getContent = function () {
 
             $updateTime.html((new Date()).toString());
+
             $.ajax({
                 url: "https://api.github.com/users/kosslab-kr/events",
                 crossDomain: true, type: 'GET', data: {},
                 success: function (res) {
-                    console.log(res);
+
                     if (res.message) {
                         myToast.push(res.message);
                     }
@@ -118,10 +132,18 @@
                         '@getType': function () {
                             this.type = this.type.replace("Event", "");
                             return this;
+                        },
+                        '@isThird': function () {
+                            return ((this['@i'] + 1) % 3 == 0);
+                        },
+                        '@htmlURL': function(){
+                            //console.log(this);
+                            this.url = this.url.replace("https://api.", "https://").replace("repos/", "");
+                            return this;
                         }
                     };
 
-                    $result.html(ax5.mustache.render(tmpl, data))
+                    $result.html(ax5.mustache.render(tmpl, data));
                 },
                 error: function (jqXHR, textStatus, errorThrown) {
                     myToast.push("API응답오류 발생. gitHub에 너무 많은 요청을 하여 API가 작동하지 않습니다. 잠시후 다시 시도해 보세요. ");

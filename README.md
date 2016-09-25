@@ -36,7 +36,7 @@
 	- [Repository](https://github.com/jongkwang/IoTLabs)
 
 4. Chromium/Blink (멘토 방진호)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/04_Chromium_Blink/2016-09-24.md)
+	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/04_Chromium_Blink/README.md)
 	- [Repository](https://chromium.googlesource.com/chromium/src.git)
 
 5. Perf(Linux) (멘토 송태웅)

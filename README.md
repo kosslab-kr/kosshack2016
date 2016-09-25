@@ -45,7 +45,7 @@
 
 6. Toybox (멘토 이창환)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/06_Toybox/README.md)
-	- [Repository](https://github.com/landley/toybox.git)
+	- [Repository](https://github.com/kosslab-kr/toybox.git)
 
 7. AX5UI (멘토 장기영)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/07_AX5UI/README.md)

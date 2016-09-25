@@ -74,6 +74,7 @@
 
 ### Project Johanna
 
+- 먼저 [이 문서](https://github.com/addnull/johanna/blob/master/README.md)를 읽어주세요
 - AWS 계정을 하나 만드셔야 합니다.
     - https://aws.amazon.com 에서 본인 AWS 계정을 하나 만듦니다. 
 - Fork & Pull Request로 진행합니다.

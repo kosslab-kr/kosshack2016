@@ -57,6 +57,8 @@
 	- Github : (waffle.io를 활용한 이슈관리)
 		- https://github.com/kosslab-kr/Titanium-BrandNew
 		- https://github.com/kosslab-kr/Titanium-SaveMyFriend
+	- Tidev.kr : 한국 타이타늄 사용자 모임
+		- 기술적 어려움에 대해 조언을 구하는 Q&A 채널로 활용
 	
 - 오프라인 커뮤니케이션
 	- Office Hour : 9/26일 부터 9/30일 사이에 저녁 7시-저녁11시 사이에 서초동 멘토의 사무실에 방문하시면 직접적인 도움을 드립니다.

@@ -53,7 +53,7 @@
 
 ### 2016년 9월 25일
 #### Docs
-* 최규호
+- 최규호
 	- Atom Editor 설치
 	- Slack에 올라온 linter와 linter-eslint 설치
 	- Slack에 올라온 git 관련 블로그 일부 읽음
@@ -62,6 +62,12 @@
 	- Markdown 문법에 관한 간략한 조사
 	- 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음(이메일로 확인)
 
+
+- 김강민
+	- 하루패드 설치
+	- markdown 문법 익히기
+	- github 사용법 및 git 설치 숙지
+	- 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음
 #### Test
 
 #### Example(A-Yo)

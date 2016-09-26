@@ -75,46 +75,46 @@ https://github.com/ax5ui/ax5ui-kernel/issues/20
 활동간에 어려운 부분은 gitter 채팅방(https://gitter.im/ax5ui/KOSSLAB2016)을 이용하여 해결 
 
 ## 테스트코드 작성
-|성명|링크|활동내역|파일수|추가된줄수|삭제된줄수|
+|성명|링크|활동내역|파일수|add|del|
 |---|---|---|---|---|---|
-|이한빈|https://github.com/ax5ui/ax5ui-kernel/commit/5eae7e1d68136c2df4b4c85074e87847b7b021e5|ax5.util.search test 추가|1|32|0|
-|금대건|https://github.com/ax5ui/ax5ui-kernel/commit/4e116e12533a97ca9b17859568e5d7e41865b006|ax5.util.string TEST|2|117|0|
-|박현준|https://github.com/ax5ui/ax5ui-kernel/commit/89a7c31d5dd79a9a9427a8c4e85a24a006bd6bfb|ax5.util.toArray TEST|2|21|8|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/3f308535139badafa54c8e2b38453eecf5973c9a|ax5.util.toJson TEST|1|41|0|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/8063136f448463fbdb0e032c648c43413a9d4535|doc title change more specify|2|2|2|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/6d767d8bcc9cac673cff1029211b990579c8a390|ax5.util.parseJson TEST|1|19|0|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/68764596ec66c8bbe65d8ad3383c8c363d6e52a5|misc.param, isType grouping  …|3|128|91|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/1b24ac22e8a22502eaee81eb746224959fc7c431|TYPE 완료~!|1|180|5|
+|이한빈|[gitHub](https://github.com/ax5ui/ax5ui-kernel/commit/5eae7e1d68136c2df4b4c85074e87847b7b021e5)|ax5.util.search test 추가|1|32|0|
+|금대건|[gitHub](https://github.com/ax5ui/ax5ui-kernel/commit/4e116e12533a97ca9b17859568e5d7e41865b006)|ax5.util.string TEST|2|117|0|
+|박현준|[gitHub](https://github.com/ax5ui/ax5ui-kernel/commit/89a7c31d5dd79a9a9427a8c4e85a24a006bd6bfb)|ax5.util.toArray TEST|2|21|8|
+| |[gitHub](https://github.com/ax5ui/ax5ui-kernel/commit/3f308535139badafa54c8e2b38453eecf5973c9a)|ax5.util.toJson TEST|1|41|0|
+| |[gitHub](https://github.com/ax5ui/ax5ui-kernel/commit/8063136f448463fbdb0e032c648c43413a9d4535)|doc title change more specify|2|2|2|
+| |[gitHub](https://github.com/ax5ui/ax5ui-kernel/commit/6d767d8bcc9cac673cff1029211b990579c8a390)|ax5.util.parseJson TEST|1|19|0|
+| |[gitHub](https://github.com/ax5ui/ax5ui-kernel/commit/68764596ec66c8bbe65d8ad3383c8c363d6e52a5)|misc.param, isType grouping  …|3|128|91|
+| |[gitHub](https://github.com/ax5ui/ax5ui-kernel/commit/1b24ac22e8a22502eaee81eb746224959fc7c431)|TYPE 완료~!|1|180|5|
 
 ## 문서작성
-|성명|링크|활동내역|파일수|추가된줄수|삭제된줄수|
+|성명|링크|활동내역|파일수|add|del|
 |---|---|---|---|---|---|
-|송다운|https://github.com/kosslab-kr/ax5ui-quick-start/commit/3b15fd3b4f88266db1fbe573f3cb37dd45cf7a42|add mdpath & mdfile|11|790|8|
-|김동욱(sksdong)|https://github.com/kosslab-kr/ax5ui-quick-start/commit/fdf6603e40e6bb973609ffa90623bf0c202ac776|화면 바뀌는지 시도..|7|309|136|
-| |https://github.com/kosslab-kr/ax5ui-quick-start/commit/9fdb3ee8249be2da293d18cb9c1dec6791fb7373|add menu|1|31|0|
-| |https://github.com/kosslab-kr/ax5ui-quick-start/commit/c0a2aa5d83c03e3346a699f1d08686c1f1e8cf43|npm and gulp install doc|3|39|4|
-|마진형|https://github.com/kosslab-kr/ax5ui-quick-start/commit/fdbaea155d417b8fc216909272fa9ff6e5b31a33|Ma howtoinstall tmpfile|1|1|0|
+|송다운|[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/3b15fd3b4f88266db1fbe573f3cb37dd45cf7a42)|add mdpath & mdfile|11|790|8|
+|김동욱(sksdong)|[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/fdf6603e40e6bb973609ffa90623bf0c202ac776)|화면 바뀌는지 시도..|7|309|136|
+| |[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/9fdb3ee8249be2da293d18cb9c1dec6791fb7373)|add menu|1|31|0|
+| |[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/c0a2aa5d83c03e3346a699f1d08686c1f1e8cf43)|npm and gulp install doc|3|39|4|
+|마진형|[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/fdbaea155d417b8fc216909272fa9ff6e5b31a33)|Ma howtoinstall tmpfile|1|1|0|
 
 ## 코드개발
-|성명|링크|활동내역|파일수|추가된줄수|삭제된줄수|
+|성명|링크|활동내역|파일수|add|del|
 |---|---|---|---|---|---|
-|이소은|https://github.com/ax5ui/ax5ui-kernel/commit/d1327c49dbe5fb4e891bea56f43f76bffbb05b54|feat: For showing double alerts, Add two kind of alert test button (#30)|1|15|0|
-|한대승|https://github.com/ax5ui/ax5ui-kernel/commit/e9180f0f3dde4e9eddb3326d494a52e0dcf761fa|25일 프로젝트 분석 내용 (#29)|1|1|2|
-|위세라|https://github.com/ax5ui/ax5ui-kernel/commit/118ac75f67f528620487e760a7072e9f00a4df17|버튼 위치 수정 및 이름 변경|2|20|16|
-|김동근|https://github.com/ax5ui/ax5ui-kernel/commit/e69ca9d6f4dd0e9aff9a0f1e53e209954a2fa5d0|변수 명명규칙 변경(callback)|16|122|123|
+|이소은|[github](https://github.com/ax5ui/ax5ui-kernel/commit/d1327c49dbe5fb4e891bea56f43f76bffbb05b54)|feat: For showing double alerts, Add two kind of alert test button (#30)|1|15|0|
+|한대승|[github](https://github.com/ax5ui/ax5ui-kernel/commit/e9180f0f3dde4e9eddb3326d494a52e0dcf761fa)|25일 프로젝트 분석 내용 (#29)|1|1|2|
+|위세라|[github](https://github.com/ax5ui/ax5ui-kernel/commit/118ac75f67f528620487e760a7072e9f00a4df17)|버튼 위치 수정 및 이름 변경|2|20|16|
+|김동근|[github](https://github.com/ax5ui/ax5ui-kernel/commit/e69ca9d6f4dd0e9aff9a0f1e53e209954a2fa5d0)|변수 명명규칙 변경(callback)|16|122|123|
 
 ## 번역
-|성명|링크|활동내역|파일수|추가된줄수|삭제된줄수|
+|성명|링크|활동내역|파일수|add|del|
 |---|---|---|---|---|---|
-|김동영|https://github.com/ax5ui/ax5ui-kernel/commit/cff06d7fbe80ae8912a7b55c9e2db798b672d555|Documentation Content Fix - ax5ui-select|2|15|16|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/1e28d0289abfa6c1928ea88eccd744785463b08f|Has fixed doc content / ax5ui-mask / further refinement |2|12|11|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/edaace04bab8480129528a404e0dad1eb3666185|Has fixed doc content / ax5ui-mask|1|1|2|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/a5f6f6cbb42e8b953ba9c5e7c0486f5f91f2682b|Has fixed doc content / ax5ui-menu|1|15|15|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/9eb8ccf9cc7b34d138169943b0f83731c9f600ae|Has fixed doc content /ax5ui-mask / CDN urls|1|1|1|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/92ee80d338d7df748665925352892396f46b2802|Has fixed doc content /ax5ui-mask / HTML HEAD|1|3|3|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/a9a10b5e850e251feefa6afc17d24d71c2cbc771|Has fixed doc content /ax5ui-mask / gulp and grunt|1|3|3|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/aff3423ba5b36be22fa553155df8336ffc51fe28|Has fixed doc content /ax5ui-mask / install by npm|1|5|5|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/d485fa133947307d32f3c3c05988870b79c693be|Has fixed doc content _install by bower|1|1|1|
+|김동영|[github](https://github.com/ax5ui/ax5ui-kernel/commit/cff06d7fbe80ae8912a7b55c9e2db798b672d555)|Documentation Content Fix - ax5ui-select|2|15|16|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/1e28d0289abfa6c1928ea88eccd744785463b08f)|Has fixed doc content / ax5ui-mask / further refinement |2|12|11|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/edaace04bab8480129528a404e0dad1eb3666185)|Has fixed doc content / ax5ui-mask|1|1|2|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/a5f6f6cbb42e8b953ba9c5e7c0486f5f91f2682b)|Has fixed doc content / ax5ui-menu|1|15|15|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/9eb8ccf9cc7b34d138169943b0f83731c9f600ae)|Has fixed doc content /ax5ui-mask / CDN urls|1|1|1|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/92ee80d338d7df748665925352892396f46b2802)|Has fixed doc content /ax5ui-mask / HTML HEAD|1|3|3|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/a9a10b5e850e251feefa6afc17d24d71c2cbc771)|Has fixed doc content /ax5ui-mask / gulp and grunt|1|3|3|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/aff3423ba5b36be22fa553155df8336ffc51fe28)|Has fixed doc content /ax5ui-mask / install by npm|1|5|5|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/d485fa133947307d32f3c3c05988870b79c693be)|Has fixed doc content _install by bower|1|1|1|
 
 # 9월 26일
 코드개발 파트와 문서작성 파트가 오프라인 모임을 했습니다.
@@ -124,31 +124,31 @@ https://github.com/ax5ui/ax5ui-kernel/issues/20
 번역 파트는 오늘도 많은 양의 영문 문서 오류를 수정하였습니다.
 
 ## 테스트 코드 작성
-|성명|링크|활동내역|파일수|추가된줄수|삭제된줄수|
+|성명|링크|활동내역|파일수|add|del|
 |---|---|---|---|---|---|
-|박현준|https://github.com/ax5ui/ax5ui-kernel/commit/e16161f7d9e10232857a2c7d3f4a09fd3cbbc300|TODO ax5.util.alert, ax5.util.stopEvent, x5.util.selectRange, ax5.uti…|1|16|0|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/4723168f3028c45cc72216510f089f4ba8ab0925|add ax5.util.css TEST|1|16|0|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/c4d128192d8696839157336c2c88f16a17b390f1|Merge branch 'master' into KOSS-Hackarthon-test|51|668|15658|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/4d6cc885196ea8dcb96ffc9a3594842559720e63|add ax5.util.cssNumber TEST|1|29|0|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/a472cd997b87691fc2faab9276edc2112a910e0a|add ax5.util.findParentNode TEST|2|15|0|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/d7ba9a97b3ed8479034dc80e6573e96e38ee3c24|add ax5.util.xxxCookie TEST|1|14|10|
-| |https://github.com/ax5ui/ax5ui-kernel/commit/beba85380b036a81b4b39a5b2708604de71caff1|add ax5.util.XetCookie TEST|1|18|0|
-|금대건|https://github.com/ax5ui/ax5ui-kernel/commit/292c3c042b371f39a8a3d9c7a98fe4338b2ab950|modify ax5.util.left|1|102|5|
+|박현준|[github](https://github.com/ax5ui/ax5ui-kernel/commit/e16161f7d9e10232857a2c7d3f4a09fd3cbbc300)|TODO ax5.util.alert, ax5.util.stopEvent, x5.util.selectRange, ax5.uti…|1|16|0|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/4723168f3028c45cc72216510f089f4ba8ab0925)|add ax5.util.css TEST|1|16|0|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/c4d128192d8696839157336c2c88f16a17b390f1)|Merge branch 'master' into KOSS-Hackarthon-test|51|668|15658|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/4d6cc885196ea8dcb96ffc9a3594842559720e63)|add ax5.util.cssNumber TEST|1|29|0|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/a472cd997b87691fc2faab9276edc2112a910e0a)|add ax5.util.findParentNode TEST|2|15|0|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/d7ba9a97b3ed8479034dc80e6573e96e38ee3c24)|add ax5.util.xxxCookie TEST|1|14|10|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/beba85380b036a81b4b39a5b2708604de71caff1)|add ax5.util.XetCookie TEST|1|18|0|
+|금대건|[github](https://github.com/ax5ui/ax5ui-kernel/commit/292c3c042b371f39a8a3d9c7a98fe4338b2ab950)|modify ax5.util.left|1|102|5|
 
 ## 문서작성
-|성명|링크|활동내역|파일수|추가된줄수|삭제된줄수|
+|성명|링크|활동내역|파일수|add|del|
 |---|---|---|---|---|---|
-|김동욱|https://github.com/kosslab-kr/ax5ui-quick-start/commit/295947f5a42359ebedebab0772f2fdfba46e857a|doc template add|17|1334|41|
-| |https://github.com/kosslab-kr/ax5ui-quick-start/commit/42a757f6cfc01c04ef0c9c518ffd61e684fc0c79|ax5ui-mask doc add|8|142|83|
-| |https://github.com/kosslab-kr/ax5ui-quick-start/commit/693523a9c34928d8fcb57575d318ab65c1d08993|test|4|159|48|
-|마진형|https://github.com/kosslab-kr/ax5ui-quick-start/commit/3b17fcf6d35f65d06565e4aae31a95cc30bd475d|Ma : mask content and title doc template make|2|17|15|
-| |https://github.com/kosslab-kr/ax5ui-quick-start/commit/147edd443130139f073353daa0679ee69c9dbe24|Update How to install.md|1|84|1|
-|김인영|https://github.com/kosslab-kr/ax5ui-quick-start/commit/47c17f7378db5170720be43fb3b92823fec051c0|Merge branch 'master' of https://github.com/kosslab-kr/ax5ui-quick-start|18|1433|105|
-| |https://github.com/kosslab-kr/ax5ui-quick-start/commit/ea63022d7e33a1789ffd76853dd608212a6e56c1|마크다운 연습2|1|36|0|
+|김동욱|[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/295947f5a42359ebedebab0772f2fdfba46e857a)|doc template add|17|1334|41|
+| |[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/42a757f6cfc01c04ef0c9c518ffd61e684fc0c79)|ax5ui-mask doc add|8|142|83|
+| |[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/693523a9c34928d8fcb57575d318ab65c1d08993)|test|4|159|48|
+|마진형|[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/3b17fcf6d35f65d06565e4aae31a95cc30bd475d)|Ma : mask content and title doc template make|2|17|15|
+| |[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/147edd443130139f073353daa0679ee69c9dbe24)|Update How to install.md|1|84|1|
+|김인영|[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/47c17f7378db5170720be43fb3b92823fec051c0)|Merge branch 'master' of https://github.com/kosslab-kr/ax5ui-quick-start|18|1433|105|
+| |[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/ea63022d7e33a1789ffd76853dd608212a6e56c1)|마크다운 연습2|1|36|0|
 
 ## 코드개발
-|성명|링크|활동내역|파일수|추가된줄수|삭제된줄수|
+|성명|링크|활동내역|파일수|add|del|
 |---|---|---|---|---|---|
-|김동근|https://github.com/ax5ui/ax5ui-kernel/commit/13d5fdc44b81ff225960ebb788e59f156e20e5a1|variable naming rule was applied (#32)|12|236|224|
-|한대승|https://github.com/ax5ui/ax5ui-kernel/commit/5cd458e0b6a99667747a82a99993b729a1c8dfcf|AX5 그리드 PHP 샘플 작성 (#34)|6|290|1|
-|위세라|https://github.com/sera0731/ax5docs/commit/9b343a968c84a5caeccfc43751430506b5e1ee50|Windows 운영체제 경로 오류 수정|1|4|2|
+|김동근|[github](https://github.com/ax5ui/ax5ui-kernel/commit/13d5fdc44b81ff225960ebb788e59f156e20e5a1)|variable naming rule was applied (#32)|12|236|224|
+|한대승|[github](https://github.com/ax5ui/ax5ui-kernel/commit/5cd458e0b6a99667747a82a99993b729a1c8dfcf)|AX5 그리드 PHP 샘플 작성 (#34)|6|290|1|
+|위세라|[github](https://github.com/sera0731/ax5docs/commit/9b343a968c84a5caeccfc43751430506b5e1ee50)|Windows 운영체제 경로 오류 수정|1|4|2|

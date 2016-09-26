@@ -28,3 +28,19 @@ GitHub ID를 확인했습니다:
 네트워크 문제도 있어,
 오늘 설치하지 못한 분들을 위해 설치 매뉴얼을 작성하고
 해당 분들은 각자 집에서 설치를 진행하기로 하였습니다.
+
+# 2016-09-25
+
+일요일이라 쉬었습니다.
+
+# 2016-09-26
+
+[설치 매뉴얼](https://github.com/kosslab-kr/rust/issues/3)에 따라
+설치에 성공했는지 확인했습니다. (7명 확인)
+
+백신 실시간 검사 기능이 켜져 있는 경우
+[설치가 안되는 문제](https://github.com/kosslab-kr/rust/issues/4)가 있어
+rustup 인스톨러 프로젝트에 이슈로 보고했습니다.
+
+[이슈 선정](https://github.com/kosslab-kr/rust/issues/5)
+가이드를 올렸습니다.

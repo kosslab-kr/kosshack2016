@@ -77,6 +77,7 @@
 	- markdown 문법 익히기
 	- github 사용법 및 git 설치 숙지
 	- 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음
+	
 #### Test
 
 - Team Goal

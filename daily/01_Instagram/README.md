@@ -153,3 +153,18 @@
 - 박경원
 	- Git 개념 & 명령어 공부
 	- ES6 문법 공부
+
+## 2016년 9월 26일
+#### Docs
+#### Test
+#### Example(A-Yo)
+- Team Goal
+
+- 개인활동 사항
+	- 이성현
+		- webpack plugin 적용하여 test index 확인
+		- es6문법과 babel에 대한 이해
+		- es6문법으로 간단하게 index 수정
+
+
+#### Task

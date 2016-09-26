@@ -103,7 +103,7 @@
 - Group Goal
 	- GitHub 사용법 숙달
 	- 다른 Open-Source Example 살펴보기
-	- Npm, Gulp 사용하여 Example 수정
+	- Npm, Webpack 사용하여 Example 수정
 
 - 개인활동 사항
 	- 이성현 ([@nygosh](https://github.com/nygosh))

@@ -145,45 +145,66 @@
 
             $updateTime.html((new Date()).toString());
 
+            var list = [];
             $.ajax({
-                url: "https://api.github.com/users/kosslab-kr/events",
+                url: "https://api.github.com/users/ax5ui/events",
                 crossDomain: true, type: 'GET', data: {},
                 success: function (res) {
-
-
                     if (res.message) {
                         myToast.push(res.message);
-                    } else {
-                        myToast.push("최신 데이터를 받아 목록을 갱신하였습니다.");
                     }
+                    list = [].concat(res);
+                    $.ajax({
+                        url: "https://api.github.com/users/kosslab-kr/events",
+                        crossDomain: true, type: 'GET', data: {},
+                        success: function (res) {
+                            list = list.concat(res);
+                            if (res.message) {
+                                myToast.push(res.message);
+                            } else {
+                                myToast.push("최신 데이터를 받아 목록을 갱신하였습니다.");
+                            }
 
-                    var data = {
-                        events: res,
-                        '@getType': function () {
-                            this.type = this.type.replace("Event", "");
-                            return this;
-                        },
-                        '@isThird': function () {
-                            return ((this['@i'] + 1) % 3 == 0);
-                        },
-                        '@htmlURL': function () {
-                            //console.log(this);
-                            this.url = this.url.replace("https://api.", "https://").replace("repos/", "");
-                            return this;
-                        }
-                    };
+                            list.sort(function(a, b){
+                               return a.created_at > b.created_at;
+                            });
 
-                    $result.html(ax5.mustache.render(tmpl, data));
-                    $result.waterfall({
-                        gap: 10,
-                        gridWidth: [0, 400, 600, 800, 1200],
-                        refresh: 500,
-                        scrollbottom: {
-                            ele: $('body'),
-                            endtxt: 'No More~~',
-                            gap: 300
+                            var data = {
+                                events: list,
+                                '@getType': function () {
+                                    this.type = this.type.replace("Event", "");
+                                    return this;
+                                },
+                                '@isThird': function () {
+                                    return ((this['@i'] + 1) % 3 == 0);
+                                },
+                                '@htmlURL': function () {
+                                    //console.log(this);
+                                    this.url = this.url.replace("https://api.", "https://").replace("repos/", "");
+                                    return this;
+                                }
+                            };
+
+                            $result.html(ax5.mustache.render(tmpl, data));
+                            $result.waterfall({
+                                gap: 10,
+                                gridWidth: [0, 400, 600, 800, 1200],
+                                refresh: 500,
+                                scrollbottom: {
+                                    ele: $('body'),
+                                    endtxt: 'No More~~',
+                                    gap: 300
+                                }
+                            });
+
+
                         }
                     });
+
+
+
+
+
 
                 },
                 error: function (jqXHR, textStatus, errorThrown) {

@@ -83,3 +83,24 @@
 		- 기본 src:console -> return으로 수정하여 Example 구성
 
 #### Task
+
+- Team Goal
+	- Webpack 이해하고 사용하기
+	- Git 숙달
+	- ES6 문법에 맞춘 코드 스타일 통일
+
+- 신미르
+	- build script 작성
+	- 안쓰는 gulp logic 제거
+	- 기본 module system example 작성
+	- conflict 제거
+
+- 이태순
+	- Webpack document, 블로그 등을 통해 webpack 구조 이해
+	- build 에 필요한 파일과 develop 에 필요한 파일 분류
+	- Git shell 명령어 공부
+	- ES6 문법 공부 & 문법에 맞게 코드 수정
+
+- 박경원
+	- Git 개념 & 명령어 공부
+	- ES6 문법 공부

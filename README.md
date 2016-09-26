@@ -23,14 +23,14 @@
 * 미래창조과학부 & 정보통신산업진흥원, 한국IT비즈니스진흥협회, 공개SW개발자Lab
 
 ###프로젝트 소개
-1. npm module제작 boilerplate (멘토 강명구)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/01_Instagram/progress.md)
+1. npm module 제작 boilerplate (멘토 강명구)
+	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/01_Instagram/README.md)
 	- [Repository](https://github.com/JeffGuKang/npm-module-es2015-boilerplate)
-    
+
 2. Titanium Boiler Plate Templete (멘토 김동우)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/02_Titanium_Boiler_Plate_Template/2016-09-24.md)
 	- [Repository](https://github.com/appcelerator/titanium_mobile)
-	
+
 3. IoT Labs (멘토 김종광)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-24.md)
 	- [Repository](https://github.com/jongkwang/IoTLabs)
@@ -55,21 +55,21 @@
 	- [활동 내용 Day 1](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md)
 	- [활동 내용 Day 2](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-25.md)
 	- [Repository](https://github.com/soomtong/blititor)
-      
+
 9. Say (멘토 정윤원)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/09_Say/README.md)
 	- [Repository](https://github.com/youknowone/Say)
-      
+
 10. Rust (멘토 서상현)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/10_Rust/README.md)
 	- [Repository](https://github.com/rust-lang/rust)
-      
+
 11. Apache Zeppelin & Project Johanna (멘토 윤제상)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/11_Apache_Zeppelin_Project_Johanna/2016-09-24.md)
 	- [Repository](https://github.com/addnull/johanna)
-	
+
 * 프로젝트에 대한 자세한 내용은 [홈페이지](https://kosshackathon.kr/project)에서 확인
-* 일일 결과보고서 양식은 [블리티터](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md) 참조 
+* 일일 결과보고서 양식은 [블리티터](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md) 참조
 
 ### 시상
 * 개인별 시상
@@ -89,13 +89,13 @@
 ### 프로그램 일정
 
 구분     |시간                  | 주요내용                                 | 비고                         
----------|----------------------|------------------------------------------|------------------------------ 
+---------|----------------------|------------------------------------------|------------------------------
          |13:30~14:00 (30m)     | 등록(SW개발자 또는 일반인)               |                              
          |14:00~14:01 (1m)      | 개막식 개회 선언                         | 사회자                       
          |14:01~14:06 (5m)      | 인사말                                   | IPA                          
          |14:06~14:11 (5m)      | 축사                                     | NIPA                         
-         |14:11~14:31 (20m)     | 강연(공개SW란 무엇인가)                  | 오픈소스 프론티어 1기 신정규 
-         |14:31~15:31 (1H)      | 강연(github 사용법, 공개SW 개발과정)     | 오픈소스 프론티어 3기 송태웅 
+         |14:11~14:31 (20m)     | 강연(공개SW란 무엇인가)                  | 오픈소스 프론티어 1기 신정규
+         |14:31~15:31 (1H)      | 강연(github 사용법, 공개SW 개발과정)     | 오픈소스 프론티어 3기 송태웅
 9/24     |15:31~15:40 (9m)      | Break                                    |                              
 개막식   |15:40~16:00 (20m)     | 멘토 및 프로젝트 소개(11개)              | 사회자                       
          |16:00~16:10 (10m)     | 운영방법안내                             | 사회자                       
@@ -106,8 +106,8 @@
          |                      |                                          |   
 9/24     |                      | 프로젝트 별 작업진행, 질의응답           |   
 ~9/30    |                      |                                          | 사무국  
-프로젝트 |       팀별활동       | 멘토 및 커미터 답변,                     | (기술검증/멘토링/ 
-활동     |                      | github 행사프로젝트 일일활동내용 기록    |  장소 및 운영비 지원) 
+프로젝트 |       팀별활동       | 멘토 및 커미터 답변,                     | (기술검증/멘토링/
+활동     |                      | github 행사프로젝트 일일활동내용 기록    |  장소 및 운영비 지원)
          |                      | 활동마감(9/30, 24:00)                    |   
          |                      |                                          |   
          |10:00~12:00 (2H)      | 팀별 활동내역 심사                       | 멘토단  
@@ -150,4 +150,3 @@
 * 멘토의 재량으로 대회 기간에 1회 이상 오프라인 활동 수행
 * 서울 및 수도권 지역 이외 지방에서 신청한 참가자는 오프라인 모임에 참석 불가능시 화상채팅으로 참여하는 방안으로 진행 (단, 개막식과 시상식은 필수 참석)
 * 멘토는 개막식 때 팀원과 일정을 조정하여, 오프라인 모임날짜를 정하고 운영사무국에 사전 고지함 (*사진촬영 진행)
-      

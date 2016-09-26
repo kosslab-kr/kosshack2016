@@ -28,7 +28,7 @@
 
 ### Docs : 문서 작성 및 Daily Report 관리
 - 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
-- 이기신 (unknow) : Team Leader
+- 이기신 ([@kshinlee](https://github.com/kshinlee)) : Team Leader
 - 최규호 ([@gyuho26](https://github.com/gyuho26))
 - 김강민 ([@kangmin93](https://github.com/kangmin93))
 
@@ -82,8 +82,8 @@
  ![](c-team-collaborator.png)
 
 ## 2016년 9월 25일
-#### Docs
-- 최규호
+### Docs
+- 최규호 ([@gyuho26](https://github.com/gyuho26))
 	- Atom Editor 설치
 	- Slack에 올라온 linter와 linter-eslint 설치
 	- Slack에 올라온 git 관련 블로그 일부 읽음
@@ -92,44 +92,23 @@
 	- Markdown 문법에 관한 간략한 조사
 	- 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음(이메일로 확인)
 
-- 김강민
+- 김강민 ([@kangmin93](https://github.com/kangmin93))
 	- 하루패드 설치
 	- markdown 문법 익히기
 	- github 사용법 및 git 설치 숙지
 	- 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음
 
-#### Example(A-Yo)
-- Team Goal
+### Example(A-Yo)
+- Group Goal
 	- GitHub 사용법 숙달
 	- 다른 Open-Source Example 살펴보기
 	- Npm, Gulp 사용하여 Example 수정
 
 - 개인활동 사항
-	- 이성현
+	- 이성현 ([@nygosh](https://github.com/nygosh))
 		- GitHub Full-Request 요청
 		- Brach로 add, commit, push 등 소스 수정
 		- 기본 `src`폴더 내의 코드들을 `console.log()` 대신 `return`으로 수정하여 Example 구성
 
-
-#### Task
-
-- Team Goal
-	- Webpack 이해하고 사용하기
-	- Git 숙달
-	- ES6 문법에 맞춘 코드 스타일 통일
-
-- 신미르
-	- build script 작성
-	- 안쓰는 gulp logic 제거
-	- 기본 module system example 작성
-	- conflict 제거
-
-- 이태순
-	- Webpack document, 블로그 등을 통해 webpack 구조 이해
-	- build 에 필요한 파일과 develop 에 필요한 파일 분류
-	- Git shell 명령어 공부
-	- ES6 문법 공부 & 문법에 맞게 코드 수정
-
-- 박경원
-	- Git 개념 & 명령어 공부
-	- ES6 문법 공부
+### Task
+### Test

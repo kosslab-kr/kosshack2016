@@ -16,26 +16,27 @@
 # Team
 주로 맡을 역할을 조(Group)단위로 나눴습니다. Git초보분과 숙련자분들을 조마다 함께 배정하였습니다.
 ![team structure](./teamstructure.png)
-### Example(A-Yo) : 예제 코드 작성
-- 조승윤 ([@choseungyoon](https://github.com/choseungyoon)) : Group Leader
-- 성대경 ([@sdk115](https://github.com/sdk115))
-- 이성현 ([@nygosh](https://github.com/nygosh))
+
+### Task : 개발
+- 신미르 ([@TylorShin](https://github.com/TylorShin)) : Group Leader
+- 이태순 ([LeeTaeSoon](https://github.com/LeeTaeSoon))
+- 박경원 ([cosmicboon](https://github.com/cosmicboon))
 
 ### Test : 테스트 코드 작성
 - 오도근 ([ohdoking](https://github.com/ohdoking)) : Group Leader
 - 이현주 ([lacieliz](https://github.com/lacieliz))
 - 이동기 (unknow)
 
+### Example(A-Yo) : 예제 코드 작성
+- 조승윤 ([@choseungyoon](https://github.com/choseungyoon)) : Group Leader
+- 성대경 ([@sdk115](https://github.com/sdk115))
+- 이성현 ([@nygosh](https://github.com/nygosh))
+
 ### Docs : 문서 작성 및 Daily Report 관리
 - 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
 - 이기신 ([@kshinlee](https://github.com/kshinlee)) : Team Leader
 - 최규호 ([@gyuho26](https://github.com/gyuho26))
 - 김강민 ([@kangmin93](https://github.com/kangmin93))
-
-### Task : 개발
-- 신미르 ([@TylorShin](https://github.com/TylorShin)) : Group Leader
-- 이태순 ([LeeTaeSoon](https://github.com/LeeTaeSoon))
-- 박경원 ([cosmicboon](https://github.com/cosmicboon))
 
 ## 일정 목표
 1. 27일까지 [npm-es2015-boilerplate](https://github.com/JeffGuKang/npm-es2015-boilerplate) 릴리즈 첫 버전 배포

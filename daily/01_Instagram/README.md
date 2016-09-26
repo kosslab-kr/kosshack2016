@@ -58,14 +58,23 @@
 - 모든 팀원 Slack에 등록 / Slack에 팀 별 Channel 등록
 - 조별마다 팀의 Github Repository를 포크해서 관리 / 조별 Collaborator 등록
 
-### Task
+#### Task
 - 신미르 : [@TylorShin](https://github.com/TylorShin) : Group Leader
  - [Pull-Request #8](https://github.com/JeffGuKang/npm-module-es2015-boilerplate/pull/8)
 	- Webpack을 통해 Build 및 Dev server를 실행할 수 있도록 해당 packages와 scripts를 추가하였습니다.
 	- `package.json` 을 업데이트하였습니다.
 	- ESLINT 설정을 잡았습니다.
 
-### Docs
+#### TEST
+
+- 오도근
+	- 조원에게 git의 사용법을 알려주고 역할을 분배했습니다.
+	- 역할
+		- 오도근: 테스트툴 조사 후 해당 툴로 테스트 코드 작성
+		- 이동기: 작성된 테스트 코드 리뷰
+		- 이현주: git과 javascript 학습 및 복습 
+
+#### Docs
 * 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
  * [Pull-Request #6](https://github.com/JeffGuKang/npm-module-es2015-boilerplate/pull/6)  : `package.json`에서 `author` 키워드 대신 `contributors`로 변경 후 `author` 목록 추가
  ```js
@@ -82,7 +91,7 @@
  ![](c-team-collaborator.png)
 
 ## 2016년 9월 25일
-### Docs
+#### Docs
 - 최규호 ([@gyuho26](https://github.com/gyuho26))
 	- Atom Editor 설치
 	- Slack에 올라온 linter와 linter-eslint 설치
@@ -98,17 +107,49 @@
 	- github 사용법 및 git 설치 숙지
 	- 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음
 
-### Example(A-Yo)
-- Group Goal
+#### Test
+
+- Team Goal
+	- 해당 boilerpate에 테스트를 할 수 있는 환경 설정을 하고 예제 테스트 코드를 작성한다.
+	
+- 오도근
+	- 테스트 툴 선정 (Karma & jasmine)
+	- 선정 기준: 신뢰도 및 이용 점유율(출처: https://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results)
+	- 테스트 툴 학습 
+	- 테스트 툴 boilerpate 참조(출처: https://github.com/zyml/es6-karma-jasmine-webpack-boilerplate)
+	
+#### Example(A-Yo)
+- Team Goal
 	- GitHub 사용법 숙달
 	- 다른 Open-Source Example 살펴보기
 	- Npm, Gulp 사용하여 Example 수정
 
 - 개인활동 사항
-	- 이성현 ([@nygosh](https://github.com/nygosh))
+	- 이성현
 		- GitHub Full-Request 요청
 		- Brach로 add, commit, push 등 소스 수정
 		- 기본 `src`폴더 내의 코드들을 `console.log()` 대신 `return`으로 수정하여 Example 구성
 
-### Task
-### Test
+
+#### Task
+
+- Team Goal
+	- Webpack 이해하고 사용하기
+	- Git 숙달
+	- ES6 문법에 맞춘 코드 스타일 통일
+
+- 신미르
+	- build script 작성
+	- 안쓰는 gulp logic 제거
+	- 기본 module system example 작성
+	- conflict 제거
+
+- 이태순
+	- Webpack document, 블로그 등을 통해 webpack 구조 이해
+	- build 에 필요한 파일과 develop 에 필요한 파일 분류
+	- Git shell 명령어 공부
+	- ES6 문법 공부 & 문법에 맞게 코드 수정
+
+- 박경원
+	- Git 개념 & 명령어 공부
+	- ES6 문법 공부

@@ -64,6 +64,15 @@
 	- Webpack을 통해 Build 및 Dev server를 실행할 수 있도록 해당 packages와 scripts를 추가하였습니다.
 	- `package.json` 을 업데이트하였습니다.
 	- ESLINT 설정을 잡았습니다.
+	
+#### TEST
+
+- 오도근
+	- 조원에게 git의 사용법을 알려주고 역할을 분배했습니다.
+	- 역할
+		- 오도근: 테스트툴 조사 후 해당 툴로 테스트 코드 작성
+		- 이동기: 작성된 테스트 코드 리뷰
+		- 이현주: git과 javascript 학습 및 복습 
 
 ### Docs
 * 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
@@ -97,7 +106,18 @@
 	- markdown 문법 익히기
 	- github 사용법 및 git 설치 숙지
 	- 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음
+		
+#### Test
 
+- Team Goal
+	- 해당 boilerpate에 테스트를 할 수 있는 환경 설정을 하고 예제 테스트 코드를 작성한다.
+	
+- 오도근
+	- 테스트 툴 선정 (Karma & jasmine)
+	- 선정 기준: 신뢰도 및 이용 점유율(출처: https://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results)
+	- 테스트 툴 학습 
+	- 테스트 툴 boilerpate 참조(출처: https://github.com/zyml/es6-karma-jasmine-webpack-boilerplate)
+	
 #### Example(A-Yo)
 - Team Goal
 	- GitHub 사용법 숙달

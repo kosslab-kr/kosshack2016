@@ -93,7 +93,7 @@ https://github.com/ax5ui/ax5ui-kernel/issues/20
 |김동욱(sksdong)|https://github.com/kosslab-kr/ax5ui-quick-start/commit/fdf6603e40e6bb973609ffa90623bf0c202ac776|화면 바뀌는지 시도..|7|309|136|
 | |https://github.com/kosslab-kr/ax5ui-quick-start/commit/9fdb3ee8249be2da293d18cb9c1dec6791fb7373|add menu|1|31|0|
 | |https://github.com/kosslab-kr/ax5ui-quick-start/commit/c0a2aa5d83c03e3346a699f1d08686c1f1e8cf43|npm and gulp install doc|3|39|4|
-|마진형|https://github.com/kosslab-kr/ax5ui-quick-start/commit/fdbaea155d417b8fc216909272fa9ff6e5b31a33|Ma || howtoinstall tmpfile|1|1|0|
+|마진형|https://github.com/kosslab-kr/ax5ui-quick-start/commit/fdbaea155d417b8fc216909272fa9ff6e5b31a33|Ma howtoinstall tmpfile|1|1|0|
 
 ## 코드개발
 |성명|링크|활동내역|파일수|추가된줄수|삭제된줄수|
@@ -115,3 +115,40 @@ https://github.com/ax5ui/ax5ui-kernel/issues/20
 | |https://github.com/ax5ui/ax5ui-kernel/commit/a9a10b5e850e251feefa6afc17d24d71c2cbc771|Has fixed doc content /ax5ui-mask / gulp and grunt|1|3|3|
 | |https://github.com/ax5ui/ax5ui-kernel/commit/aff3423ba5b36be22fa553155df8336ffc51fe28|Has fixed doc content /ax5ui-mask / install by npm|1|5|5|
 | |https://github.com/ax5ui/ax5ui-kernel/commit/d485fa133947307d32f3c3c05988870b79c693be|Has fixed doc content _install by bower|1|1|1|
+
+# 9월 26일
+코드개발 파트와 문서작성 파트가 오프라인 모임을 했습니다.
+코드개발 파트는 AX5UI개발을 위해 필요한 지식과 UI라이브러리 개발 배경 등 3시간이 넘는 긴 설명과 작업을 진행 하였습니다. 그 결과 현재 버전의 파일 구조에서 개선된 부분을 정리하여 각자 나누어 작업을 진행 하기로 하였습니다.
+문서작성 파트는 문서에 IA를 확정하고 필요한 설명에 대해 정리 작업을 3시간 넘게 진행했습니다.
+테스트코드 작성 파트는 지루하고도 어려운 테스트 코드 작성을 오늘도 어김없이 진행 하였습니다.
+번역 파트는 오늘도 많은 양의 영문 문서 오류를 수정하였습니다.
+
+## 테스트 코드 작성
+|성명|링크|활동내역|파일수|추가된줄수|삭제된줄수|
+|---|---|---|---|---|---|
+|박현준|https://github.com/ax5ui/ax5ui-kernel/commit/e16161f7d9e10232857a2c7d3f4a09fd3cbbc300|TODO ax5.util.alert, ax5.util.stopEvent, x5.util.selectRange, ax5.uti…|1|16|0|
+| |https://github.com/ax5ui/ax5ui-kernel/commit/4723168f3028c45cc72216510f089f4ba8ab0925|add ax5.util.css TEST|1|16|0|
+| |https://github.com/ax5ui/ax5ui-kernel/commit/c4d128192d8696839157336c2c88f16a17b390f1|Merge branch 'master' into KOSS-Hackarthon-test|51|668|15658|
+| |https://github.com/ax5ui/ax5ui-kernel/commit/4d6cc885196ea8dcb96ffc9a3594842559720e63|add ax5.util.cssNumber TEST|1|29|0|
+| |https://github.com/ax5ui/ax5ui-kernel/commit/a472cd997b87691fc2faab9276edc2112a910e0a|add ax5.util.findParentNode TEST|2|15|0|
+| |https://github.com/ax5ui/ax5ui-kernel/commit/d7ba9a97b3ed8479034dc80e6573e96e38ee3c24|add ax5.util.xxxCookie TEST|1|14|10|
+| |https://github.com/ax5ui/ax5ui-kernel/commit/beba85380b036a81b4b39a5b2708604de71caff1|add ax5.util.XetCookie TEST|1|18|0|
+|금대건|https://github.com/ax5ui/ax5ui-kernel/commit/292c3c042b371f39a8a3d9c7a98fe4338b2ab950|modify ax5.util.left|1|102|5|
+
+## 문서작성
+|성명|링크|활동내역|파일수|추가된줄수|삭제된줄수|
+|---|---|---|---|---|---|
+|김동욱|https://github.com/kosslab-kr/ax5ui-quick-start/commit/295947f5a42359ebedebab0772f2fdfba46e857a|doc template add|17|1334|41|
+| |https://github.com/kosslab-kr/ax5ui-quick-start/commit/42a757f6cfc01c04ef0c9c518ffd61e684fc0c79|ax5ui-mask doc add|8|142|83|
+| |https://github.com/kosslab-kr/ax5ui-quick-start/commit/693523a9c34928d8fcb57575d318ab65c1d08993|test|4|159|48|
+|마진형|https://github.com/kosslab-kr/ax5ui-quick-start/commit/3b17fcf6d35f65d06565e4aae31a95cc30bd475d|Ma : mask content and title doc template make|2|17|15|
+| |https://github.com/kosslab-kr/ax5ui-quick-start/commit/147edd443130139f073353daa0679ee69c9dbe24|Update How to install.md|1|84|1|
+|김인영|https://github.com/kosslab-kr/ax5ui-quick-start/commit/47c17f7378db5170720be43fb3b92823fec051c0|Merge branch 'master' of https://github.com/kosslab-kr/ax5ui-quick-start|18|1433|105|
+| |https://github.com/kosslab-kr/ax5ui-quick-start/commit/ea63022d7e33a1789ffd76853dd608212a6e56c1|마크다운 연습2|1|36|0|
+
+## 코드개발
+|성명|링크|활동내역|파일수|추가된줄수|삭제된줄수|
+|---|---|---|---|---|---|
+|김동근|https://github.com/ax5ui/ax5ui-kernel/commit/13d5fdc44b81ff225960ebb788e59f156e20e5a1|variable naming rule was applied (#32)|12|236|224|
+|한대승|https://github.com/ax5ui/ax5ui-kernel/commit/5cd458e0b6a99667747a82a99993b729a1c8dfcf|AX5 그리드 PHP 샘플 작성 (#34)|6|290|1|
+|위세라|https://github.com/sera0731/ax5docs/commit/9b343a968c84a5caeccfc43751430506b5e1ee50|Windows 운영체제 경로 오류 수정|1|4|2|

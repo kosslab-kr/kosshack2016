@@ -54,6 +54,7 @@
 8. 블리티터 (멘토 주영택)
 	- [활동 내용 Day 1](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md)
 	- [활동 내용 Day 2](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-25.md)
+	- [활동 내용 Day 3](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-26.md)
 	- [Repository](https://github.com/soomtong/blititor)
 
 9. Say (멘토 정윤원)

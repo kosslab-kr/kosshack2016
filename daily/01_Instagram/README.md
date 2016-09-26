@@ -170,12 +170,12 @@
 
 - 이태순
 	- Webpack 공부
-    - 프로젝트 폴더 정리
-        - 사용하지 않던 이전 파일 삭제
-        - scripts, src, views 폴더를 기본으로 파일 정리
+	- 프로젝트 폴더 정리
+		- 사용하지 않던 이전 파일 삭제
+		- scripts, src, views 폴더를 기본으로 파일 정리
 
 - 박경원
 	- github 실습
 	- npm 개념
-    - es6 의 차이점과 promise 개념
-    - Webpack과 babel 의 관계 이해
+	- es6 의 차이점과 promise 개념
+	- Webpack과 babel 의 관계 이해

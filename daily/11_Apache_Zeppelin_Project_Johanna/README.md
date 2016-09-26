@@ -144,6 +144,7 @@
                 - 기타 4건의 이슈 지적
                 - 코드 관련 진행방향 추가 논의는 27일에 진행하기로 함
     - 사진
+    ![alt text](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/11_Apache_Zeppelin_Project_Johanna/photo/20160926_202853.jpg, "20160926_202853.jpg")
 
 ### 2016-09-27
 

@@ -136,11 +136,13 @@
                 - [Zeppelin 최신 Documentation](https://zeppelin.apache.org/docs/0.7.0-SNAPSHOT/)에서 작업할 만한 부분에 대한 사전리뷰 요청
                     - Quick Start 메뉴 이하 문서들
                     - More 메뉴 -> Contribution Guide 부분
-                - 27일 오피스 아워에 최신 사전 리뷰한 부분에 대해서 번역 및 수정 작업을 시작
+                - 27일 오피스 아워에 최신 사전 리뷰한 부분에 대해서 번역 및 수정거리 정리
+                - 정리 후 각자 번역 및 수정 작업을 시작, 목요일까지 PR을 보내는것을 목표
             - Johanna (한종원, 전지성, 권민재, 유주원)
                 - Virtual Box 환경에서 Vagrant를 설치 및 실습하는 연습을 진행
                 - 설치 과정에서 [SSH Phase Phrase 문제 발견](https://github.com/addnull/johanna/issues/19)
                 - 기타 4건의 이슈 지적
+                - 코드 관련 진행방향 추가 논의는 27일에 진행하기로 함
     - 사진
 
 ### 2016-09-27

@@ -72,7 +72,7 @@
 	- 역할
 		- 오도근: 테스트툴 조사 후 해당 툴로 테스트 코드 작성
 		- 이동기: 작성된 테스트 코드 리뷰
-		- 이현주: git과 javascript 학습 및 복습 
+		- 이현주: git과 javascript 학습 및 복습
 
 #### Docs
 * 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
@@ -111,13 +111,13 @@
 
 - Team Goal
 	- 해당 boilerpate에 테스트를 할 수 있는 환경 설정을 하고 예제 테스트 코드를 작성한다.
-	
+
 - 오도근
 	- 테스트 툴 선정 (Karma & jasmine)
 	- 선정 기준: 신뢰도 및 이용 점유율(출처: https://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results)
-	- 테스트 툴 학습 
+	- 테스트 툴 학습
 	- 테스트 툴 boilerpate 참조(출처: https://github.com/zyml/es6-karma-jasmine-webpack-boilerplate)
-	
+
 #### Example(A-Yo)
 - Team Goal
 	- GitHub 사용법 숙달
@@ -153,3 +153,9 @@
 - 박경원
 	- Git 개념 & 명령어 공부
 	- ES6 문법 공부
+
+  ## 2016년 9월 26일
+  #### Docs
+  - 최규호 ([@gyuho26](https://github.com/gyuho26))
+    - Github 사용법 숙지
+    - CMD로 Pull requests 전송

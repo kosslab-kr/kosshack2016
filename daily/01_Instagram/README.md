@@ -16,7 +16,7 @@
 
 ## Repository
 
-[JeffGuKang/NPM-es2015-boilerplate](https://github.com/JeffGuKang/NPM-es2015-boilerplate)
+[JeffGuKang/npm-webpack-boilerplate](https://github.com/JeffGuKang/npm-webpack-boilerplate)
 
 # Team
 주로 맡을 역할을 조(Group) 단위로 나눴습니다. Git 초보분과 숙련자분들을 조마다 함께 배정하였습니다.
@@ -49,12 +49,12 @@
 
 ## 일정 목표
 
-1. 27일까지 [npm-es2015-boilerplate](https://github.com/JeffGuKang/NPM-es2015-boilerplate) 릴리즈 첫 버전 배포
-2. 30일까지 [릴리즈 버전을 기반](https://github.com/JeffGuKang/NPM-es2015-boilerplate)으로 새로운 모듈 생성 및 NPM 업로드
+1. 27일까지 [npm-webpack-boilerplate](https://github.com/JeffGuKang/npm-webpack-boilerplate) 릴리즈 첫 버전 배포
+2. 30일까지 [릴리즈 버전을 기반](https://github.com/JeffGuKang/npm-webpack-boilerplate)으로 새로운 모듈 생성 및 NPM 업로드
 
 ## Project
 
-> [npm-es2015-boilerplate](https://github.com/JeffGuKang/NPM-es2015-boilerplate)를 기반으로 한 새 모듈의 개발 방향을 작성합니다.
+> [npm-webpack-boilerplate](https://github.com/JeffGuKang/npm-webpack-boilerplate)를 기반으로 한 새 모듈의 개발 방향을 작성합니다.
 
 ## 온라인 커뮤니케이션
 
@@ -73,7 +73,7 @@
 #### Task
 
 - 신미르 : [@TylorShin](https://github.com/TylorShin) : Group Leader
- - [Pull-Request #8](https://github.com/JeffGuKang/NPM-module-es2015-boilerplate/pull/8)
+ - [Pull-Request #8](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/8)
 	- Webpack을 통해 Build 및 Dev server를 실행할 수 있도록 해당 Packages와 Scripts를 추가하였습니다.
 	- `package.json` 을 업데이트하였습니다.
 	- ESLINT 설정을 잡았습니다.
@@ -90,16 +90,16 @@
 #### Docs
 *
 * 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
- * [Pull-Request #6](https://github.com/JeffGuKang/NPM-module-es2015-boilerplate/pull/6)  : `package.json`에서 `author` 키워드 대신 `contributors`로 변경 후 `author` 목록 추가
+ * [Pull-Request #6](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/6)  : `package.json`에서 `author` 키워드 대신 `contributors`로 변경 후 `author` 목록 추가
  ```js
  "contributors": {
 	 "author": "Jeff Gu Kang",
 	 "author": "Muhun Kim <muhun.kim@gmail.com> (http://blog.muhun.kim)"
  },
  ```
- * [Pull-Request #8](https://github.com/JeffGuKang/NPM-module-es2015-boilerplate/pull/8#pullrequestreview-1436878) 코드리뷰 : Git을 시험삼아 쓰기 위해 Git 초보분들이 수정한 코드를 직접 원래대로 되돌리는것도 좋을거라는 의견을 남겼습니다.
-   * 해당 의견을 바탕으로 [Issue #11](https://github.com/JeffGuKang/NPM-module-es2015-boilerplate/issues/11) 생성
-	 * 해결이 완료된걸 [코드리뷰로 확인함](https://github.com/JeffGuKang/NPM-module-es2015-boilerplate/pull/12#pullrequestreview-1453734)
+ * [Pull-Request #8](https://github.com/JeffGuKang/npm-module-es2015-boilerplate/pull/8#pullrequestreview-1436878) 코드리뷰 : Git을 시험삼아 쓰기 위해 Git 초보분들이 수정한 코드를 직접 원래대로 되돌리는것도 좋을거라는 의견을 남겼습니다.
+   * 해당 의견을 바탕으로 [Issue #11](https://github.com/JeffGuKang/npm-module-es2015-boilerplate/issues/11) 생성
+	 * 해결이 완료된걸 [코드리뷰로 확인함](https://github.com/JeffGuKang/npm-module-es2015-boilerplate/pull/12#pullrequestreview-1453734)
 
 ## 2016년 9월 25일
 ### Docs
@@ -120,7 +120,7 @@
 	- Atom Editor 설치
 	- Slack에 올라온 linter와 linter-eslint 설치
 	- Slack에 올라온 Git 관련 블로그 일부 읽음
-	- Github에서 Docs Group의 저장소인 [MuhunKim/NPM-gulp-es2015-boilerplate](hthttps://github.com/MuhunKim/NPM-gulp-es2015-boilerplate)가 갱신되는것을 확인받기 위해 watch 눌러놓음
+	- Github에서 Docs Group의 저장소인 [MuhunKim/npm-gulp-es2015-boilerplate](hthttps://github.com/MuhunKim/npm-gulp-es2015-boilerplate)가 갱신되는것을 확인받기 위해 watch 눌러놓음
 	- 'OneTeam'의 사전지식에 적혀있는 [Airbnb/JavaScript](https://github.com/tipjs/javascript-style-guide)에 대한 부분 일부 읽음
 	- Markdown 문법에 관한 간략한 조사
 
@@ -205,7 +205,7 @@
  :page_with_curl: Boilerplate for npm/node module. Write with webpack & ES6
  ```
  * [Pull-Request #23](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/23) : `README.md` 재작성 및 `package.json`에 조장들의 이름을 `contributors`에 추가함
- * [Pull-Request #22](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/22#discussion_r80473266)(테스트 환경 구축) 코드리뷰
+ * [Pull-Request #22](https://github.com/JeffGuKang/npm-webpack-boilserplate/pull/22#discussion_r80473266)(테스트 환경 구축) 코드리뷰
  * #8 : `daily/01_instagram` 문서를 전체적으로 교정함
    * 링크 걸기 & 팀원 Tagging
    * 보고서 이름을 `README.md`로 변경
@@ -285,6 +285,6 @@
 
 - 개인활동 사항
 	- 이성현
-		- karma로 테스트 실행(npm run test)
+		- karma로 테스트 실행(`npm run test`)
 		- FireFox, 크롬 미설치시 버그 발견, 이슈 작성
 		- 오프라인 모임!!(사진 개인적으로 전송 부탁드립니다.^^)

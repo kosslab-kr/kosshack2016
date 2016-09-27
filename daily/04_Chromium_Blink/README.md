@@ -2,18 +2,18 @@
 Slack에서 온라인으로 진행
 ## Contribution 목록
 * 이환승님
-        - https://codereview.chromium.org/2369733002/ (Landed)
-        - https://codereview.chromium.org/2370613002/ (Landed)
+	- https://codereview.chromium.org/2369733002/ (Landed)
+	- https://codereview.chromium.org/2370613002/ (Landed)
 	- https://codereview.chromium.org/2370623003/ (In review)
 * 나동희님
-        - https://codereview.chromium.org/2362323003/ (Landed)
+	- https://codereview.chromium.org/2362323003/ (Landed)
 	- https://codereview.chromium.org/2370633002/ (In review)
 	- https://codereview.chromium.org/2375583002/ (In review)
 	- https://codereview.chromium.org/2366383003/ (In review)
 * 김기황님
-        - https://codereview.chromium.org/2370503003/ (N/A)
+	- https://codereview.chromium.org/2370503003/ (N/A)
 * 조희원님
-        - https://codereview.chromium.org/2369453006/ (N/A)
+	- https://codereview.chromium.org/2369453006/ (N/A)
 	- https://codereview.chromium.org/2371573002/ (In review)
 	- https://codereview.chromium.org/2372913002/ (In review)
 	- https://bugs.chromium.org/p/chromium/issues/detail?id=649938
@@ -25,17 +25,17 @@ Slack에서 온라인으로 진행
 Slack에서 온라인으로 진행
 ## Contribution 목록
 * 이환승님
-        - https://codereview.chromium.org/2369733002/ (Landed)
-        - https://codereview.chromium.org/2370613002/ (Landed)
+	- https://codereview.chromium.org/2369733002/ (Landed)
+	- https://codereview.chromium.org/2370613002/ (Landed)
 	- https://codereview.chromium.org/2370623003/ (In review)
 * 나동희님
-        - https://codereview.chromium.org/2362323003/ (Landed)
+	- https://codereview.chromium.org/2362323003/ (Landed)
 	- https://codereview.chromium.org/2370633002/ (In review)
 	- 
 * 김기황님
-        - https://codereview.chromium.org/2370503003/ (N/A)
+	- https://codereview.chromium.org/2370503003/ (N/A)
 * 조희원님
-        - https://codereview.chromium.org/2369453006/ (N/A)
+	- https://codereview.chromium.org/2369453006/ (N/A)
 	- https://codereview.chromium.org/2371573002/ (In review)
 	- https://bugs.chromium.org/p/chromium/issues/detail?id=649938
 * 박열님, 도창욱님, 이수정님 Issue 진행 중
@@ -45,16 +45,16 @@ Slack에서 온라인으로 진행
 Slack에서 온라인으로 진행
 ## Contribution 목록
 * 이환승님
-        - https://codereview.chromium.org/2369733002/ (Landed)
-        - https://codereview.chromium.org/2370613002/ (Landed)
+	- https://codereview.chromium.org/2369733002/ (Landed)
+	- https://codereview.chromium.org/2370613002/ (Landed)
 	- https://codereview.chromium.org/2370623003/ (In review)
 * 나동희님
-        - https://codereview.chromium.org/2362323003/ (Landed)
+	- https://codereview.chromium.org/2362323003/ (Landed)
 	- https://codereview.chromium.org/2370633002/ (In review)
 * 김기황님
-        - https://codereview.chromium.org/2370503003/ (N/A)
+	- https://codereview.chromium.org/2370503003/ (N/A)
 * 조희원님
-        - https://codereview.chromium.org/2369453006/ (N/A)
+	- https://codereview.chromium.org/2369453006/ (N/A)
 	- https://codereview.chromium.org/2371573002/ (In review)
 	- https://bugs.chromium.org/p/chromium/issues/detail?id=649938
 * 박열님, 도창욱님 Issue 진행 중

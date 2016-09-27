@@ -152,3 +152,8 @@ https://github.com/ax5ui/ax5ui-kernel/issues/20
 |김동근|[github](https://github.com/ax5ui/ax5ui-kernel/commit/13d5fdc44b81ff225960ebb788e59f156e20e5a1)|variable naming rule was applied (#32)|12|236|224|
 |한대승|[github](https://github.com/ax5ui/ax5ui-kernel/commit/5cd458e0b6a99667747a82a99993b729a1c8dfcf)|AX5 그리드 PHP 샘플 작성 (#34)|6|290|1|
 |위세라|[github](https://github.com/sera0731/ax5docs/commit/9b343a968c84a5caeccfc43751430506b5e1ee50)|Windows 운영체제 경로 오류 수정|1|4|2|
+
+## 번역
+|성명|링크|활동내역|파일수|add|del|
+|---|---|---|---|---|---|
+|김동영|[github](https://github.com/ax5ui/ax5ui-kernel/commit/92b80123f2c47e9c0d374c1173fff7db8c624a08)|Documentation Content Fix - ax5ui-media-viewer (#35)|2|16|15|

@@ -160,14 +160,14 @@
             - Zeppelin 문서 리눅스 머신에서 Build 체험을 마무리 (26일 OS문제로 셋업불가)
             - Johanna Vagrant상 셋업 완료
         - 프로젝트별 이슈 할당
-            - Zeppelin 문서 분장
+            - Zeppelin 문서 분장 (메뉴별 마크다운 문서 수정)
                 - Quick Start 메뉴
                     - What is Zeppelin (이선미)
                     - Getting Started
-                        - Install
-                        - Configuration
-                        - Explore Zeppelin UI
-                        - Tutorial
+                        - Install (이선미)
+                        - Configuration (이선미)
+                        - Explore Zeppelin UI (이선미)
+                        - Tutorial (이선미)
                     - Basic Feature Guide
                         - Dynamic Form (강현정)
                         - Publish Your  (강현정)
@@ -176,8 +176,8 @@
                         - Upgrade Version (강현정)
                 - More
                     - Contribute
-                        - Writing Zeppelin Interpreter
-                        - Writing Zeppelin Application
-                        - How to Contribute - Code
-                        - How to Contribute - Website
+                        - Writing Zeppelin Interpreter (전지성)
+                        - Writing Zeppelin Application (전지성)
+                        - How to Contribute - Code (전지성)
+                        - How to Contribute - Website (전지성)
         - 기 PR 리뷰

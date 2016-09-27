@@ -178,6 +178,6 @@
                     - Contribute
                         - Writing Zeppelin Interpreter
                         - Writing Zeppelin Application
-                        - How to Contribute <Code>
-                        - How to Contribute <Website>
+                        - How to Contribute - Code
+                        - How to Contribute - Website
         - 기 PR 리뷰

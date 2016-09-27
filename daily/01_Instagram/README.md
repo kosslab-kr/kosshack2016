@@ -3,7 +3,7 @@
 - 각자 기여할 수 있는 부분에 꾸준히 기여를 해보자.
 - 서로 부족한 부분, 혹은 발전될 부분을 도와주자.
 - **모두 빠짐없이** 프로젝트에 자신의 흔적을 남기자.
-- 첫번째 릴리즈 버전 배포
+- 첫 번째 릴리즈 버전 배포
 
 ## 사전지식
 - Git / Github / Markdown
@@ -14,7 +14,7 @@
 [JeffGuKang/npm-es2015-boilerplate](https://github.com/JeffGuKang/npm-es2015-boilerplate)
 
 # Team
-주로 맡을 역할을 조(Group)단위로 나눴습니다. Git초보분과 숙련자분들을 조마다 함께 배정하였습니다.
+주로 맡을 역할을 조(Group) 단위로 나눴습니다. Git 초보분과 숙련자분들을 조마다 함께 배정하였습니다.
 ![team structure](./teamstructure.png)
 
 ### Task : 개발
@@ -52,12 +52,12 @@
 - Github : 이슈 코멘트 / Pull-Request 코드 리뷰
 
 ## 2016년 9월 24일
-- 해카톤 개회식 당일
-- 자기소개 및 의견 발표 겸 토론
-- 조 모집 브리핑 : 자유의사에 의한 팀 분할
-- 팀별 목표 설정 / 역할 분배
-- 모든 팀원 Slack에 등록 / Slack에 팀 별 Channel 등록
-- 조별마다 팀의 Github Repository를 포크해서 관리 / 조별 Collaborator 등록
+* 해커톤 개회식 당일
+* 자기소개 및 의견 발표 겸 토론
+* 조 모집 브리핑 : 자유의사에 의한 팀 분할
+* 팀별 목표 설정 / 역할 분배
+* 모든 팀원 Slack에 등록 / Slack에 팀별 Channel 등록
+* 조별마다 팀의 Github Repository를 포크 해서 관리 / 조별 Collaborator 등록
 
 ### Task
 - 신미르 : [@TylorShin](https://github.com/TylorShin) : Group Leader
@@ -75,15 +75,16 @@
 	 "author": "Muhun Kim <muhun.kim@gmail.com> (http://blog.muhun.kim)"
  },
  ```
- * [Pull-Request #8](https://github.com/JeffGuKang/npm-module-es2015-boilerplate/pull/8#pullrequestreview-1436878) 코드리뷰 : Git을 시험삼아 쓰기 위해 Git 초보분들이 수정한 코드를 자신이 직접 원래대로 되돌리는것도 좋을거라는 의견을 남겼습니다.
+ * [Pull-Request #8](https://github.com/JeffGuKang/npm-module-es2015-boilerplate/pull/8#pullrequestreview-1436878) 코드리뷰 : Git을 시험삼아 쓰기 위해 Git 초보분들이 수정한 코드를 직접 원래대로 되돌리는것도 좋을거라는 의견을 남겼습니다.
    * 해당 의견을 바탕으로 [Issue #11](https://github.com/JeffGuKang/npm-module-es2015-boilerplate/issues/11) 생성
-	 * [@JeffGuKang](https://github.com/JeffGuKang)님이 해당 의견을 바탕으로 [이슈를 만들어보라고](https://github.com/JeffGuKang/npm-module-es2015-boilerplate/pull/8#discussion_r80363459) 해서 만듬
-	 * 문제 해결이 완료된걸 [코드리뷰로 확인함](https://github.com/JeffGuKang/npm-module-es2015-boilerplate/pull/12#pullrequestreview-1453734)
- * 팀원들에게 Collaborator 권한 부여
- ![](c-team-collaborator.png)
+	 * 해결이 완료된걸 [코드리뷰로 확인함](https://github.com/JeffGuKang/npm-module-es2015-boilerplate/pull/12#pullrequestreview-1453734)
 
 ## 2016년 9월 25일
 ### Docs
+* 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
+ * 팀원들에게 Collaborator 권한 부여
+ ![](./c-team-collaborator.png)
+
 - 최규호 ([@gyuho26](https://github.com/gyuho26))
 	- Atom Editor 설치
 	- Slack에 올라온 linter와 linter-eslint 설치

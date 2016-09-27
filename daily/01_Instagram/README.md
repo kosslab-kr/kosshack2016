@@ -233,6 +233,7 @@
 	- es6 의 차이점과 promise 개념
 	- Webpack과 babel 의 관계 이해
 
+<<<<<<< HEAD
   ## 2016년 9월 27일
 
   #### Task
@@ -245,3 +246,42 @@
   - 박경원
     - pr을 위한 프로세스 이해 및 실습
     - 히스토리 보며 코드 비교 학습
+=======
+### 9월 27일
+
+#### Docs
+
+- 최규호 ([@gyuho26](https://github.com/gyuho26))
+	- Github 사용법 숙지
+	- Git 명령어 공부
+	- daily report 갱신을 위해 original repository에 pull request.
+
+#### Example(A-Yo)
+
+- Team Goal
+
+- 개인활동 사항
+	- 이성현
+		- karma로 테스트 실행(npm run test)
+		- FireFox, 크롬 미설치시 버그 발견, 이슈 작성
+		- 오프라인 모임!!(사진 개인적으로 전송 부탁드립니다.^^)
+>>>>>>> eda9977f4743e8ad307025b94800f9dcd0c7feb2
+
+#### Task
+
+- Team Goal
+	- Webpack 이해하고 사용하기
+	- Git 숙달
+	- ES6 문법에 맞춘 코드 스타일 통일
+
+- 신미르
+  - Git 정리
+  - mocha + chai + sinon 을 통한 일반적인 JS unit test 구성에 대한 공부
+
+- 이태순
+	- 멘토님이랑 깃 이랑 npm 에 대해 정리
+	- git & npm  전체적인 흐름 복습
+
+- 박경원
+	- github를 통한 Pull-Request 연습(DailyReport)
+	- 수정된 코드 모니터링 및 비교

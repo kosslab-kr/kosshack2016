@@ -67,7 +67,7 @@
 - Github : 이슈 코멘트 / Pull-Request 코드 리뷰
 
 ## 2016년 9월 24일
-<<<<<<< HEAD
+
 * 해커톤 개회식 당일
 * 자기소개 및 의견 발표 겸 토론
 * 조 모집 브리핑 : 자유의사에 의한 팀 분할
@@ -107,7 +107,6 @@
 	 * 해결이 완료된걸 [코드리뷰로 확인함](https://github.com/JeffGuKang/npm-module-es2015-boilerplate/pull/12#pullrequestreview-1453734)
 
 ## 2016년 9월 25일
-<<<<<<< HEAD
 ### Docs
 * 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
  * 팀원들에게 Collaborator 권한 부여

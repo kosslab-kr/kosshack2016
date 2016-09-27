@@ -97,9 +97,9 @@
 	 "author": "Muhun Kim <muhun.kim@gmail.com> (http://blog.muhun.kim)"
  },
  ```
- * [Pull-Request #8](https://github.com/JeffGuKang/npm-module-es2015-boilerplate/pull/8#pullrequestreview-1436878) 코드리뷰 : Git을 시험삼아 쓰기 위해 Git 초보분들이 수정한 코드를 직접 원래대로 되돌리는것도 좋을거라는 의견을 남겼습니다.
-   * 해당 의견을 바탕으로 [Issue #11](https://github.com/JeffGuKang/npm-module-es2015-boilerplate/issues/11) 생성
-	 * 해결이 완료된걸 [코드리뷰로 확인함](https://github.com/JeffGuKang/npm-module-es2015-boilerplate/pull/12#pullrequestreview-1453734)
+ * [Pull-Request #8](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/8#pullrequestreview-1436878) 코드리뷰 : Git을 시험삼아 쓰기 위해 Git 초보분들이 수정한 코드를 직접 원래대로 되돌리는것도 좋을거라는 의견을 남겼습니다.
+   * 해당 의견을 바탕으로 [Issue #11](https://github.com/JeffGuKang/npm-webpack-boilerplate/issues/11) 생성
+	 * 해결이 완료된걸 [코드리뷰로 확인함](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/12#pullrequestreview-1453734)
 
 ## 2016년 9월 25일
 ### Docs
@@ -138,7 +138,7 @@
    - 일일 보고서를 작성하기 위해 [kosslab-kr/kosshack2016](https://github.com/kosslab-kr/kosshack2016) 저장소를 포크함
    - `git clone`, `add` , `commit`, `push`를 직접 해보고 Pull-Request를 전송함
 
-#### Test
+### Test
 
 - **Group Goal**
 	- 해당 boilerpate에 테스트를 할 수 있는 환경 설정을 하고 예제 테스트 코드를 작성한다.
@@ -149,7 +149,7 @@
 	- 테스트 도구 학습
 	- 테스트 도구 boilerpate 참조(출처: https://github.com/zyml/es6-karma-jasmine-webpack-boilerplate)
 
-#### Example(A-Yo)
+### Example(A-Yo)
 
 - **Group Goal**
 	- GitHub 사용법 숙달
@@ -170,7 +170,7 @@
 		- Github 기본 개념 학습
 		- 자바스크립트 기본 개념 학습
 
-#### Task
+### Task
 
 - **Group Goal**
 	- Webpack 이해하고 사용하기
@@ -194,7 +194,7 @@
 	- ES6 문법 공부
 
 ## 2016년 9월 26일
-#### Docs
+### Docs
 * Group Goal
  * `README.md` 작성
  * daily Report 교정
@@ -215,9 +215,17 @@
   - Github 사용법 숙지
   - CMD로 Pull-Request 전송
 
-#### Test
+### Test
+- Team Goal
+	- 해당 boilerpate에 테스트를 할 수 있는 환경 설정을 하고 예제 테스트 코드를 작성한다.
 
-#### Example(A-Yo)
+- 오도근
+	- 테스트 툴 선정 (Karma & jasmine)
+	- 선정 기준: 신뢰도 및 이용 점유율(출처: https://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results)
+	- 테스트 툴 학습
+	- 테스트 툴 boilerpate 참조(출처: https://github.com/zyml/es6-karma-jasmine-webpack-boilerplate)
+
+### Example(A-Yo)
 
 - Team Goal
   - Webpack 이해
@@ -237,7 +245,7 @@
 		- ES6문법으로 간단하게 index 수정
 
 
-#### Task
+### Task
 
 - Team Goal
 	- Webpack 이해하고 사용하기
@@ -261,10 +269,10 @@
 	- ES6 의 차이점과 promise 개념
 	- Webpack과 Babel 의 관계 이해
 
-### 9월 27일
+## 2016년 9월 27일
 
-#### Docs
-* Group Goal
+### Docs
+* **Group Goal**
  * `README.md` 내용 보충 및 업데이트
  * 오타 고치기
 
@@ -277,9 +285,9 @@
 - 최규호 ([@gyuho26](https://github.com/gyuho26))
 	- Github 사용법 숙지
 	- Git 명령어 공부
-	- daily report 갱신을 위해 original repository에 pull request.
+	- daily report 갱신을 위해 original repository에 Pull-Request.
 
-#### Example(A-Yo)
+### Example(A-Yo)
 
 - Team Goal
 

@@ -235,6 +235,12 @@
 
 ### 9월 27일
 
+#### Docs
+
+- 최규호 ([@gyuho26](https://github.com/gyuho26))
+	- Github 사용법 숙지
+	- Git 명령어 공부
+
 #### Example(A-Yo)
 
 - Team Goal

@@ -111,6 +111,45 @@
 ### 2016-09-26
 
 - 첫번째 Office Hour
-    - 오후 6시 반 ~ 오후 11시
-    - 토즈 강남 2호점 (신논현역, 교보타워옆)
-    - 예약이름: KOSSLAB 해커톤 11팀
+    - 일정
+        - 오후 6시 반 ~ 오후 11시
+        - 토즈 강남 2호점 (신논현역, 교보타워옆)
+        - 예약이름: KOSSLAB 해커톤 11팀
+    - 참여 멤버
+        - 한종원, 전지성, 강현정, 이태헌, 권민재, 이선미, 유주원
+    - 논의안건 및 작업
+        - 5일간 일정 논의
+            - 월요일: 이슈생성 및 할당 
+            - 화요일: 이슈관련 작업 진행 
+            - 수요일: Johanna 이슈 PR
+            - 목요일: Johanna 이슈 코드리뷰, Zeppelin 이슈 PR
+            - 금요일: Johanna 머지 및 보고서 작성, Zeppelin 머지 및 보고서 작성
+        - OSS 컨트리뷰션 강의 (멘토)
+            - Zeppelin을 통해서 살펴보는 ASF 프로젝트 참여방법
+        - Johanna 프로젝트 학습
+            - Virtual Box + Vagrant 설치 실습
+            - Johanna 프로젝트 소스 설명 및 참여
+        - 프로젝트별 이슈 생성 및 할당
+            - Zeppelin (강현정, 이선미, 이태헌)
+                - Zeppelin Documentation Contribution Guide 에 따라 Jekyll을 설치 및 ```docs```폴더를 빌드 작업 수행
+                - 윈도우즈 환경 PC에서 Jekyll이 설치가 안되는 문제가 있어 ```docs```폴더 빌드는 실패
+                - [Zeppelin 최신 Documentation](https://zeppelin.apache.org/docs/0.7.0-SNAPSHOT/)에서 작업할 만한 부분에 대한 사전리뷰 요청
+                    - Quick Start 메뉴 이하 문서들
+                    - More 메뉴 -> Contribution Guide 부분
+                - 27일 오피스 아워에 최신 사전 리뷰한 부분에 대해서 번역 및 수정거리 정리
+                - 정리 후 각자 번역 및 수정 작업을 시작, 목요일까지 PR을 보내는것을 목표
+            - Johanna (한종원, 전지성, 권민재, 유주원)
+                - Virtual Box 환경에서 Vagrant를 설치 및 실습하는 연습을 진행
+                - 설치 과정에서 [SSH Phase Phrase 문제 발견](https://github.com/addnull/johanna/issues/19)
+                - 기타 4건의 이슈 지적
+                - 코드 관련 진행방향 추가 논의는 27일에 진행하기로 함
+    - 사진
+    ![alt text](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/11_Apache_Zeppelin_Project_Johanna/photo/20160926_202853.jpg "20160926_202853.jpg")
+
+### 2016-09-27
+
+- 두번째 Office Hour
+    - 일정
+        - 오후 6시 반 ~ 오후 11시
+        - 토즈 강남 본점 (강남역 10번 출구 방면)
+        - 예약이름: KOSSLAB 해커톤 11팀

@@ -19,7 +19,7 @@
 	- 김정래 (suprodigy) : Contacts Load, Deduplication
 	- 함유경 (ykhaam) : Frontend UI
 	- 김치현 (ChiHyeonKim) : Testing, Debugging, Bug fix
-	- 양준형 (yjy0431) : Testing, Debugging, Bug fix
+	- 양준영 (yjy0431) : Testing, Debugging, Bug fix
 
 ## Goal
 

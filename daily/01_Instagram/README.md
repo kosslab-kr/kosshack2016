@@ -285,3 +285,4 @@
 - 박경원
 	- github를 통한 Pull-Request 연습(DailyReport)
 	- 수정된 코드 모니터링 및 비교
+  - es5 & es6 비교

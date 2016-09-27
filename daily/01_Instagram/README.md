@@ -279,10 +279,11 @@
   - mocha + chai + sinon 을 통한 일반적인 JS unit test 구성에 대한 공부
 
 - 이태순
-	- 멘토님이랑 깃 이랑 npm 에 대해 정리
 	- git & npm  전체적인 흐름 복습
+	- 멘토님이랑 깃 이랑 npm 에 대해 정리
+	- example code 가 calculator 를 사용하도록 수정해봄
+
 
 - 박경원
 	- github를 통한 Pull-Request 연습(DailyReport)
 	- 수정된 코드 모니터링 및 비교
-  - es5 & es6 비교

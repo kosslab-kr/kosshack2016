@@ -1,12 +1,64 @@
-# 9월 22일 ~ 9월 23일(사전 준비)
+# 9월 27일
+Slack에서 온라인으로 진행
+## Contribution 목록
+* 이환승님
+        - https://codereview.chromium.org/2369733002/ (Landed)
+        - https://codereview.chromium.org/2370613002/ (Landed)
+	- https://codereview.chromium.org/2370623003/ (In review)
+* 나동희님
+        - https://codereview.chromium.org/2362323003/ (Landed)
+	- https://codereview.chromium.org/2370633002/ (In review)
+	- https://codereview.chromium.org/2375583002/ (In review)
+	- https://codereview.chromium.org/2366383003/ (In review)
+* 김기황님
+        - https://codereview.chromium.org/2370503003/ (N/A)
+* 조희원님
+        - https://codereview.chromium.org/2369453006/ (N/A)
+	- https://codereview.chromium.org/2371573002/ (In review)
+	- https://codereview.chromium.org/2372913002/ (In review)
+	- https://bugs.chromium.org/p/chromium/issues/detail?id=649938
+* 박열님
+	- https://codereview.chromium.org/2376643002/ (In review)
+* 도창욱님, 이수정님, 구민석님 Issue 진행 중
 
-## 환경셋업, 소스받기, 빌드
-Chromium은 소스크기만 13GB 이상으로 준비에 오랜시간 걸리므로 사전 준비 요청함.
-* https://www.chromium.org/developers/how-tos/get-the-code
+# 9월 26일
+Slack에서 온라인으로 진행
+## Contribution 목록
+* 이환승님
+        - https://codereview.chromium.org/2369733002/ (Landed)
+        - https://codereview.chromium.org/2370613002/ (Landed)
+	- https://codereview.chromium.org/2370623003/ (In review)
+* 나동희님
+        - https://codereview.chromium.org/2362323003/ (Landed)
+	- https://codereview.chromium.org/2370633002/ (In review)
+	- 
+* 김기황님
+        - https://codereview.chromium.org/2370503003/ (N/A)
+* 조희원님
+        - https://codereview.chromium.org/2369453006/ (N/A)
+	- https://codereview.chromium.org/2371573002/ (In review)
+	- https://bugs.chromium.org/p/chromium/issues/detail?id=649938
+* 박열님, 도창욱님, 이수정님 Issue 진행 중
+* 구민석님 빌드 완료
 
-## Slack 개설
-팀 멤버들 간 교류 및 정보 공유를 위해 Slack 개설함.
-* https://chromium-blink.slack.com
+# 9월 25일
+Slack에서 온라인으로 진행
+## Contribution 목록
+* 이환승님
+        - https://codereview.chromium.org/2369733002/ (Landed)
+        - https://codereview.chromium.org/2370613002/ (Landed)
+	- https://codereview.chromium.org/2370623003/ (In review)
+* 나동희님
+        - https://codereview.chromium.org/2362323003/ (Landed)
+	- https://codereview.chromium.org/2370633002/ (In review)
+* 김기황님
+        - https://codereview.chromium.org/2370503003/ (N/A)
+* 조희원님
+        - https://codereview.chromium.org/2369453006/ (N/A)
+	- https://codereview.chromium.org/2371573002/ (In review)
+	- https://bugs.chromium.org/p/chromium/issues/detail?id=649938
+* 박열님, 도창욱님 Issue 진행 중
+* 이수정님 빌드 완료
 
 # 9월 24일
 ## 참석자 명단
@@ -51,3 +103,13 @@ Chromium에서 패치를 업로드하기 위해 CLA 사인이 필요하고, AUTH
 * 조희원님
 	- https://codereview.chromium.org/2369453006/ (N/A)
 	- https://bugs.chromium.org/p/chromium/issues/detail?id=649938
+
+# 9월 22일 ~ 9월 23일(사전 준비)
+
+## 환경셋업, 소스받기, 빌드
+Chromium은 소스크기만 13GB 이상으로 준비에 오랜시간 걸리므로 사전 준비 요청함.
+* https://www.chromium.org/developers/how-tos/get-the-code
+
+## Slack 개설
+팀 멤버들 간 교류 및 정보 공유를 위해 Slack 개설함.
+* https://chromium-blink.slack.com

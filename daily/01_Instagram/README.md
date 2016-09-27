@@ -42,7 +42,7 @@
 
 ### Docs : 문서 작성 및 Daily Report 관리
 
-- 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader / README 작성 및 팀 보고서 교정
+- 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader / `README.md` 작성 및 팀 보고서 교정
 - 이기신 ([@kshinlee](https://github.com/kshinlee)) : Team Leader / Git 학습 및 작성된 문서 리뷰
 - 최규호 ([@gyuho26](https://github.com/gyuho26)) / Git 학습 및 작성된 문서 리뷰
 - 김강민 ([@kangmin93](https://github.com/kangmin93)) / Git 학습 및 작성된 문서 리뷰
@@ -115,7 +115,7 @@
  * 팀원들에게 Collaborator 권한 부여
  ![](./c-team-collaborator.png)
  * 조원들의 Git 사용법에 관한 질문을 받음
- * README에 쓸 목록들을 정리하기 위해 Task Group이 올려놓은 코드를 직접 빌드하고 실행해봄
+ * `README.md`에 쓸 목록들을 정리하기 위해 Task Group이 올려놓은 코드를 직접 빌드하고 실행해봄
 - 최규호 ([@gyuho26](https://github.com/gyuho26))
 	- Atom Editor 설치
 	- Slack에 올라온 linter와 linter-eslint 설치
@@ -194,12 +194,21 @@
 	- ES6 문법 공부
 
 ## 2016년 9월 26일
-
 #### Docs
-
+* 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
+ * [Pull-Request #19](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/19): `README.md` 작성 및 라이선스 카피라이터 수정
+ * 메인 저장소의 세부 설명 수정
+ ```
+ :page_with_curl: Boilerplate for npm/node module. Write with webpack & ES6
+ ```
+ * [Pull-Request #23](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/23) : `README.md` 재작성 및 `package.json`에 조장들의 이름을 `contributors`에 추가함
+ * [Pull-Request #22](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/22#discussion_r80473266)(테스트 환경 구축) 코드리뷰
+ * #8 : `daily/01_instagram` 문서를 전체적으로 교정함
+   * 링크 걸기 & 팀원 Tagging
+   * 보고서 이름을 `README.md`로 변경
 - 최규호 ([@gyuho26](https://github.com/gyuho26))
   - Github 사용법 숙지
-  - CMD로 Pull requests 전송
+  - CMD로 Pull-Request 전송
 
 #### Test
 

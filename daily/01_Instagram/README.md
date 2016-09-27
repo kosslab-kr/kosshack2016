@@ -72,7 +72,7 @@
 	- 역할
 		- 오도근: 테스트툴 조사 후 해당 툴로 테스트 코드 작성
 		- 이동기: 작성된 테스트 코드 리뷰
-		- 이현주: git과 javascript 학습 및 복습 
+		- 이현주: git과 javascript 학습 및 복습
 
 #### Docs
 * 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
@@ -91,6 +91,7 @@
  ![](c-team-collaborator.png)
 
 ## 2016년 9월 25일
+
 #### Docs
 - 최규호 ([@gyuho26](https://github.com/gyuho26))
 	- Atom Editor 설치
@@ -111,13 +112,13 @@
 
 - Team Goal
 	- 해당 boilerpate에 테스트를 할 수 있는 환경 설정을 하고 예제 테스트 코드를 작성한다.
-	
+
 - 오도근
 	- 테스트 툴 선정 (Karma & jasmine)
 	- 선정 기준: 신뢰도 및 이용 점유율(출처: https://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results)
-	- 테스트 툴 학습 
+	- 테스트 툴 학습
 	- 테스트 툴 boilerpate 참조(출처: https://github.com/zyml/es6-karma-jasmine-webpack-boilerplate)
-	
+
 #### Example(A-Yo)
 - Team Goal
 	- GitHub 사용법 숙달
@@ -155,9 +156,13 @@
 	- ES6 문법 공부
 
 ## 2016년 9월 26일
+
 #### Docs
+
 #### Test
+
 #### Example(A-Yo)
+
 - Team Goal
 
 - 개인활동 사항
@@ -168,3 +173,25 @@
 
 
 #### Task
+
+- Team Goal
+	- Webpack 이해하고 사용하기
+	- Git 숙달
+	- ES6 문법에 맞춘 코드 스타일 통일
+
+- 신미르
+	- watch mode 도입
+	- conflicts 해결
+	- 팀원들 질문 받아주기
+
+- 이태순
+	- Webpack 공부
+	- 프로젝트 폴더 정리
+		- 사용하지 않던 이전 파일 삭제
+		- scripts, src, views 폴더를 기본으로 파일 정리
+
+- 박경원
+	- github 실습
+	- npm 개념
+	- es6 의 차이점과 promise 개념
+	- Webpack과 babel 의 관계 이해

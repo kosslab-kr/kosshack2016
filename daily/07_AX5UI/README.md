@@ -69,6 +69,7 @@ https://github.com/ax5ui/ax5ui-kernel/issues/20
 
 총 1건의 issue
 
+![첫날뒷풀이](assets/14463271_1267841676616458_32520448764336713_n.jpg)
 
 # 9월 25일
 각자 집에서 활동하는 첫번째 날. 오픈소스개발을 직접 체험해보는 대회 취지에 맞게 각자 집에서 개인활동 중에 여가시간을 활용하여 오픈소스 컨트리뷰트 활동
@@ -157,3 +158,46 @@ https://github.com/ax5ui/ax5ui-kernel/issues/20
 |성명|링크|활동내역|파일수|add|del|
 |---|---|---|---|---|---|
 |김동영|[github](https://github.com/ax5ui/ax5ui-kernel/commit/92b80123f2c47e9c0d374c1173fff7db8c624a08)|Documentation Content Fix - ax5ui-media-viewer (#35)|2|16|15|
+
+![첫날뒷풀이](assets/14463139_1269792149754744_4055086530172521265_n.jpg)
+![첫날뒷풀이](assets/14470369_1269792066421419_783682053956857877_n.jpg)
+![첫날뒷풀이](assets/14470477_1269792189754740_3988578575894531123_n.jpg)
+![첫날뒷풀이](assets/14494817_1269792146421411_8342801958229157172_n.jpg)
+
+# 9월 27일
+
+## 테스트 코드 작성
+|성명|링크|활동내역|파일수|add|del|
+|---|---|---|---|---|---|
+|금대건|[github](https://github.com/ax5ui/ax5ui-kernel/commit/45499900ad5d2025cad6a971f7a01a78ca0301c4)|setting for test.dialog.setConfig|2|41|8|
+|이한빈|[github](https://github.com/ax5ui/ax5ui-kernel/commit/8c2ba46d8e5b35ae24b2d7c519e6a60f38212654)|add ax5.core.date testing|1|67|11|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/881915f6541d846ded0b20cfa6b3f9214cebb220)|Merge branch 'KOSS-Hackarthon-test' of https://github.com/ax5ui/ax5ui…|2|87|0|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/7ed3d4c10ff4315d84c126c27de20d5c2083d714)|add ax5.util.sum , ax5.util.avg , ax5.util.first , ax5.util.last TEST|1|89|0|
+|박현준|[github](https://github.com/ax5ui/ax5ui-kernel/commit/633c95a2244d406f64d007305a701d17731ae51f)|add ax5.info TEST|2|87|0|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/cbc7841dcfd3bf044c068ed3e01545b98211c61a)|add ax5.mustache TEST and complete|2|64|0|
+
+## 문서작성
+|성명|링크|활동내역|파일수|add|del|
+|---|---|---|---|---|---|
+|김동욱|[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/1d3ca47a825dfb628ba2fbe734759202fff3b2b4)|add ax5ui-toast doc|1|51|0|
+|마진형|[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/905f916b8eb07310b3bf9da04b3b8f260b2b375d)|Update ax5ui-mask.html|1|0|1|
+| |[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/25d394a3f83a3d3eb2db67738f45b531992d1024)|Update ax5ui-mask.html|1|2|1|
+| |[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/4c1683051c83acf6b765bb2aadff226f9850e1ca)|Update ax5ui-mask.html|1|4|0|
+|송다운|[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/c855efbf99282e3f5dfacf4eeb19ef82d73b16a2)|change structures|17|542|27|
+| |[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/8120648c0547133cecacc04c4b1c078ae0e946b1)|add markdownTutorial video(youtube)|2|34|0|
+
+## 코드개발
+|성명|링크|활동내역|파일수|add|del|
+|---|---|---|---|---|---|
+|한대승|[github](https://github.com/ax5ui/ax5ui-kernel/commit/5d45e99b20e1557c5db8b8f4c7b896758a44d703)|그리드 와 Sqlite DB 연동 PHP 샘플 작성 및 MediaViewer 템플릿 분리 (#41)|11|288|166|
+|김동근|[github](https://github.com/ax5ui/ax5ui-kernel/commit/fb98f81b4dc801c85c974400b1fac4f46e88df4c)|refactor: extract template code (#40)|13|109|75|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/3229d4f5c451b69f3d6af5b235f96dd400a04596)|variable naming rule was applied (#36)|10|42|44|
+|이소은|[github](https://github.com/ax5ui/ax5ui-kernel/commit/457dfd2b3f485b597be7f8b15173b6397fa08334)|refactor: extract ax5toast template code (#37)|4|55|30|
+|위세라|[github](https://github.com/sera0731/ax5docs/commit/c828bba50ad59f5cf5475feb6a7babac67b79b68)|더블콜 구문 수정|2|6|5|
+
+## 번역
+|성명|링크|활동내역|파일수|add|del|
+|---|---|---|---|---|---|
+|김동영|[github](https://github.com/ax5ui/ax5ui-kernel/commit/e482f4c0afaaf5f627e7446d4ed888b05c01711a)|Documentation Content Fix - ax5ui-multi-uploader & picker (#42)|3|33|35|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/5068a7b1e19b280c4776c94d2ed7b511fbb4d3cf)|Documentation Content Fix - ax5ui-modal (#39)|3|20|19|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/e482f4c0afaaf5f627e7446d4ed888b05c01711a)|Documentation Content Fix - ax5ui-multi-uploader & picker|3|33|35|

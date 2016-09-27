@@ -279,7 +279,7 @@
 * 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
  * `daily/01_instagram` 오타 고침 & 첫 영문자를 대문자로 수정(Capital letter)
  * `daily/01_instagram` 전체적으로 2차 수정
-   * 조원 별 역할을 추가함
+   * 각 조의 참가자 별 역할을 추가함
    * Docs Group의 Report 내용 보충 및 추가
 
 - 최규호 ([@gyuho26](https://github.com/gyuho26))

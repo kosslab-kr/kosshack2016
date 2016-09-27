@@ -174,10 +174,22 @@
                         - Customize Zeppelin Homepage (강현정)
                     - More
                         - Upgrade Version (강현정)
+                - Display System
+                    - Basic Display System
+                        - Text (이태헌)
+                        - Html (이태헌)
+                        - Table (이태헌)
+                    - Angular API
+                        - Angular (backend API) (이태헌)
+                        - Angular (frontend API) (이태헌)
                 - More
                     - Contribute
                         - Writing Zeppelin Interpreter (전지성)
                         - Writing Zeppelin Application (전지성)
                         - How to Contribute - Code (전지성)
                         - How to Contribute - Website (전지성)
+            - Johanna 업무 할당
+                - Raynor GUI 지원 (권민재)
         - 기 PR 리뷰
+            - [전지성님 Zeppelin PR7 건](https://github.com/kosslab-kr/zeppelin/pull/7)
+            

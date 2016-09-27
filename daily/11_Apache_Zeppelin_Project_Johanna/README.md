@@ -150,6 +150,61 @@
 
 - 두번째 Office Hour
     - 일정
-        - 오후 6시 반 ~ 오후 11시
+        - 오후 6시 반 ~ 오후 10시
         - 토즈 강남 본점 (강남역 10번 출구 방면)
         - 예약이름: KOSSLAB 해커톤 11팀
+    - 참여 멤버
+        - 한종원, 전지성, 강현정, 권민재, 이선미, 유주원
+    - 논의안건 및 작업
+        - 26일 못한 프로젝트 셋업 진행
+            - Zeppelin 문서 리눅스 머신에서 Build 체험을 마무리 (26일 OS문제로 셋업불가)
+            - Johanna Vagrant상 셋업 완료
+        - 프로젝트별 이슈 할당
+            - Zeppelin 문서 분장 (메뉴별 마크다운 문서 수정)
+                - Quick Start 메뉴
+                    - What is Zeppelin (이선미)
+                    - Getting Started
+                        - Install (이선미)
+                        - Configuration (이선미)
+                        - Explore Zeppelin UI (이선미)
+                        - Tutorial (이선미)
+                    - Basic Feature Guide
+                        - Dynamic Form (강현정)
+                        - Publish Your  (강현정)
+                        - Customize Zeppelin Homepage (강현정)
+                    - More
+                        - Upgrade Version (강현정)
+                - Display System
+                    - Basic Display System
+                        - Text (이태헌)
+                        - Html (이태헌)
+                        - Table (이태헌)
+                    - Angular API
+                        - Angular (backend API) (이태헌)
+                        - Angular (frontend API) (이태헌)
+                - More
+                    - Contribute
+                        - Writing Zeppelin Interpreter (전지성)
+                        - Writing Zeppelin Application (전지성)
+                        - How to Contribute - Code (전지성)
+                        - How to Contribute - Website (전지성)
+            - Johanna 업무 할당
+                - Raynor GUI 지원 (권민재)
+        - 기 PR 리뷰
+            - [전지성님 Zeppelin PR7 건](https://github.com/kosslab-kr/zeppelin/pull/7)
+    - 사진
+    ![alt text](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/11_Apache_Zeppelin_Project_Johanna/photo/20160927_204549.jpg "20160927_204549.jpg")
+            
+### 2016-09-28
+
+- 세번째 Office Hour
+    - 멘토 KOSSLAB 회의로 인해 늦음
+    - 일정
+        - 오후 6시 반 ~ 오후 10시
+        - 토즈 강남 2호점 (신논현역, 교보타워옆)
+        - 예약이름: KOSSLAB 해커톤 11팀
+
+### 2016-09-29
+
+- 네번째 Office Hour
+    - 멘토 직장 사정으로 인하여 Pass

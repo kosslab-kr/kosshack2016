@@ -209,6 +209,8 @@
  * #8 : `daily/01_instagram` 문서를 전체적으로 교정함
    * 링크 걸기 & 팀원 Tagging
    * 보고서 이름을 `README.md`로 변경
+ * UpdateTime with <p> tag in https://kosslab-kr.github.io/kosshack2016
+
 - 최규호 ([@gyuho26](https://github.com/gyuho26))
   - Github 사용법 숙지
   - CMD로 Pull-Request 전송
@@ -260,6 +262,17 @@
 	- Webpack과 Babel 의 관계 이해
 
 ### 9월 27일
+
+#### Docs
+* Group Goal
+ * `README.md` 내용 보충 및 업데이트
+ * 오타 고치기
+
+* 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
+ * `daily/01_instagram` 오타 고침 & 첫 영문자를 대문자로 수정(Capital letter)
+ * `daily/01_instagram` 전체적으로 2차 수정
+   * 조원 별 역할을 추가함
+   * Docs Group의 Report 내용 보충 및 추가
 
 #### Example(A-Yo)
 

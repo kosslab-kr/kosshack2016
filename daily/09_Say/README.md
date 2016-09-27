@@ -10,8 +10,8 @@
 ## 주제 선정
 
 * @closer27: [#1](https://github.com/youknowone/Say/issues/1) 백엔드 NSSpeechSynthesizer 로 교체
-* @@sikeeo: [#2](https://github.com/youknowone/Say/issues/2) 비동기 재생
-* @sikeeo @Amanida: [#16](https://github.com/youknowone/Say/issues/16) iOS버전 개발
+* @sikeeo: [#2](https://github.com/youknowone/Say/issues/2) 비동기 재생
+* @sikeeo & @Amanida: [#16](https://github.com/youknowone/Say/issues/16) iOS버전 개발
 * @AWEEKJ: [#14](https://github.com/youknowone/Say/issues/14) 지정시간에 울리는 알람 기능 개발
 * @kjy95: [#15](https://github.com/youknowone/Say/issues/15) URL을 넣으면 웹페이지 읽어주기
 * @pmw9027: [#19](https://github.com/youknowone/Say/issues/19) 텍스트파일 불러오기 기능 개발
@@ -34,6 +34,44 @@
 
 오늘은 오프라인 활동 없이 온라인으로만 활동하였습니다.
 
+## 활동
+
 * @pmw9027: [#21](https://github.com/youknowone/Say/pull/21) 에서 파일 불러오기 패치를 수정중이고 일시정지 및 다시 재생 기능 추가중
 * @Amanida: [#23](https://github.com/youknowone/Say/pull/23) iOS 버전을 개발중입니다.
 * @kjy95: [#25](https://github.com/youknowone/Say/pull/25) URL을 넣으면 내용을 읽어주는 기능을 개발중이고, 현재 제목을 읽어주는 단계까지 왔습니다.
+
+
+#2016-09-26
+
+오후 4시-오후11시까지 오프라인에서 작업을 하였습니다.
+
+## 참가자
+* @tobark
+* @pmw9027
+* @Amanida
+* @AWEEKJ
+
+![](20160926_1.jpg)
+![](20160926_2.jpg)
+![](20160926_3.jpg)
+
+## 활동
+* @pmw9027: [#21](https://github.com/youknowone/Say/pull/21) 파일 불러오기 기능을 완성하고 연관된 UI 이슈도 수정하여 머지
+* @Amanida: [#23](https://github.com/youknowone/Say/pull/23) [#39](https://github.com/youknowone/Say/pull/39) iOS 버전의 기본적인 기능을 구현하여 머지
+* @AWEEKJ: [#37](https://github.com/youknowone/Say/pull/37) [#40](https://github.com/youknowone/Say/pull/40) 알람 기능과 연관된 UI 이슈를 구현 및 수정하여 머지
+* @tobark: [#34](https://github.com/youknowone/Say/pull/34) 선택한 텍스트 재생 기능으로 인해 발생한 버그 수정 ([#22](https://github.com/youknowone/Say/pull/22))
+* @closer27: [#36](https://github.com/youknowone/Say/pull/36) 말하기 백엔드를 명령줄 기반에서 NSSpeechSynthesizer로 완전히 교체
+
+
+#2016-09-27
+
+오후 4시-오후10시까지 오프라인에서 작업을 하였습니다
+
+## 참가자
+* @tobark
+
+## 활동
+* @tobark: UI의 사소한 오류를 바로잡음
+  * 창이 너무 작게 줄어들들지 않도 방지
+  * 목소리 선택 콤보박스 동작 개선
+

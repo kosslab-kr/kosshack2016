@@ -232,3 +232,15 @@
 	- npm 개념
 	- es6 의 차이점과 promise 개념
 	- Webpack과 babel 의 관계 이해
+
+### 9월 27일
+
+#### Example(A-Yo)
+
+- Team Goal
+
+- 개인활동 사항
+	- 이성현
+		- karma로 테스트 실행(npm run test)
+		- FireFox, 크롬 미설치시 버그 발견, 이슈 작성
+		- 오프라인 모임!!(사진 개인적으로 전송 부탁드립니다.^^)

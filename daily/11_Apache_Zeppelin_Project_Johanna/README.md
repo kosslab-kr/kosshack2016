@@ -150,7 +150,7 @@
 
 - 두번째 Office Hour
     - 일정
-        - 오후 6시 반 ~ 오후 11시
+        - 오후 6시 반 ~ 오후 10시
         - 토즈 강남 본점 (강남역 10번 출구 방면)
         - 예약이름: KOSSLAB 해커톤 11팀
     - 참여 멤버
@@ -192,4 +192,19 @@
                 - Raynor GUI 지원 (권민재)
         - 기 PR 리뷰
             - [전지성님 Zeppelin PR7 건](https://github.com/kosslab-kr/zeppelin/pull/7)
+    - 사진
+    ![alt text](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/11_Apache_Zeppelin_Project_Johanna/photo/20160927_204549.jpg "20160927_204549.jpg")
             
+### 2016-09-28
+
+- 세번째 Office Hour
+    - 멘토 KOSSLAB 회의로 인해 늦음
+    - 일정
+        - 오후 6시 반 ~ 오후 10시
+        - 토즈 강남 본점 (강남역 10번 출구 방면)
+        - 예약이름: KOSSLAB 해커톤 11팀
+
+### 2016-09-29
+
+- 네번째 Office Hour
+    - 멘토 직장 사정으로 인하여 Pass

@@ -149,9 +149,9 @@
 		- Brach로 add, commit, push 등 소스 수정
 		- 기본 `src`폴더 내의 코드들을 `console.log()` 대신 `return`으로 수정하여 Example 구성
 
-  - 조승윤
-    - 팀원들 github 질문 받아주기
-    - 다른 Open-Source Example 분석
+	- 조승윤
+        - 팀원들 github 질문 받아주기
+        - 다른 Open-Source Example 분석
 
 	- 성대경
 		- Github 기본 개념 학습
@@ -199,12 +199,10 @@
   - Example 코드 작성
 
 - 개인활동 사항
-  - 조승윤
-    - Webpack 이해
-    - node 및 npm 개념 파악
-    - Sample example src 작성
-
-- 개인활동 사항
+	- 조승윤
+        - Webpack 이해
+        - node 및 npm 개념 파악
+        - Sample example src 작성
 	- 이성현
 		- webpack plugin 적용하여 test index 확인
 		- es6문법과 babel에 대한 이해

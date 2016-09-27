@@ -195,6 +195,9 @@
 
 ## 2016년 9월 26일
 #### Docs
+* Group Goal
+ * `README.md` 작성
+ * daily Report 교정
 * 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
  * [Pull-Request #19](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/19): `README.md` 작성 및 라이선스 카피라이터 수정
  * 메인 저장소의 세부 설명 수정

@@ -31,7 +31,6 @@ Slack에서 온라인으로 진행
 * 나동희님
 	- https://codereview.chromium.org/2362323003/ (Landed)
 	- https://codereview.chromium.org/2370633002/ (In review)
-	- 
 * 김기황님
 	- https://codereview.chromium.org/2370503003/ (N/A)
 * 조희원님

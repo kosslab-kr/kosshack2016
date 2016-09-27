@@ -153,6 +153,10 @@
     - 팀원들 github 질문 받아주기
     - 다른 Open-Source Example 분석
 
+	- 성대경
+		- Github 기본 개념 학습
+		- 자바스크립트 기본 개념 학습
+
 #### Task
 
 - Team Goal

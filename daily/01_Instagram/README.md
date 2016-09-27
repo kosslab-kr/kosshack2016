@@ -129,7 +129,10 @@
 		- GitHub Full-Request 요청
 		- Brach로 add, commit, push 등 소스 수정
 		- 기본 `src`폴더 내의 코드들을 `console.log()` 대신 `return`으로 수정하여 Example 구성
-
+	- 성대경
+		- Github 기본 개념 학습
+		- 자바스크립트 기본 개념 학습
+		
 
 #### Task
 

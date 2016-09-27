@@ -29,9 +29,9 @@
 
 ### Test : 테스트 코드 작성
 
-- 오도근 ([ohdoking](https://github.com/ohdoking)) : Group Leader
-- 이현주 ([lacieliz](https://github.com/lacieliz))
-- 이동기 (unknow)
+- 오도근 ([ohdoking](https://github.com/ohdoking)) : Group Leader / 테스트 코드 작성
+- 이현주 ([lacieliz](https://github.com/lacieliz)) / Git와 JavaScript 학습 및 복습
+- 이동기 (unknow) / 테스트 코드 리뷰
 
 ### Example(A-Yo) : 예제 코드 작성
 
@@ -39,17 +39,13 @@
 - 성대경 ([@sdk115](https://github.com/sdk115))
 - 이성현 ([@nygosh](https://github.com/nygosh))
 
-### Example(A-Yo) : 예제 코드 작성
-- 조승윤 ([@choseungyoon](https://github.com/choseungyoon)) : Group Leader
-- 성대경 ([@sdk115](https://github.com/sdk115))
-- 이성현 ([@nygosh](https://github.com/nygosh))
 
 ### Docs : 문서 작성 및 Daily Report 관리
 
-- 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
-- 이기신 ([@kshinlee](https://github.com/kshinlee)) : Team Leader
-- 최규호 ([@gyuho26](https://github.com/gyuho26))
-- 김강민 ([@kangmin93](https://github.com/kangmin93))
+- 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader / README 작성 및 팀 보고서 교정
+- 이기신 ([@kshinlee](https://github.com/kshinlee)) : Team Leader / Git 학습 및 작성된 문서 리뷰
+- 최규호 ([@gyuho26](https://github.com/gyuho26)) / Git 학습 및 작성된 문서 리뷰
+- 김강민 ([@kangmin93](https://github.com/kangmin93)) / Git 학습 및 작성된 문서 리뷰
 
 ## 일정 목표
 
@@ -58,9 +54,7 @@
 
 ## Project
 
-> 개발 방향을 작성합니다.
-
-> ex) 인스타그램 크롤링은 어떻게 할것인가?
+> [npm-es2015-boilerplate](https://github.com/JeffGuKang/NPM-es2015-boilerplate)를 기반으로 한 새 모듈의 개발 방향을 작성합니다.
 
 ## 온라인 커뮤니케이션
 
@@ -94,7 +88,7 @@
 		- 이현주: Git과 JavaScript 학습 및 복습
 
 #### Docs
-
+*
 * 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
  * [Pull-Request #6](https://github.com/JeffGuKang/NPM-module-es2015-boilerplate/pull/6)  : `package.json`에서 `author` 키워드 대신 `contributors`로 변경 후 `author` 목록 추가
  ```js
@@ -109,27 +103,44 @@
 
 ## 2016년 9월 25일
 ### Docs
+* **Group Goal**
+ * 모든 Docs 조원들에게 Collaborator 등록 확인받기
+ * 일일 레포트 작성하기
+   * Markdwon 사용법 배우기 : [튜토리얼](http://www.markdowntutorial.com/)
+   * 개인별로 일일 레포트 작성 저장소인 [kosslab-kr/kosshack2016](https://github.com/kosslab-kr/kosshack2016) 포크하기
+    * 일일 레포트를 작성을 위해 git bash로 `git clone`, `add`, `commit`, `push`, `pull` 해보기
+    * [kosslab-kr/kosshack2016](https://github.com/kosslab-kr/kosshack2016)로 Pull-Request 보내기
+
 * 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
  * 팀원들에게 Collaborator 권한 부여
  ![](./c-team-collaborator.png)
+ * 조원들의 Git 사용법에 관한 질문을 받음
+ * README에 쓸 목록들을 정리하기 위해 Task Group이 올려놓은 코드를 직접 빌드하고 실행해봄
 - 최규호 ([@gyuho26](https://github.com/gyuho26))
 	- Atom Editor 설치
 	- Slack에 올라온 linter와 linter-eslint 설치
 	- Slack에 올라온 Git 관련 블로그 일부 읽음
-	- Github에서 Docs Group이 갱신되는 것 확인을 위해 [MuhunKim/NPM-gulp-es2015-boilerplate](hthttps://github.com/MuhunKim/NPM-gulp-es2015-boilerplate)를 watch 눌러놓음
-	- 'OneTeam'의 사전지식에 적혀있는 JavaScript Style guide에 대한 부분 일부 읽음
+	- Github에서 Docs Group의 저장소인 [MuhunKim/NPM-gulp-es2015-boilerplate](hthttps://github.com/MuhunKim/NPM-gulp-es2015-boilerplate)가 갱신되는것을 확인받기 위해 watch 눌러놓음
+	- 'OneTeam'의 사전지식에 적혀있는 [Airbnb/JavaScript](https://github.com/tipjs/javascript-style-guide)에 대한 부분 일부 읽음
 	- Markdown 문법에 관한 간략한 조사
-	- 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음(이메일로 확인)
+
+  - Git / Github 사용법 익히기
+   - 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음(이메일로 확인)
+   - 일일 보고서를 작성하기 위해 [kosslab-kr/kosshack2016](https://github.com/kosslab-kr/kosshack2016) 저장소를 포크함
+   - `git clone`, `add` , `commit`, `push`를 직접 해보고 Pull-Request를 전송함
 
 - 김강민 ([@kangmin93](https://github.com/kangmin93))
-	- 하루패드 설치
-	- Markdown 문법 익히기
-	- Github 사용법 및 Git 설치 숙지
-	- 조장님의 저장소에서 같이 작업하기 위해 협업 권한을 받음
+  - 하루패드 설치
+  - Markdown 문법 익히기
+  - Git / Github 사용법 익히기
+   - 조장님에게 협업 권한을 받음
+   - 모르는 부분이 있어서 조장님의 도움을 받음
+   - 일일 보고서를 작성하기 위해 [kosslab-kr/kosshack2016](https://github.com/kosslab-kr/kosshack2016) 저장소를 포크함
+   - `git clone`, `add` , `commit`, `push`를 직접 해보고 Pull-Request를 전송함
 
 #### Test
 
-- Team Goal
+- **Group Goal**
 	- 해당 boilerpate에 테스트를 할 수 있는 환경 설정을 하고 예제 테스트 코드를 작성한다.
 
 - 오도근
@@ -140,7 +151,7 @@
 
 #### Example(A-Yo)
 
-- Team Goal
+- **Group Goal**
 	- GitHub 사용법 숙달
 	- 다른 Open-Source Example 살펴보기
 	- NPM, Webpack 사용하여 Example 수정
@@ -161,7 +172,7 @@
 
 #### Task
 
-- Team Goal
+- **Group Goal**
 	- Webpack 이해하고 사용하기
 	- Git 숙달
 	- ES6 문법에 맞춘 코드 스타일 통일

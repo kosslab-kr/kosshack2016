@@ -192,7 +192,8 @@
 
 #### Example(A-Yo)
 
-- Team Goal- Webpack 이해
+- Team Goal
+	- Webpack 이해
 	- 전체 process 이해
 	- Git 활용
 	- Example 코드 작성

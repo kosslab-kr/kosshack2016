@@ -216,7 +216,7 @@
   - CMD로 Pull-Request 전송
 
 ### Test
-- Team Goal
+- Group Goal
 	- 해당 boilerpate에 테스트를 할 수 있는 환경 설정을 하고 예제 테스트 코드를 작성한다.
 
 - 오도근
@@ -227,7 +227,7 @@
 
 ### Example(A-Yo)
 
-- Team Goal
+- Group Goal
   - Webpack 이해
   - 전체 process 이해
   - Git 활용
@@ -247,7 +247,7 @@
 
 ### Task
 
-- Team Goal
+- Group Goal
 	- Webpack 이해하고 사용하기
 	- Git 숙달
 	- ES6 문법에 맞춘 코드 스타일 통일
@@ -289,7 +289,7 @@
 
 ### Example(A-Yo)
 
-- Team Goal
+- Group Goal
 
 - 개인활동 사항
 	- 이성현

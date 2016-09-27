@@ -66,8 +66,9 @@
 	- [Repository](https://github.com/rust-lang/rust)
 
 11. Apache Zeppelin & Project Johanna (멘토 윤제상)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/11_Apache_Zeppelin_Project_Johanna/2016-09-24.md)
-	- [Repository](https://github.com/addnull/johanna)
+	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/11_Apache_Zeppelin_Project_Johanna/README.md)
+	- [Repository: Zeppelin](https://github.com/kosslab-kr/zeppelin)
+	- [Repository: Johanna](https://github.com/addnull/johanna)
 
 * 프로젝트에 대한 자세한 내용은 [홈페이지](https://kosshackathon.kr/project)에서 확인
 * 일일 결과보고서 양식은 [블리티터](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md) 참조

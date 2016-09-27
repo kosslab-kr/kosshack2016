@@ -153,3 +153,31 @@
         - 오후 6시 반 ~ 오후 11시
         - 토즈 강남 본점 (강남역 10번 출구 방면)
         - 예약이름: KOSSLAB 해커톤 11팀
+    - 참여 멤버
+        - 한종원, 전지성, 강현정, 권민재, 이선미, 유주원
+    - 논의안건 및 작업
+        - 26일 못한 프로젝트 셋업 진행
+            - Zeppelin 문서 리눅스 머신에서 Build 체험을 마무리 (26일 OS문제로 셋업불가)
+            - Johanna Vagrant상 셋업 완료
+        - 프로젝트별 이슈 할당
+            - Zeppelin 문서 분장
+                - Quick Start 메뉴
+                    - What is Zeppelin (이선미)
+                    - Getting Started
+                        - Install
+                        - Configuration
+                        - Explore Zeppelin UI
+                        - Tutorial
+                    - Basic Feature Guide
+                        - Dynamic Form (강현정)
+                        - Publish Your  (강현정)
+                        - Customize Zeppelin Homepage (강현정)
+                    - More
+                        - Upgrade Version (강현정)
+                - More
+                    - Contribute
+                        - Writing Zeppelin Interpreter
+                        - Writing Zeppelin Application
+                        - How to Contribute <Code>
+                        - How to Contribute <Website>
+        - 기 PR 리뷰

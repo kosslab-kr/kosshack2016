@@ -268,12 +268,11 @@
 	- ES6 의 차이점과 promise 개념
 	- Webpack과 Babel 의 관계 이해
 
-<<<<<<< HEAD
 
-### 9월 27일
-=======
+
+
 ## 2016년 9월 27일
->>>>>>> kosslab/master
+
 
 ### Docs
 - **Group Goal**

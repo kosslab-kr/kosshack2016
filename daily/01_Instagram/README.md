@@ -348,5 +348,5 @@
 
 -	박경원
 	- 오프라인 모임 참여
-	-	Pull-Request 과정 오류 수정
+	- Pull-Request 과정 오류 수정
 	- github 연습

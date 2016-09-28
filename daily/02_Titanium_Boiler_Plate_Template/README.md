@@ -94,3 +94,194 @@
 
 	- 멘토가 한일 : 개발환경 구축 및 샘플 코드 빌드 가이드, 백엔드 서버 구축
 		읽을 거리 작성 (http://tidev.kr/t/topic/1833)
+
+### 2016-09-26 (월)
+	- Project [Brand New]
+		- 서장원 (wkddnjset) : 
+			- 타이타늄 샘플 아직도 못하고 있습니다ㅠ 계속 똑같은 오류가뜹니다.
+			- 깃헙에서 Zip파일로 다운받은다음 import 했는데 다시 해봐야될것 같습니다
+			- Sourcetree를 이용해 README의 내용을 수정해 보았습니다
+		- 최석환 (soulmade00) : 
+			- parse server로 URL 주고 받기
+			- 몽고DB에 데이터 넣고 요청해보기
+		- 김유진 (Yoojinn) : 
+			- 개발환경 구축
+			- 자바스크립트 기초적인 문법 공부
+			- 올려주신 자료(기초) 영상 시청
+		- 이필구 (Feelgu) : 
+			- 타이타늄 사용법 연습
+			- 타이타늄 소스 학습
+			- 자바스크립트 학습
+		- 유승연 (dbtmddus) : 
+			- parse server 개발환경 세팅 완료
+			- heroku로 parse-server폴더를 clone시키고, 내부 cloud 폴더를 다시 push시키는것 까지 완료
+			- java script 공부 중
+			- cloud 내부 js소스들을 보다가 7시반에 잠이 듭니다!
+		- 조소영 (s2s22) : 
+			- 타이타늄 사용법 연습
+			- 자바스크립트 학습
+			- parse-server 학습
+		- 오충엽 (ChungHyup) : 
+			- Html 파싱 및 데이터 가공
+			- Parse-server, Parse 학습
+	- Project [Save My Friends]
+		- 김덕윤 (kimdeokyun) : 
+			- git에서 패치받아 Studio에 update되는 것 확인.
+			- 타이타늄 동영상 강의보고 실습
+			- SaveMyFriend의 코드 읽어 봄.
+		- 진재언 (jinjaeeon) : 
+			- 타이타늄 기초 강의 동영상 5개 학습 및 실습 수행
+			- 재난 문자 종류를 파악하기 위한 문자열 검색 로직 작성 ( 보완 필요 )
+			- sms 수신 모듈 소스 코드 분석 中
+		- 최형필 (Hyeongpil) : 
+			- login.js, core.js, index.js, smsreceive.js 코드 분석 후 주석 달아 커밋
+			- git에 푸시를 요청하였으나 권한이 없어 실패
+			- JavaScript 강의 수강중
+			- 타이타늄 기초 강의 5개 실습
+		- 김정래 (suprodigy) : 
+			- 타이타늄 동영상 실습
+			- 전화번호 파일 IO 구현을 위해 아래 자료 참고하여 공부 중
+			- JavaScript 재입문하기
+			- 자바스크립트 핵심 가이드(더글라스 크락포드 저) 책
+			- SaveMyFriend에 올려주신 코드 한 번 읽어봄
+		- 함유경 (ykhaam) : 
+			- UI 초안 올리고 피드백 받아서 수정 중
+			- 다른 UI나 디자인 참고 공부중
+			- 개발이 현재 어떻게 이루어지는 지 파악중
+		- 김치현 (ChiHyeonKim) : 
+			- 재난 문자 필터링을 위해서 참고가 될 만한 사이트 조사
+			- 재난 문자 개념, 재난 문자 사례, 재난 문자 종류, CBS 기술 설명과 재난문자 송출 기준
+			- JavaScript로 공부중
+		- 양준영 (yjy0431) : 
+			- 현재 In Progress에 있는 모두 할일중 프로젝트 리파지터리 코드 실행해보기를 제외하고 다했고
+			- 프로젝트 리파지터리 코드 실행해보기를 하는중입니다.
+
+### 2016-09-27 (화)
+	- Project [Brand New]
+		- 서장원 (wkddnjset) : 
+			- 
+		- 최석환 (soulmade00) : 
+			- 
+		- 김유진 (Yoojinn) : 
+			- 
+		- 이필구 (Feelgu) : 
+			- 
+		- 유승연 (dbtmddus) : 
+			- 
+		- 조소영 (s2s22) : 
+			- 
+		- 오충엽 (ChungHyup) : 
+			- 
+	- Project [Save My Friends]
+		- 김덕윤 (kimdeokyun) : 
+			- 
+		- 진재언 (jinjaeeon) : 
+			- 
+		- 최형필 (Hyeongpil) : 
+			- 
+		- 김정래 (suprodigy) : 
+			- 
+		- 함유경 (ykhaam) : 
+			- 
+		- 김치현 (ChiHyeonKim) : 
+			- 
+		- 양준영 (yjy0431) : 
+			-
+
+### 2016-09-28 (수)
+	- Project [Brand New]
+		- 서장원 (wkddnjset) : 
+			- 
+		- 최석환 (soulmade00) : 
+			- 
+		- 김유진 (Yoojinn) : 
+			- 
+		- 이필구 (Feelgu) : 
+			- 
+		- 유승연 (dbtmddus) : 
+			- 
+		- 조소영 (s2s22) : 
+			- 
+		- 오충엽 (ChungHyup) : 
+			- 
+	- Project [Save My Friends]
+		- 김덕윤 (kimdeokyun) : 
+			- 
+		- 진재언 (jinjaeeon) : 
+			- 
+		- 최형필 (Hyeongpil) : 
+			- 
+		- 김정래 (suprodigy) : 
+			- 
+		- 함유경 (ykhaam) : 
+			- 
+		- 김치현 (ChiHyeonKim) : 
+			- 
+		- 양준영 (yjy0431) : 
+			-
+
+### 2016-09-29 (목)
+	- Project [Brand New]
+		- 서장원 (wkddnjset) : 
+			- 
+		- 최석환 (soulmade00) : 
+			- 
+		- 김유진 (Yoojinn) : 
+			- 
+		- 이필구 (Feelgu) : 
+			- 
+		- 유승연 (dbtmddus) : 
+			- 
+		- 조소영 (s2s22) : 
+			- 
+		- 오충엽 (ChungHyup) : 
+			- 
+	- Project [Save My Friends]
+		- 김덕윤 (kimdeokyun) : 
+			- 
+		- 진재언 (jinjaeeon) : 
+			- 
+		- 최형필 (Hyeongpil) : 
+			- 
+		- 김정래 (suprodigy) : 
+			- 
+		- 함유경 (ykhaam) : 
+			- 
+		- 김치현 (ChiHyeonKim) : 
+			- 
+		- 양준영 (yjy0431) : 
+			-
+
+### 2016-09-30 (금)
+	- Project [Brand New]
+		- 서장원 (wkddnjset) : 
+			- 
+		- 최석환 (soulmade00) : 
+			- 
+		- 김유진 (Yoojinn) : 
+			- 
+		- 이필구 (Feelgu) : 
+			- 
+		- 유승연 (dbtmddus) : 
+			- 
+		- 조소영 (s2s22) : 
+			- 
+		- 오충엽 (ChungHyup) : 
+			- 
+	- Project [Save My Friends]
+		- 김덕윤 (kimdeokyun) : 
+			- 
+		- 진재언 (jinjaeeon) : 
+			- 
+		- 최형필 (Hyeongpil) : 
+			- 
+		- 김정래 (suprodigy) : 
+			- 
+		- 함유경 (ykhaam) : 
+			- 
+		- 김치현 (ChiHyeonKim) : 
+			- 
+		- 양준영 (yjy0431) : 
+			-
+
+			

@@ -56,6 +56,7 @@
 	- [활동 내용 Day 2](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-25.md)
 	- [활동 내용 Day 3](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-26.md)
 	- [활동 내용 Day 4](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-27.md)
+	- [활동 내용 Day 5](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-28.md)
 	- [Repository](https://github.com/soomtong/blititor)
 
 9. Say (멘토 정윤원)

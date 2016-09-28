@@ -6,12 +6,12 @@
 - 서로 부족한 부분, 혹은 발전될 부분을 도와주자.
 - **모두 빠짐없이** 프로젝트에 자신의 흔적을 남기자.
 - 첫 번째 릴리즈 버전 배포
- - 릴리즈 버전을 기반으로  새로운 모듈 생성 및 NPM 업로드
+ - 릴리즈 버전을 기반으로  새로운 모듈 생성 및 npm 업로드
 
 ## 사전지식
 
 - Git / Github / Markdown
-- Node.js / NPM
+- Node.js / npm
 - JavaScript : [Airbnb/JavaScript](https://github.com/tipjs/javascript-style-guide)
 
 ## Repository
@@ -50,7 +50,7 @@
 ## 일정 목표
 
 1. 27일까지 [npm-webpack-boilerplate](https://github.com/JeffGuKang/npm-webpack-boilerplate) 릴리즈 첫 버전 배포
-2. 30일까지 [릴리즈 버전을 기반](https://github.com/JeffGuKang/npm-webpack-boilerplate)으로 새로운 모듈 생성 및 NPM 업로드
+2. 30일까지 [릴리즈 버전을 기반](https://github.com/JeffGuKang/npm-webpack-boilerplate)으로 새로운 모듈 생성 및 npm 업로드
 
 ## Project
 
@@ -154,7 +154,7 @@
 - **Group Goal**
 	- GitHub 사용법 숙달
 	- 다른 Open-Source Example 살펴보기
-	- NPM, Webpack 사용하여 Example 수정
+	- npm, Webpack 사용하여 Example 수정
 
 - 개인활동 사항
 	- 이성현
@@ -236,7 +236,7 @@
 - 개인활동 사항
   - 조승윤
     - Webpack 이해
-    - Node.js 및 NPM 개념 파악
+    - Node.js 및 npm 개념 파악
     - Sample example src 작성
 
 	- 이성현
@@ -265,7 +265,7 @@
 
 - 박경원
 	- Github 실습
-	- NPM 개념
+	- npm 개념
 	- ES6 의 차이점과 promise 개념
 	- Webpack과 Babel 의 관계 이해
 

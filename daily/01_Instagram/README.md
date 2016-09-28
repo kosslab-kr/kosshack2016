@@ -252,8 +252,8 @@
 		- karma로 테스트 실행(npm run test)
 		- FireFox, 크롬 미설치시 버그 발견, 이슈 작성
 		- 오프라인 모임!!(사진 개인적으로 전송 부탁드립니다.^^)
-<<<<<<< HEAD
->>>>>>> eda9977f4743e8ad307025b94800f9dcd0c7feb2
+
+
 
 #### Task
 
@@ -275,9 +275,8 @@
 - 박경원
 	- github를 통한 Pull-Request 연습(DailyReport)
 	- 수정된 코드 모니터링 및 비교
-=======
+
 	- 조승윤
 		- Example code 작성
 		- Rearranged folder & Integrate files
 		- 오프라인 모임 참여
->>>>>>> c7c5e70fab076a4f5afdc5b2543121e0d3c34181

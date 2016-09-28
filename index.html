@@ -42,6 +42,12 @@
         .card *{
             word-break: break-all;
         }
+
+        @media (min-width: 1200px) {
+            .container {
+                width: 100%;
+            }
+        }
     </style>
 </head>
 <body>
@@ -188,7 +194,7 @@
                             $result.html(ax5.mustache.render(tmpl, data));
                             $result.waterfall({
                                 gap: 10,
-                                gridWidth: [0, 400, 600, 800, 1200],
+                                gridWidth: [0, 400, 600, 800, 1200, 1400, 1900],
                                 refresh: 500,
                                 scrollbottom: {
                                     ele: $('body'),

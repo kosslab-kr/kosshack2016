@@ -150,8 +150,8 @@
 		- 기본 `src`폴더 내의 코드들을 `console.log()` 대신 `return`으로 수정하여 Example 구성
 
 	- 조승윤
-        - 팀원들 github 질문 받아주기
-        - 다른 Open-Source Example 분석
+		- 팀원들 github 질문 받아주기
+		- 다른 Open-Source Example 분석
 
 	- 성대경
 		- Github 기본 개념 학습
@@ -252,6 +252,7 @@
 		- karma로 테스트 실행(npm run test)
 		- FireFox, 크롬 미설치시 버그 발견, 이슈 작성
 		- 오프라인 모임!!(사진 개인적으로 전송 부탁드립니다.^^)
+<<<<<<< HEAD
 >>>>>>> eda9977f4743e8ad307025b94800f9dcd0c7feb2
 
 #### Task
@@ -274,3 +275,9 @@
 - 박경원
 	- github를 통한 Pull-Request 연습(DailyReport)
 	- 수정된 코드 모니터링 및 비교
+=======
+	- 조승윤
+		- Example code 작성
+		- Rearranged folder & Integrate files
+		- 오프라인 모임 참여
+>>>>>>> c7c5e70fab076a4f5afdc5b2543121e0d3c34181

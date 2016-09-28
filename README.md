@@ -55,6 +55,7 @@
 	- [활동 내용 Day 1](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md)
 	- [활동 내용 Day 2](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-25.md)
 	- [활동 내용 Day 3](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-26.md)
+	- [활동 내용 Day 4](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-27.md)
 	- [Repository](https://github.com/soomtong/blititor)
 
 9. Say (멘토 정윤원)
@@ -71,7 +72,7 @@
 	- [Repository: Johanna](https://github.com/addnull/johanna)
 
 * 프로젝트에 대한 자세한 내용은 [홈페이지](https://kosshackathon.kr/project)에서 확인
-* 일일 결과보고서 양식은 [블리티터](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md) 참조
+* 일일 결과보고서 양식은 [리포트 템플릿](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/report_template.md) 참조
 
 ### 시상
 * 개인별 시상

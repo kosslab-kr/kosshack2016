@@ -299,3 +299,16 @@
 		- Example code 작성
 		- Rearranged folder & Integrate files
 		- 오프라인 모임 참여
+
+## 2016년 9월 28일
+
+### Docs
+### Test
+### Example
+
+- 조승윤
+	- Test code & path 수정
+	- 내일부터 진행 할 Instagram plugIn 회의
+	- 오프라인 모임 참여
+
+### Task

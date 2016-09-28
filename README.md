@@ -22,7 +22,7 @@
 ### 주최 & 주관
 * 미래창조과학부 & 정보통신산업진흥원, 한국IT비즈니스진흥협회, 공개SW개발자Lab
 
-###프로젝트 소개
+### 프로젝트 소개
 1. npm module 제작 boilerplate (멘토 강명구)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/01_Instagram/README.md)
 	- [Repository](https://github.com/JeffGuKang/npm-module-es2015-boilerplate)
@@ -248,7 +248,7 @@
 	- 소스나 산출물, 발표자료 등 정리하여 사전에 제출 (프로젝트별 팀장이 진행)
 * 심사 진행 및 시상
 
-### github 운영방안
+### Github 운영방안
 1. 11개 프로젝트를 KossLab git 페이지 (github.com/kosslab-kr)에 포크(Fork)하여 진행
 	*포크가 불가능한 프로젝트는 링크로 연결
 2. 실제 프로젝트 진행은 포크된 프로젝트 내에서 진행되며 정리된 결과물은 'kosshack2016'에서 확인 가능

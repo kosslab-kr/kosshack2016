@@ -11,7 +11,7 @@
 	- 이필구 (Feelgu) : Frontend UI, Push Notification
 	- 유승연 (dbtmddus) : Backend Server Logic
 	- 조소영 (s2s22) : Backend Server Logic
-	- 오충엽 (ChungHyup) : Backend Server Logic
+	- 오충협 (ChungHyup) : Backend Server Logic
 - Project [Save My Friends]
 	- 김덕윤 (kimdeokyun) : Team Manager, SMS Parser/Sender, Filter
 	- 진재언 (jinjaeeon) : SMS Parser/Sender, Filter
@@ -121,7 +121,7 @@
 			- 타이타늄 사용법 연습
 			- 자바스크립트 학습
 			- parse-server 학습
-		- 오충엽 (ChungHyup) : 
+		- 오충협 (ChungHyup) : 
 			- Html 파싱 및 데이터 가공
 			- Parse-server, Parse 학습
 	- Project [Save My Friends]
@@ -159,34 +159,56 @@
 ### 2016-09-27 (화)
 	- Project [Brand New]
 		- 서장원 (wkddnjset) : 
-			- 
+			- HTML작성..중입니다
+			- SourceTree를 통해 GitHub에 Web폴더를 푸쉬했습니당~
+			- 칭찬해주세요~
 		- 최석환 (soulmade00) : 
-			- 
+			- 이필구, 조소영님 개발에 도움
+			- listview 이해
 		- 김유진 (Yoojinn) : 
-			- 
+			- 리더님께서 올려주신 listView 소스분석.
+			- 다른 listview 예제 찾아봄.
 		- 이필구 (Feelgu) : 
-			- 
+			- 개발환경 셋팅 완료, 사용법 숙지
+			- ( 최석환형의 도움으로..)
 		- 유승연 (dbtmddus) : 
-			- 
+			- html scrap 구현
+			- 쇼핑몰 html,css, js 구성 인식
+			- java sript - 이번 서버, db관련 패키지,함수들 학습 중
 		- 조소영 (s2s22) : 
-			- 
-		- 오충엽 (ChungHyup) : 
-			- 
+			- 개발환경 셋팅, 코드 리뷰 중
+			- (오프라인에서 최석환 님 도움 받음)
+		- 오충협 (ChungHyup) : 
+			- Html scrap / parsing / save 구현
+			- 이전 데이터와 비교를 통한 업데이트 여부 확인 구현중
+		- 1차 오프라인 모임 : 최석환, 이필구, 유승연, 조소영, 오충협 참석
 	- Project [Save My Friends]
 		- 김덕윤 (kimdeokyun) : 
-			- 
+			- README 초안 작성 및 푸쉬
+			- 타이타늄 모바일 앱 프로그래밍(보이들리 폴렌타인)이란 책을 빌려서 정독하고 있습니다.
+			- 국민안전처에서 제공한 재난 문자 발송 기록을 조사했습니다.
+			- 갑작스럽게 IDE에서 run이 안되는 바람에 시간을 많이 허비했네요 ㅠㅠ 화이팅합시다
 		- 진재언 (jinjaeeon) : 
-			- 
+			- sms 파싱 및 스위치UI를 통해 재난 메시지 선택 제어 기능 구현 및 github push
+			- 아직은 재난 문자별로 수신되지 않고 일단 "홍수"에 대해서만 정적으로 구현했고
+				내일부터 대표적인 큰 재난에 대한 스위치 설정 및 동적으로 구현할 생각입니다!!
+			- 오픈소스S/W의 정의, 장점, 중요성 등에 대해서 멘토님께 질문을 했고 답변 받았습니다.
+			- github의 PullRequest에 대해 @Hyeongpil 에게 질문했고 답변 받았습니다.
 		- 최형필 (Hyeongpil) : 
-			- 
+			- 핸드폰에 내장된 연락처를 가져오기 위해 Titanium API 문서 분석
+			- 앱에 핸드폰에 내장된 연락처 데이터를 가져와 Console Log로 출력 - Github에 push
+			- JavaScript 공부 - 삼위일체 웹 프로그래밍 도서
 		- 김정래 (suprodigy) : 
-			- 
+			- 자바스크립트 공부
+			- 핸드폰 화면 보면서 소스 코드 분석
 		- 함유경 (ykhaam) : 
-			- 
+			- readme 수정
+			- 소스 읽어보기
+			- 저도 너무 도움이 못되어드려서 죄송합니다ㅠㅠ 도와드릴게 있으면 말해주세요!
 		- 김치현 (ChiHyeonKim) : 
-			- 
+			- 소스와 주석 전체적으로 살펴보기
 		- 양준영 (yjy0431) : 
-			-
+			- Savemyfriend 클론 받아서 실행해보기
 
 ### 2016-09-28 (수)
 	- Project [Brand New]
@@ -202,7 +224,7 @@
 			- 
 		- 조소영 (s2s22) : 
 			- 
-		- 오충엽 (ChungHyup) : 
+		- 오충협 (ChungHyup) : 
 			- 
 	- Project [Save My Friends]
 		- 김덕윤 (kimdeokyun) : 
@@ -234,7 +256,7 @@
 			- 
 		- 조소영 (s2s22) : 
 			- 
-		- 오충엽 (ChungHyup) : 
+		- 오충협 (ChungHyup) : 
 			- 
 	- Project [Save My Friends]
 		- 김덕윤 (kimdeokyun) : 
@@ -266,7 +288,7 @@
 			- 
 		- 조소영 (s2s22) : 
 			- 
-		- 오충엽 (ChungHyup) : 
+		- 오충협 (ChungHyup) : 
 			- 
 	- Project [Save My Friends]
 		- 김덕윤 (kimdeokyun) : 

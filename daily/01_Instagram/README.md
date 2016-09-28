@@ -88,31 +88,30 @@
 		- 이현주: Git과 JavaScript 학습 및 복습
 
 #### Docs
-*
 * 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
- * [Pull-Request #6](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/6)  : `package.json`에서 `author` 키워드 대신 `contributors`로 변경 후 `author` 목록 추가
+  * [Pull-Request #6](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/6)  : `package.json`에서 `author` 키워드 대신 `contributors`로 변경 후 `author` 목록 추가
  ```js
  "contributors": {
 	 "author": "Jeff Gu Kang",
 	 "author": "Muhun Kim <muhun.kim@gmail.com> (http://blog.muhun.kim)"
  },
  ```
- * [Pull-Request #8](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/8#pullrequestreview-1436878) 코드리뷰 : Git을 시험삼아 쓰기 위해 Git 초보분들이 수정한 코드를 직접 원래대로 되돌리는것도 좋을거라는 의견을 남겼습니다.
-   * 해당 의견을 바탕으로 [Issue #11](https://github.com/JeffGuKang/npm-webpack-boilerplate/issues/11) 생성
-	 * 해결이 완료된걸 [코드리뷰로 확인함](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/12#pullrequestreview-1453734)
+  * [Pull-Request #8](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/8#pullrequestreview-1436878) 코드리뷰 : Git을 시험삼아 쓰기 위해 Git 초보분들이 수정한 코드를 직접 원래대로 되돌리는것도 좋을거라는 의견을 남겼습니다.
+    * 해당 의견을 바탕으로 [Issue #11](https://github.com/JeffGuKang/npm-webpack-boilerplate/issues/11) 생성
+	   * 해결이 완료된걸 [코드리뷰로 확인함](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/12#pullrequestreview-1453734)
 
 ## 2016년 9월 25일
 ### Docs
 * **Group Goal**
- * 모든 Docs 조원들에게 Collaborator 등록 확인받기
- * 일일 레포트 작성하기
-   * Markdwon 사용법 배우기 : [튜토리얼](http://www.markdowntutorial.com/)
-   * 개인별로 일일 레포트 작성 저장소인 [kosslab-kr/kosshack2016](https://github.com/kosslab-kr/kosshack2016) 포크하기
+  * 모든 Docs 조원들에게 Collaborator 등록 확인받기
+  * 일일 레포트 작성하기
+    * Markdwon 사용법 배우기 : [튜토리얼](http://www.markdowntutorial.com/)
+    * 개인별로 일일 레포트 작성 저장소인 [kosslab-kr/kosshack2016](https://github.com/kosslab-kr/kosshack2016) 포크하기
     * 일일 레포트를 작성을 위해 git bash로 `git clone`, `add`, `commit`, `push`, `pull` 해보기
     * [kosslab-kr/kosshack2016](https://github.com/kosslab-kr/kosshack2016)로 Pull-Request 보내기
 
 * 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
- * 팀원들에게 Collaborator 권한 부여
+  * 팀원들에게 Collaborator 권한 부여
  ![](./c-team-collaborator.png)
  * 조원들의 Git 사용법에 관한 질문을 받음
  * `README.md`에 쓸 목록들을 정리하기 위해 Task Group이 올려놓은 코드를 직접 빌드하고 실행해봄
@@ -157,18 +156,18 @@
 	- npm, Webpack 사용하여 Example 수정
 
 - 개인활동 사항
-	- 이성현
-		- GitHub Pull-Request 요청
-		- Brach로 `add`, `commit`, `push` 등 소스 수정
-		- 기본 `src`폴더 내의 코드들을 `console.log()` 대신 `return`으로 수정하여 Example 구성
+  - 이성현
+    - GitHub Pull-Request 요청
+    - Brach로 `add`, `commit`, `push` 등 소스 수정
+    - 기본 `src`폴더 내의 코드들을 `console.log()` 대신 `return`으로 수정하여 Example 구성
 
-  - 조승윤
+	- 조승윤
     - 팀원들 Github 질문 받아주기
     - 다른 Open-Source Example 분석
 
-	- 성대경
-		- Github 기본 개념 학습
-		- 자바스크립트 기본 개념 학습
+  - 성대경
+    - Github 기본 개념 학습
+    - 자바스크립트 기본 개념 학습
 
 ### Task
 
@@ -196,20 +195,20 @@
 ## 2016년 9월 26일
 ### Docs
 * Group Goal
- * `README.md` 작성
- * daily Report 교정
+  * `README.md` 작성
+  * daily Report 교정
 * 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
- * [Pull-Request #19](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/19): `README.md` 작성 및 라이선스 카피라이터 수정
- * 메인 저장소의 세부 설명 수정
+  * [Pull-Request #19](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/19): `README.md` 작성 및 라이선스 카피라이터 수정
+  * 메인 저장소의 세부 설명 수정
  ```
  :page_with_curl: Boilerplate for npm/node module. Write with webpack & ES6
  ```
- * [Pull-Request #23](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/23) : `README.md` 재작성 및 `package.json`에 조장들의 이름을 `contributors`에 추가함
- * [Pull-Request #22](https://github.com/JeffGuKang/npm-webpack-boilserplate/pull/22#discussion_r80473266)(테스트 환경 구축) 코드리뷰
- * #8 : `daily/01_instagram` 문서를 전체적으로 교정함
-   * 링크 걸기 & 팀원 Tagging
-   * 보고서 이름을 `README.md`로 변경
- * UpdateTime with <p> tag in https://kosslab-kr.github.io/kosshack2016
+  * [Pull-Request #23](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/23) : `README.md` 재작성 및 `package.json`에 조장들의 이름을 `contributors`에 추가함
+  * [Pull-Request #22](https://github.com/JeffGuKang/npm-webpack-boilserplate/pull/22#discussion_r80473266)(테스트 환경 구축) 코드리뷰
+  * #8 : `daily/01_instagram` 문서를 전체적으로 교정함
+    * 링크 걸기 & 팀원 Tagging
+    * 보고서 이름을 `README.md`로 변경
+  * [`UpdateTime()` with p tag](https://kosslab-kr.github.io/kosshack2016)
 
 - 최규호 ([@gyuho26](https://github.com/gyuho26))
   - Github 사용법 숙지
@@ -273,14 +272,14 @@
 
 ### Docs
 * **Group Goal**
- * `README.md` 내용 보충 및 업데이트
- * 오타 고치기
+  * `README.md` 내용 보충 및 업데이트
+  * 오타 고치기
 
 * 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
- * `daily/01_instagram` 오타 고침 & 첫 영문자를 대문자로 수정(Capital letter)
- * `daily/01_instagram` 전체적으로 2차 수정
-   * 각 조의 참가자 별 역할을 추가함
-   * Docs Group의 Report 내용 보충 및 추가
+  * `daily/01_instagram` 오타 고침 & 첫 영문자를 대문자로 수정(Capital letter)
+  * `daily/01_instagram` 전체적으로 2차 수정
+    * 각 조의 참가자 별 역할을 추가함
+    * Docs Group의 Report 내용 보충 및 추가
 
 - 최규호 ([@gyuho26](https://github.com/gyuho26))
 	- Github 사용법 숙지

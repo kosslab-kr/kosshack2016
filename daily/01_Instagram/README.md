@@ -273,7 +273,6 @@
 
 ## 2016년 9월 27일
 
-
 ### Docs
 - **Group Goal**
 	- `README.md` 내용 보충 및 업데이트
@@ -300,6 +299,10 @@
 		- FireFox, 크롬 미설치시 버그 발견, 이슈 작성
 		- 오프라인 모임!!(사진 개인적으로 전송 부탁드립니다.^^)
 
+	- 조승윤
+		- Example code 작성
+		- Rearranged folder & Integrate files
+		- 오프라인 모임 참여
 
 
 #### Task
@@ -322,8 +325,3 @@
 - 박경원
 	- github를 통한 Pull-Request 연습(DailyReport)
 	- 수정된 코드 모니터링 및 비교
-
-- 조승윤
-	- Example code 작성
-	- Rearranged folder & Integrate files
-	- 오프라인 모임 참여

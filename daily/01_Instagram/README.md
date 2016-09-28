@@ -245,7 +245,6 @@
 
 
 ### Task
-
 - Group Goal
 	- Webpack 이해하고 사용하기
 	- Git 숙달
@@ -259,8 +258,8 @@
 - 이태순
 	- Webpack 공부
 	- 프로젝트 폴더 정리
-		- 사용하지 않던 이전 파일 삭제
-		- `scripts`, `src`, `views` 폴더를 기본으로 파일 정리
+	- 사용하지 않던 이전 파일 삭제
+	- `scripts`, `src`, `views` 폴더를 기본으로 파일 정리
 
 - 박경원
 	- Github 실습

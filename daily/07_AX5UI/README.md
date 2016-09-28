@@ -159,10 +159,10 @@ https://github.com/ax5ui/ax5ui-kernel/issues/20
 |---|---|---|---|---|---|
 |김동영|[github](https://github.com/ax5ui/ax5ui-kernel/commit/92b80123f2c47e9c0d374c1173fff7db8c624a08)|Documentation Content Fix - ax5ui-media-viewer (#35)|2|16|15|
 
-![첫날뒷풀이](assets/14463139_1269792149754744_4055086530172521265_n.jpg)
-![첫날뒷풀이](assets/14470369_1269792066421419_783682053956857877_n.jpg)
-![첫날뒷풀이](assets/14470477_1269792189754740_3988578575894531123_n.jpg)
-![첫날뒷풀이](assets/14494817_1269792146421411_8342801958229157172_n.jpg)
+![불꽃코딩데이](assets/14463139_1269792149754744_4055086530172521265_n.jpg)
+![불꽃코딩데이](assets/14470369_1269792066421419_783682053956857877_n.jpg)
+![불꽃코딩데이](assets/14470477_1269792189754740_3988578575894531123_n.jpg)
+![불꽃코딩데이](assets/14494817_1269792146421411_8342801958229157172_n.jpg)
 
 # 9월 27일
 자칫 루즈해 질 수 있는 분위기에 긴장감을 유지 할 수 있도록 독력 스팸메세지 전송
@@ -203,3 +203,46 @@ https://github.com/ax5ui/ax5ui-kernel/issues/20
 |김동영|[github](https://github.com/ax5ui/ax5ui-kernel/commit/e482f4c0afaaf5f627e7446d4ed888b05c01711a)|Documentation Content Fix - ax5ui-multi-uploader & picker (#42)|3|33|35|
 | |[github](https://github.com/ax5ui/ax5ui-kernel/commit/5068a7b1e19b280c4776c94d2ed7b511fbb4d3cf)|Documentation Content Fix - ax5ui-modal (#39)|3|20|19|
 | |[github](https://github.com/ax5ui/ax5ui-kernel/commit/e482f4c0afaaf5f627e7446d4ed888b05c01711a)|Documentation Content Fix - ax5ui-multi-uploader & picker|3|33|35|
+
+# 9월 28일
+작성된 테스트코드를 마스터에 머지하고 테스트코드 작성팀은 포크후 풀 리퀘스트하기로 했습니다.
+오늘 AX5UI팀의 미녀 삼총사가 모여 서로 부족한 코드를 보완하고 불꽃코딩을 진행하였습니다.
+문서팀은 guide.ax5.io 사이트의 사이트맵을 결정하고 마크다운 코드를 이용하여 youtube를 출력하는 기능을 개발하였습니다.
+번역팀은 오늘도 묵묵히 번역을 해주었습니다.
+
+## 테스트 코드 작성
+|성명|링크|활동내역|파일수|add|del|
+|---|---|---|---|---|---|
+|박현준|[github](https://github.com/ax5ui/ax5ui-kernel/commit/01c33f865e067c99e44095908fa72bedb0b2b540)|Merge branch 'master' into KOSS-Hackarthon-test|134|4678|1281|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/fbb36c4e3fbccfbb8ee428904deb508aa3b5579d)|ax5core 테스트 코드 품질 개선|2|93|92|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/ba4aeeac76e2ccbc5cae00b254e9969a7c21e7fd)|karma setting with PhantomJS|3|42|47|
+|금대건|[github](https://github.com/ax5ui/ax5ui-kernel/commit/68613a1ef1b179e4bf83f4bbf254a736c12b9c07)|add dialog.setConfig.js|1|83|0|
+
+## 문서작성
+|성명|링크|활동내역|파일수|add|del|
+|---|---|---|---|---|---|
+|송다운|[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/5ff8d2fa5ee97c123fb0b9b8d9ee3aacd9e6bb86)|modify index.html|2|13|10|
+| |[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/6c5561c8d7c04b04df2dfb89c4354ad9ec039ad8)|add step-0 menu|16|552|13|
+| |[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/4da1ec0e73530e8c7c0f710e244198f82dad41ad)|modify structure and add ax5ui-dialog.html|27|183|153|
+|김동욱|[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/2920c5cc144f303f883dcd2b0b8c34c7a2f2b8c1)|modify a typing error and add docs.|28|1329|136|
+
+## 코드개발
+|성명|링크|활동내역|파일수|add|del|
+|---|---|---|---|---|---|
+|위세라|[github](https://github.com/ax5ui/ax5ui-kernel/commit/c4227220c643c25d6896b2b035759f62bc0be2e5)|refactor: extract ax5picker template code|2|61|55|
+|이소은|[github](https://github.com/ax5ui/ax5ui-kernel/commit/453117af1269ce71d5dc36bb8ad6ee08d71045dc)|refactor: extract ax5select template code (#46)|15|179|154|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/9e267b482aabdaf69e0517f744939ed225766460)|refactor: extract template code (#43)|12|220|185|
+|한대승|[github](https://github.com/ax5ui/ax5ui-kernel/commit/baaeb7acf826746c272000d0394212c55e0cd0c9)|모달창 버그 수정 (#49)|4|22|13|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/835068a18d61b809121163ed136c0f9a679c102f)|AX5 모달 템플릿 분리 (#44)|12|198|126|
+|김동근|[github](https://github.com/ax5ui/ax5ui-kernel/commit/d6208d836bbd48467a220742a29ad42c7f96c26b)|refactor and ax5mask bugfix (#45)|12|181|279|
+
+## 번역
+|성명|링크|활동내역|파일수|add|del|
+|---|---|---|---|---|---|
+|김동영|[github](https://github.com/ax5ui/ax5ui-kernel/commit/b842eb5b2cc6585158584be9646766053c741336)|Documentation Content Fix - ax5ui-toast (#47)|8|55|49|
+
+### AX5UI 미녀 삼총사의 불꽃코딩 스크린샷
+![미녀삼총사모임](assets/IMG_1890.JPG)
+![미녀삼총사모임](assets/IMG_1891.JPG)
+![미녀삼총사모임](assets/IMG_1892.JPG)
+![미녀삼총사모임](assets/IMG_1895.JPG)

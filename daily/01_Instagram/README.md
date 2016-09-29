@@ -330,23 +330,23 @@
 
 ## 2016년 9월 28일
 
-#### Task
+### Task
 
 -	Team Goal
-	- 오프라인 모임을 통한 회의 진행
+	-	오프라인 모임을 통한 회의 진행
 
 -	신미르
-	- 오프라인 모임 참여
+	-	오프라인 모임 참여
 
-- 이태순
-  - 오프라인 모임 참여
-  - 인스타그램에서 데이터를 가져올 방법을 찾아봄
-  - 주석 추가 (https://github.com/TylorShin/npm-module-es2015-boilerplate/pull/11)
-  - package.json 에 main 을 추가해봄
+-	이태순
+  -	오프라인 모임 참여
+  -	인스타그램에서 데이터를 가져올 방법을 찾아봄
+  -	주석 추가 (https://github.com/TylorShin/npm-module-es2015-boilerplate/pull/11)
+  -	package.json 에 main 을 추가해봄
         - [issue] (https://github.com/JeffGuKang/npm-webpack-boilerplate/issues/36)
         - [pull request] (https://github.com/TylorShin/npm-module-es2015-boilerplate/pull/12)
 
 -	박경원
-	- 오프라인 모임 참여
-	- Pull-Request 과정 오류 수정
-	- github 연습
+	-	오프라인 모임 참여
+	-	Pull-Request 과정 오류 수정
+	-	github 연습

@@ -360,3 +360,15 @@
 	- 오프라인 모임 참여
 	- github 연습
 	- Pull-Request 과정 오류 수정
+
+## 2016년 9월 29일
+
+### Docs
+### Test
+### Example
+
+- 조승윤(@choseungyoon)
+	- Instaparser example code 작성(https://github.com/Instaparser/instaparser.js/pull/8)
+	- 오프라인 모임 참여
+
+### Task

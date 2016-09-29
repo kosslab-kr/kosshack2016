@@ -328,6 +328,10 @@
 ## 2016년 9월 28일
 
 ### Docs
+
+- 최규호 ([@gyuho26](https://github.com/gyuho26))
+	- Github 사용법 숙지
+	- 오프라인 모임 참여
 ### Test
 ### Example
 

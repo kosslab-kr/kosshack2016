@@ -113,12 +113,14 @@
 * @kjy95: [#58](https://github.com/youknowone/Say/pull/58) 본문 읽어주기 기능 계속 진행
 * @pmw9027:
 * @tobark: [#52](https://github.com/youknowone/Say/pull/52) UI에 stack 도입
+* @closer27: 프로젝트의 Collaborator로 등록하여 이슈를 관리하고 코드 리뷰
 
 #2016-09-29
 
-오후 4시-오후 10시까지 오프라인에서 작업을 하였습니다.
+## 오프라인 활동
+- 오후 4시-오후 8시까지 오프라인에서 작업을 하였습니다
+- 장소: 토즈 신촌본점
 
-## 참가자
 * @kjy95
 * @tobark
 * @pmw9027
@@ -126,9 +128,23 @@
 * @eeneguee
 * @AWEEKJ
 
+![](20160929_1.jpg)
+
 ## 활동
 * @kjy95: [#58](https://github.com/youknowone/Say/pull/58) 오랜 작업 끝에 드디어 결실을 맺어 URL 내용을 읽어주는 기능을 완성했습니다.
 * @pmw9027:
 * @sikeeo: [#55](https://github.com/youknowone/Say/pull/55) iOS에서 편집을 시작하면 키보드를 가릴 수 없던 문제 수정
 * @eeneguee: [#27](https://github.com/youknowone/Say/issues/27) 맥/iOS버전이 iCloud에 사용 내역 저장해 공유하도록
 * @AWEEKJ: [#56](https://github.com/youknowone/Say/pull/56) 알람 UI 개편 완료
+
+
+#2016-09-30
+
+## 오프라인 활동
+- 오후 4시-오후 10시까지 오프라인에서 작업을 하였습니다.
+- 장소: 메가젠토즈타워점
+
+* @kjy95
+* @tobark
+
+![](20160930_1.jpg)

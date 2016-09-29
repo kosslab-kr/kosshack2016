@@ -303,8 +303,6 @@
 		- Rearranged folder & Integrate files
 		- 오프라인 모임 참여
 
-<<<<<<< HEAD
-
 ### Task
 
 - Team Goal
@@ -313,9 +311,8 @@
 	- ES6 문법에 맞춘 코드 스타일 통일
 
 - 신미르
-  - Git 정리
-  - mocha + chai + sinon 을 통한 일반적인 JS unit test 구성에 대한 공부
-
+	- Git 정리
+	- mocha + chai + sinon 을 통한 일반적인 JS unit test 구성에 대한 공부
 
 - 이태순
 	- git & npm  전체적인 흐름 복습
@@ -323,35 +320,11 @@
 	- example code 가 calculator 를 사용하도록 수정해봄
 	- 오프라인 모임 참여
 
-
 - 박경원
 	- github를 통한 Pull-Request 연습(DailyReport)
 	- 수정된 코드 모니터링 및 비교
 	- 오프라인 모임 참여
 
-## 2016년 9월 28일
-
-### Task
-
--	Team Goal
-	-	오프라인 모임을 통한 회의 진행
-
--	신미르
-	-	오프라인 모임 참여
-
--	이태순
-  -	오프라인 모임 참여
-  -	인스타그램에서 데이터를 가져올 방법을 찾아봄
-  -	주석 추가 (https://github.com/TylorShin/npm-module-es2015-boilerplate/pull/11)
-  -	package.json 에 main 을 추가해봄
-        - [issue] (https://github.com/JeffGuKang/npm-webpack-boilerplate/issues/36)
-        - [pull request] (https://github.com/TylorShin/npm-module-es2015-boilerplate/pull/12)
-
--	박경원
-	-	오프라인 모임 참여
-	-	Pull-Request 과정 오류 수정
-	-	github 연습
-=======
 ## 2016년 9월 28일
 
 ### Docs
@@ -364,4 +337,26 @@
 	- 오프라인 모임 참여
 
 ### Task
->>>>>>> fd9e571a5c2b1d1e74c3f376aaf838cbe6e88dbf
+
+- Team Goal
+	- Webpack 이해하고 사용하기
+	- Git 숙달
+	- ES6 문법에 맞춘 코드 스타일 통일
+
+- 신미르
+	- 오프라인 모임 참여
+	- Git 정리
+	- mocha + chai + sinon 을 통한 일반적인 JS unit test 구성에 대한 공부
+
+- 이태순
+	- 오프라인 모임 참여
+	- 인스타그램에서 데이터를 가져올 방법을 찾아봄
+	- 주석 추가 (https://github.com/TylorShin/npm-module-es2015-boilerplate/pull/11)
+	- package.json 에 main 을 추가해봄
+		- [issue] (https://github.com/JeffGuKang/npm-webpack-boilerplate/issues/36)
+		- [pull request] (https://github.com/TylorShin/npm-module-es2015-boilerplate/pull/12)
+
+- 박경원
+	- 오프라인 모임 참여
+	- github 연습
+	- Pull-Request 과정 오류 수정

@@ -335,6 +335,9 @@
 	- Test code & path 수정
 	- 내일부터 진행 할 Instagram plugIn 회의
 	- 오프라인 모임 참여
+- 이성현
+	- 오프라인 모임 참여
+	- ES6 문법 스터디
 
 ### Task
 
@@ -360,3 +363,13 @@
 	- 오프라인 모임 참여
 	- github 연습
 	- Pull-Request 과정 오류 수정
+
+## 2016년 9월 29일
+
+### Example
+
+- 이성현
+	- request 관련 버그 이슈 제기
+	- axios, request 스터디
+	- json 파싱 스터디
+    

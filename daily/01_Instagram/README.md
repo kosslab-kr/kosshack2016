@@ -303,6 +303,7 @@
 		- Rearranged folder & Integrate files
 		- 오프라인 모임 참여
 
+<<<<<<< HEAD
 
 ### Task
 
@@ -350,3 +351,17 @@
 	-	오프라인 모임 참여
 	-	Pull-Request 과정 오류 수정
 	-	github 연습
+=======
+## 2016년 9월 28일
+
+### Docs
+### Test
+### Example
+
+- 조승윤
+	- Test code & path 수정
+	- 내일부터 진행 할 Instagram plugIn 회의
+	- 오프라인 모임 참여
+
+### Task
+>>>>>>> fd9e571a5c2b1d1e74c3f376aaf838cbe6e88dbf

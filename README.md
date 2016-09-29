@@ -105,7 +105,7 @@
     <tr>
         <th align="center" rowspan="13">9/24 개막식</th>
         <td align="center">13:30~14:00 (30m)</td>
-        <td>등록(SW개발자 또는 일반인)</td>
+        <td align="center">등록(SW개발자 또는 일반인)</td>
         <td> </td>
     </tr>
     <tr>

@@ -3,6 +3,11 @@
 ## 팀 목표
 - 팀원 모두 각자 기여할 수 있는 부분에 꾸준히 기여를 해보자.
 
+## 레파지토리
+총 2개의 레파지토리를 진행하고 있습니다.
+- [JeffGuKang/npm-webpack-boilerplate](https://github.com/JeffGuKang/npm-webpack-boilerplate)
+- [Instaparser/instaparser.js](https://github.com/Instaparser/instaparser.js)
+
 ## 마일드스톤
   <img src ="https://upload.wikimedia.org/wikipedia/commons/4/4e/Octicons-milestone.svg" width="27"> 첫 번째 `npm-webpack-boilerplate` 릴리즈 버전 배포
 

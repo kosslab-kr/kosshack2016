@@ -32,7 +32,13 @@
 	- [Repository](https://github.com/appcelerator/titanium_mobile)
 
 3. IoT Labs (멘토 김종광)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-24.md)
+	- [활동 내용 - Day 1](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-24.md)
+	- [활동 내용 - Day 2](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-25.md)
+	- [활동 내용 - Day 3](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-26.md)
+	- [활동 내용 - Day 4](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-27.md)
+	- [활동 내용 - Day 5](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-28.md)
+	- [활동 내용 - Day 6](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-29.md)
+	- [활동 내용 - Day 7](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-30.md)
 	- [Repository](https://github.com/jongkwang/IoTLabs)
 
 4. Chromium/Blink (멘토 방진호)
@@ -58,6 +64,7 @@
 	- [활동 내용 Day 4](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-27.md)
 	- [활동 내용 Day 5](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-28.md)
 	- [활동 내용 Day 6](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-29.md)
+	- [활동 내용 Day 7](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-30.md)
 	- [Repository](https://github.com/soomtong/blititor)
 
 9. Say (멘토 정윤원)

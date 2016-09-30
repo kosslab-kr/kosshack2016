@@ -17,18 +17,16 @@
 * git 을 이용해서 수정한 내용에 대해 패치를 만들고 그것을 메일링 리스트에 전송하거나, github 에 pull request 를 보내는 것을 학습하여 리눅스 커널이 개발되는 과정을 학습합니다.
 * 해커톤이 끝난 이후에도 지속적으로 perf 툴의 개발 진행상황에 관심을 가지고 지속적인 contribution 을 할 수 있기를 희망합니다.
 
-## Links
-perf 를 이해하는데 도움이 되는 링크를 공유합니다.
-* http://www.brendangregg.com/perf.html
-* http://egloos.zum.com/studyfoss/v/5636485
-* http://sandsoftwaresound.net/perf/
-* https://perf.wiki.kernel.org/index.php/Tutorial
-* http://blog.2ndquadrant.com/tracing-postgresql-perf/
-* http://events.linuxfoundation.org/sites/events/files/lcjp13_takata.pdf
-
 ## 마일스톤 관리 (각자 미션과 진행사항 표시)
 https://github.com/kosslab-kr/linux-perf/milestones
-* 중간과정 사진
+
+### * 총 14개의 pull-request 연습 약 10회의 PATCH 메일 연습 (최종)
+### * 총 145개 issues(미션, 과제) 중에서 96개  완료 (최종)
+
+![screenshot from 2016-09-30 20-31-46](https://cloud.githubusercontent.com/assets/3875235/18990460/f0970034-874c-11e6-8f4b-032103e4b859.png)
+
+
+* 각자 마일스톤을 통한 미션(issue) 처리 수행 중간과정 사진
 
 ![screenshot from 2016-09-27 23-56-22](https://cloud.githubusercontent.com/assets/3875235/18986875/e844d112-8739-11e6-81c3-d281c6c13f7a.png)
 
@@ -81,6 +79,15 @@ https://github.com/kosslab-kr/linux-perf/milestone/1
 * perf의 Documentation/tips.txt 실제적용 및 추가라인 만들기
 * perf 소스리딩 tool 익히기 미션
 
+* 온라인 작업중인 최왕용씨
+
+![img_2546](https://cloud.githubusercontent.com/assets/3875235/18988955/284d7b56-8744-11e6-8f84-e1707f1cad24.JPG)
+
+* 온라인 작업중인 양낙영씨
+
+![img_2547](https://cloud.githubusercontent.com/assets/3875235/18989881/7c4c7acc-8749-11e6-9eca-4114477ac5a4.JPG)
+
+
 ## 2016.09.28 (Online)
 * perf 소스리딩미션 "perf.data에서 이벤트샘플정보 읽어서 evlist에 어떻게 세팅하는가 ?"
 * perf 소스리딩 미션 "subcommand는 어떻게 실행되는가?"
@@ -89,6 +96,20 @@ https://github.com/kosslab-kr/linux-perf/milestone/1
 * perf diff 기능관련 상의중 캡쳐
 
 ![img_2541](https://cloud.githubusercontent.com/assets/3875235/18987351/2ccf63ea-873c-11e6-8be9-94f7c97ad015.JPG)
+
+* 새로운 perf stat diff 명령 (아이디어) 결과 사진
+
+![nambong_ha](https://cloud.githubusercontent.com/assets/3875235/18988770/185ba64c-8743-11e6-9eaa-ec7eed5c9266.png)
+
+* subcommand 실행 과정 분석과정
+
+![screenshot from 2016-09-30 20-24-26](https://cloud.githubusercontent.com/assets/3875235/18990331/15ce1a50-874c-11e6-9f14-e4f86be9a242.png)
+
+
+* perf config --list 가 parse 되는 과정 분석중
+
+![screenshot from 2016-09-30 20-24-43](https://cloud.githubusercontent.com/assets/3875235/18990334/182e36f4-874c-11e6-954b-6c3660410acd.png)
+
 
 ## 2016.09.29 (Offline)
 * (분석 정리) perf 소스리딩 미션 "subcommand는 어떻게 실행되는가?"
@@ -110,15 +131,56 @@ https://github.com/kosslab-kr/linux-perf/milestone/1
 
 
 ### * 마지막 커널패치 5명 모두 전송후 사진 (2명은 메인테이너(Arnaldo)에게 답변받고 적용 대기중)
+### * 커널에 보낸 PATCH 내용은 동일하게 pull-request도 연습
+https://github.com/kosslab-kr/linux-perf/pull/154
+https://github.com/kosslab-kr/linux-perf/pull/153
+https://github.com/kosslab-kr/linux-perf/pull/152
+https://github.com/kosslab-kr/linux-perf/pull/151
+https://github.com/kosslab-kr/linux-perf/pull/150
+https://github.com/kosslab-kr/linux-perf/pull/149
+https://github.com/kosslab-kr/linux-perf/pull/148
+https://github.com/kosslab-kr/linux-perf/pull/147
+
+* 12시간만에 리눅스 커널 PATCH 성공 후 기쁨의 사진 :+1:
 
 ![img_2534](https://cloud.githubusercontent.com/assets/3875235/18987456/b303485a-873c-11e6-9267-2d9d430bbd7f.JPG)
 
+* 하남봉씨 Arnaldo (Linux Kernel - perf 메인테이너) 답장 받은 사진
+
 ![img_2543](https://cloud.githubusercontent.com/assets/3875235/18987586/34b5127a-873d-11e6-92a3-b8addeef9aac.PNG)
 
+* 김선영 씨 Arnaldo (Linux Kernel - perf 메인테이너) 답장 받은 사진
+
 ![img_2544](https://cloud.githubusercontent.com/assets/3875235/18987587/38ce525e-873d-11e6-83fc-5afd96b056ec.JPG)
+
+* 조성수씨 PATCH 메일 전송 결과
+
+<img width="1251" alt="img_2548" src="https://cloud.githubusercontent.com/assets/3875235/18990027/48e5fc8e-874a-11e6-850c-90ce93ca24ee.PNG">
+
+* 하남봉씨 PATCH 메일 내용
+
+![img_2549](https://cloud.githubusercontent.com/assets/3875235/18990029/4b55e592-874a-11e6-94ae-917fda27e0ad.JPG)
+
 
 
 ## 2016.09.30 (Online, Offline)
 * 도커를 활용한 perf 개발 테스트 환경 구축 작업
 * Linux Kernel - perf 프로젝트 초보개발자를 위한 가이드문서
 * 발표자료 작업 진행
+
+![img_2550](https://cloud.githubusercontent.com/assets/3875235/18990039/571a007a-874a-11e6-8861-bab4cae45a14.PNG)
+
+* 초보자를 위한 Linux kernel 패치 가이드 (조성수)
+https://github.com/kosslab-kr/linux-perf/issues/153
+
+![screenshot from 2016-09-30 21-07-19](https://cloud.githubusercontent.com/assets/3875235/18991233/1bd1d33c-8752-11e6-8eac-4b2a355e4a37.png)
+
+
+## Links
+perf 를 이해하는데 도움이 되는 링크를 공유합니다.
+* http://www.brendangregg.com/perf.html
+* http://egloos.zum.com/studyfoss/v/5636485
+* http://sandsoftwaresound.net/perf/
+* https://perf.wiki.kernel.org/index.php/Tutorial
+* http://blog.2ndquadrant.com/tracing-postgresql-perf/
+* http://events.linuxfoundation.org/sites/events/files/lcjp13_takata.pdf

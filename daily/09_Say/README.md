@@ -85,7 +85,7 @@
 
 ## 활동
 * @tobark: [#41](https://github.com/youknowone/Say/pull/41) UI의 사소한 오류를 바로잡음
-  * 창이 너무 작게 줄어들들지 않도 방지
+  * 창이 너무 작게 줄어들들지 않도록 방지
   * 목소리 선택 콤보박스 동작 개선
 * @kjy95: [#58](https://github.com/youknowone/Say/pull/58) URL 읽어주기 기능 계속 진행. 제목 읽기까지 머지하고 @tobark 님의 조언에 따라 본문 읽기도 진행 중
 * @closer27: 맥 버전과 iOS 버전의 다른 백엔드 인터페이스를 통합
@@ -111,7 +111,6 @@
 * @Amanida: [#48](https://github.com/youknowone/Say/pull/48) iOS 재생-정지 기능
 * @AWEEKJ: [#56](https://github.com/youknowone/Say/pull/56) @tobark 님의 제안에 따라 알람 UI 개편 중
 * @kjy95: [#58](https://github.com/youknowone/Say/pull/58) 본문 읽어주기 기능 계속 진행
-* @pmw9027:
 * @tobark: [#52](https://github.com/youknowone/Say/pull/52) UI에 stack 도입
 * @closer27: 프로젝트의 Collaborator로 등록하여 이슈를 관리하고 코드 리뷰
 
@@ -132,7 +131,7 @@
 
 ## 활동
 * @kjy95: [#58](https://github.com/youknowone/Say/pull/58) 오랜 작업 끝에 드디어 결실을 맺어 URL 내용을 읽어주는 기능을 완성했습니다.
-* @pmw9027:
+* @pmw9027: [#54](https://github.com/youknowone/Say/pull/54) 정지 기능 개선
 * @sikeeo: [#55](https://github.com/youknowone/Say/pull/55) iOS에서 편집을 시작하면 키보드를 가릴 수 없던 문제 수정
 * @eeneguee: [#27](https://github.com/youknowone/Say/issues/27) 맥/iOS버전이 iCloud에 사용 내역 저장해 공유하도록
 * @AWEEKJ: [#56](https://github.com/youknowone/Say/pull/56) 알람 UI 개편 완료
@@ -141,10 +140,30 @@
 #2016-09-30
 
 ## 오프라인 활동
-- 오후 4시-오후 10시까지 오프라인에서 작업을 하였습니다.
+- 오후 4시-오후 12시까지 오프라인에서 작업을 하였습니다.
 - 장소: 메가젠토즈타워점
 
 * @kjy95
 * @tobark
+* @eeneguee
+* @AWEEKJ
+* @deffjoowon
+* @closer27
 
 ![](20160930_1.jpg)
+![](20160930_2.jpg)
+![](20160930_3.jpg)
+![](20160930_4.jpg)
+
+## 활동
+
+* @kjy95: @deffjoowon 님의 문제 해결을 도와주었습니다
+* @tobark: [#67](https://github.com/youknowone/Say/pull/67) UI 개선. 정지 아이콘이 노출되지 않는 문제
+* @eeneguee: 발표 준비
+* @AWEEKJ: 발표 준비 [#69](https://github.com/youknowone/Say/pull/69) Today 확장에 일시정지 기능 추가 [#66]((https://github.com/youknowone/Say/pull/66) 정지 기능 버그 수정
+* @deffjoowon: [#68](https://github.com/youknowone/Say/pull/68) 번역해서 읽기 기능 기초를 완성
+* @closer27: 코드 리뷰 및 다른 사람들의 코드 작성을 도와주었습니다
+
+# 종합보고
+
+

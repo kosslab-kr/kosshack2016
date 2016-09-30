@@ -91,7 +91,7 @@
 - 조승윤
 	- 팀원들에게 git 및 github에 대해 설명
 	- Open-Source의 전반적인 흐름 공부
-	
+
 #### Docs
 - 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
   - [Pull-Request #6](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/6)  : `package.json`에서 `author` 키워드 대신 `contributors`로 변경 후 `author` 목록 추가
@@ -373,6 +373,12 @@
 ## 2016년 9월 29일
 
 ### Docs
+
+- 최규호
+ - 오프라인 모임 참여
+ - README.md 수정
+ - Git 명령어 공부
+
 ### Test
 ### Example
 

@@ -22,8 +22,8 @@
 ### 주최 & 주관
 * 미래창조과학부 & 정보통신산업진흥원, 한국IT비즈니스진흥협회, 공개SW개발자Lab
 
-###프로젝트 소개
-1. npm module 제작 boilerplate (멘토 강명구)
+### 프로젝트 소개
+1. NPM Module Boilerplate 및 Instagram Module (멘토 강명구)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/01_Instagram/README.md)
 	- [Repository](https://github.com/JeffGuKang/npm-module-es2015-boilerplate)
 
@@ -55,6 +55,9 @@
 	- [활동 내용 Day 1](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md)
 	- [활동 내용 Day 2](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-25.md)
 	- [활동 내용 Day 3](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-26.md)
+	- [활동 내용 Day 4](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-27.md)
+	- [활동 내용 Day 5](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-28.md)
+	- [활동 내용 Day 6](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-29.md)
 	- [Repository](https://github.com/soomtong/blititor)
 
 9. Say (멘토 정윤원)
@@ -71,7 +74,7 @@
 	- [Repository: Johanna](https://github.com/addnull/johanna)
 
 * 프로젝트에 대한 자세한 내용은 [홈페이지](https://kosshackathon.kr/project)에서 확인
-* 일일 결과보고서 양식은 [블리티터](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md) 참조
+* 일일 결과보고서 양식은 [리포트 템플릿](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/report_template.md) 참조
 
 ### 시상
 * 개인별 시상
@@ -90,38 +93,146 @@
 
 ### 프로그램 일정
 
-구분     |시간                  | 주요내용                                 | 비고                         
----------|----------------------|------------------------------------------|------------------------------
-         |13:30~14:00 (30m)     | 등록(SW개발자 또는 일반인)               |                              
-         |14:00~14:01 (1m)      | 개막식 개회 선언                         | 사회자                       
-         |14:01~14:06 (5m)      | 인사말                                   | IPA                          
-         |14:06~14:11 (5m)      | 축사                                     | NIPA                         
-         |14:11~14:31 (20m)     | 강연(공개SW란 무엇인가)                  | 오픈소스 프론티어 1기 신정규
-         |14:31~15:31 (1H)      | 강연(github 사용법, 공개SW 개발과정)     | 오픈소스 프론티어 3기 송태웅
-9/24     |15:31~15:40 (9m)      | Break                                    |                              
-개막식   |15:40~16:00 (20m)     | 멘토 및 프로젝트 소개(11개)              | 사회자                       
-         |16:00~16:10 (10m)     | 운영방법안내                             | 사회자                       
-         |16:10~19:10 (3H)      | 팀별 진행방향 논의                       | 멘토 & 팀장                  
-         |                      | 선정된 주제에 대한 개발방향              |                              
-         |      19:10           | 공식행사 종료                            | 사회자                       
-         |19:10~21:10 (2H)      | 팀별 운영                                |                              
-         |                      |                                          |   
-9/24     |                      | 프로젝트 별 작업진행, 질의응답           |   
-~9/30    |                      |                                          | 사무국  
-프로젝트 |       팀별활동       | 멘토 및 커미터 답변,                     | (기술검증/멘토링/
-활동     |                      | github 행사프로젝트 일일활동내용 기록    |  장소 및 운영비 지원)
-         |                      | 활동마감(9/30, 24:00)                    |   
-         |                      |                                          |   
-         |10:00~12:00 (2H)      | 팀별 활동내역 심사                       | 멘토단  
-         |13:00~14:00 (1H)      | 팀원 집결 및 등록                        |   
-         |14:00~14:01 (1m)      | 시상식 개회선언                          | 사회자           
-         |14:01~14:06 (5m)      | 인사말                                   | IPA
-10/1     |14:06~14:11 (5m)      | 축사                                     | NIPA  
-시상식   |14:11~15:11 (1H)      | 팀별 활동 내역 발표(11개)                | 프로젝트 리더  
-         |15:11~15:20 (9m)      | Break                                    |
-         |15:20~16:10 (50m)     | 수상자 발표 및 시상                      | NIPA, IPA
-         |16:10~16:20 (10m)     | 단체사진 촬영			           | 사회자
-         |      16:20           | 행사종료                                 | 사회자
+<table>
+    <thead>
+        <tr>
+            <th align="center">구분</th>
+            <th align="center">시간</th>
+            <th align="center">주요내용</th>
+            <th align="center">비고</th>
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <th align="center" rowspan="13">9/24 개막식</th>
+        <td align="center">13:30~14:00 (30m)</td>
+        <td align="center">등록(SW개발자 또는 일반인)</td>
+        <td> </td>
+    </tr>
+    <tr>
+      <td align="center">14:00~14:01 (1m)</td>
+      <td align="center">개막식 개회 선언</td>
+      <td align="center">사회자</td>
+    </tr>
+    <tr>
+      <td align="center">	14:01~14:06 (5m)</td>
+      <td align="center">인사말</td>
+      <td align="center">IPA</td>
+    </tr>
+    <tr>
+      <td align="center">	14:06~14:011 (5m)</td>
+      <td align="center">축사</td>
+      <td align="center">NIPA</td>
+    </tr>
+    <tr>
+      <td align="center">	14:11~14:31 (20m)</td>
+      <td align="center">강연(공개SW란 무엇인가)</td>
+      <td align="center">오픈소스 프론티어 1기 신정규</td>
+    </tr>
+    <tr>
+      <td align="center">	14:31~15:31 (1H)</td>
+      <td align="center">강연(Github 사용법, 공개SW 개발과정)</td>
+      <td align="center">오픈소스 프론티어 3기 송태웅</td>
+    </tr>
+    <tr>
+      <td align="center">	15:31~15:40 (9m)</td>
+      <td align="center">Break</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">	15:40~16:00 (20m)</td>
+      <td align="center">멘토 및 프로젝트 소개(11개)</td>
+      <td align="center">사회자</td>
+    </tr>
+    <tr>
+      <td align="center">	16:00~16:10 (10m)</td>
+      <td align="center">운영방법 안내</td>
+      <td align="center">사회자</td>
+    </tr>
+    <tr>
+      <td align="center" rowspan="2">	16:10~19:10 (3H)</td>
+      <td align="center">팀별 진행방향 논의</td>
+      <td align="center">멘토 & 팀장</td>
+    </tr>
+    <tr>
+      <td align="center">선정된 주제에 대한 개발방향</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">19:10</td>
+      <td align="center">공식행사 종료</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">19:10~21:10 (2H)</td>
+      <td align="center">팀별 운영</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <th align="center" rowspan="2">9/24~9/30 프로젝트 활동</th>
+      <td align="center"></td>
+      <td align="center">프로젝트 별 작업진행, 질의응답</td>
+      <td align="center">사무국</td>
+    </tr>
+    <tr>
+      <td align="center">팀별활동</td>
+      <td align="center">멘토 및 커미터 답변, Github 해카톤 프로젝트 일일 활동 내용 기록</td>
+      <td align="center">장소 및 운영비 지원</td>
+    </tr>
+    <tr>
+      <th align="center" colspan="4">활동 마감 (9/30, 24:00)</th>
+    </tr>
+    <tr>
+      <th align="center" rowspan="10">10/1 시상식</th>
+      <td align="center">10:00~12:00 (2H)</td>
+      <td align="center">팀별 활동내역 심사</td>
+      <td align="center">멘토단</td>
+    </tr>
+    <tr>
+      <td align="center">13:00~14:00 (2H)</td>
+      <td align="center">팀원 집결 및 등록</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">14:00~14:01 (1m)</td>
+      <td align="center">시상식 개회 선언</td>
+      <td align="center">사회자</td>
+    </tr>
+    <tr>
+      <td align="center">14:01~14:06 (5m)</td>
+      <td align="center">인사말</td>
+      <td align="center">IPA</td>
+    </tr>
+    <tr>
+      <td align="center">14:06~14:11 (5m)</td>
+      <td align="center">축사</td>
+      <td align="center">NIPA</td>
+    </tr>
+    <tr>
+      <td align="center">14:11~15:11 (1H)</td>
+      <td align="center">팀별 활동 내역 발표 (11팀)</td>
+      <td align="center">프로젝트 리더</td>
+    </tr>
+    <tr>
+      <td align="center">15:11~15:20 (9m)</td>
+      <td align="center">Break</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">15:20~16:10 (50m)</td>
+      <td align="center">수상자 발표 및 시상</td>
+      <td align="center">NIPA, IPA</td>
+    </tr>
+    <tr>
+      <td align="center">16:10~16:20 (10m)</td>
+      <td align="center">단체사진 촬영</td>
+      <td align="center" rowspan="2">사회자</td>
+    </tr>
+    <tr>
+      <td align="center">16:20</td>
+      <td align="center">행사종료</td>
+    </tbody>
+</table>
 
 ### 팀별 활동 가이드라인
 * 운영비 지급 (10인 기준 40만원)
@@ -140,7 +251,7 @@
 	- 소스나 산출물, 발표자료 등 정리하여 사전에 제출 (프로젝트별 팀장이 진행)
 * 심사 진행 및 시상
 
-### github 운영방안
+### Github 운영방안
 1. 11개 프로젝트를 KossLab git 페이지 (github.com/kosslab-kr)에 포크(Fork)하여 진행
 	*포크가 불가능한 프로젝트는 링크로 연결
 2. 실제 프로젝트 진행은 포크된 프로젝트 내에서 진행되며 정리된 결과물은 'kosshack2016'에서 확인 가능

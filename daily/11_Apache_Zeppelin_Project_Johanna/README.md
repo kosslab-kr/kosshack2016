@@ -203,6 +203,18 @@
         - 오후 6시 반 ~ 오후 10시
         - 토즈 강남 2호점 (신논현역, 교보타워옆)
         - 예약이름: KOSSLAB 해커톤 11팀
+    - 참여 멤버
+        - 한종원, 전지성, 권민재, 이태헌
+    - 논의안건 및 작업
+        - Zeppelin 문서 PR 및 리뷰
+            - https://github.com/kosslab-kr/zeppelin/pull/7 (전지성)
+            - https://github.com/kosslab-kr/zeppelin/pull/8 (강현정)
+        - Johanna 작업 PR 및 리뷰
+            - https://github.com/addnull/johanna/pull/24 (유주원)
+            - https://github.com/addnull/johanna/pull/25 (전지성)
+            - https://github.com/addnull/lili/pull/1 (권민재)
+    - 사진
+    ![alt text](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/11_Apache_Zeppelin_Project_Johanna/photo/20160928_212711.jpg "20160928_212711.jpg")
 
 ### 2016-09-29
 

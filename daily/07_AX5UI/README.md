@@ -288,3 +288,76 @@ https://github.com/ax5ui/ax5ui-kernel/issues/20
 ### 테스트코드팀의 멋진 3남자들
 ![테스트코드팀](assets/KakaoTalk_Photo_2016-09-30-02-38-31.jpeg)
 ![테스트코드팀](assets/KakaoTalk_Photo_2016-09-30-02-38-52.jpeg)
+
+
+# 9월 30일
+내일은 발표날이어서 문서팀은 발표준비를 중점적으로 하였습니다.
+코드개발팀과 테스트코드 작성팀은 마지막까지 열심히 커밋과 풀리퀘스트를 보냈습니다.
+
+@hyunjun19 @thomasJang
+add formatter TEST (#76)  …
+hyunjun19 committed with thomasJang 2 hours ago
+3127296  
+ @mojosoeun @thomasJang
+feat: add js doc for dialog (#77)  …
+mojosoeun committed with thomasJang 2 hours ago
+eb03c67  
+ @hyunjun19 @thomasJang
+toast 비동기 이벤트 테스트 처리 추가 (#75)  …
+hyunjun19 committed with thomasJang 3 hours ago
+3391445  
+ @hoksi @thomasJang
+AX 그리드 Remote 소트 기능 연동 샘플 (#74)  …
+hoksi committed with thomasJang 4 hours ago
+490ced2  
+ @dongyoung86 @thomasJang
+Documentation Content Fix - ax5ui-core (#73)  …
+dongyoung86 committed with thomasJang 4 hours ago
+7536216  
+ @thomasJang
+ax5grid@0.2.22
+thomasJang committed 4 hours ago
+e6455f6  
+ @thomasJang
+bugfix ~ ax5grid remote soft
+thomasJang committed 4 hours ago
+f566415  
+ @thomasJang
+ax5grid remote soft 기능 테스트
+thomasJang committed 6 hours ago
+b419a4a  
+ @groovedk @thomasJang
+ax5core example code 작성 (#71)  …
+groovedk committed with thomasJang 6 hours ago
+0e86754  
+ @leehan0617 @thomasJang
+add ax5.ui.modal test (#72)  …
+leehan0617 committed with thomasJang 6 hours ago
+9f8ed9b  
+ @leehan0617 @thomasJang
+ax5.ui.calendar (#70)  …
+leehan0617 committed with thomasJang 8 hours ago
+b5fe832  
+ @thomasJang
+API update
+thomasJang committed 10 hours ago
+2f13a57  
+ @hoksi @thomasJang
+API별 샘플코드 추가 (#69)  …
+hoksi committed with thomasJang 10 hours ago
+0a240f5  
+ @dongyoung86 @thomasJang
+Documentation Content Fix - ax5ui-autocomplete (#68)  …
+dongyoung86 committed with thomasJang 14 hours ago
+2af1ee3  
+ @mojosoeun @thomasJang
+feat: add js doc (#67)  …
+mojosoeun committed with thomasJang a day ago
+93f9a27  
+ @dongyoung86 @thomasJang
+Documentation Content Fix - ax5ui-calendar (#65)  …
+dongyoung86 committed with thomasJang a day ago
+e63c861  
+ @hyunjun19 @thomasJang
+add ax5.ui.toast TEST (#66)  …
+hyunjun19 committed with thomasJang a day ago

@@ -29,6 +29,7 @@
 * @tobark: [#20](https://github.com/youknowone/Say/pull/20) #20 완료
 * @eeneguee: [#22](https://github.com/youknowone/Say/issues/22) 완료
 
+![](20160924_1.png)
 
 # 2016-09-25
 

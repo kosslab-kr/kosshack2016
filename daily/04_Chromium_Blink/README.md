@@ -1,3 +1,45 @@
+# Summary
+Presentation: http://bit.ly/koss_chromium
+
+# 9월 30일
+Slack에서 온라인으로 진행
+## Contribution 목록
+* 이환승님
+	- https://codereview.chromium.org/2369733002/ (Landed)
+	- https://codereview.chromium.org/2364393002/ (Landed)
+	- https://codereview.chromium.org/2370623003/ (Landed)
+	- https://codereview.chromium.org/2365153002/ (In review)
+	- https://codereview.chromium.org/2374773002/ (Landed)
+	- https://codereview.chromium.org/2380713004/ (In review)
+* 나동희님
+	- https://codereview.chromium.org/2362323003/ (Landed)
+	- https://codereview.chromium.org/2375583002/ (Landed, Revert)
+	- https://codereview.chromium.org/2370633002/ (Landed)
+	- https://codereview.chromium.org/2366383003/ (Landed)
+	- https://codereview.chromium.org/2381883002/ (In review)
+	- https://codereview.chromium.org/2377203004/ (In review)
+* 김기황님
+	- https://codereview.chromium.org/2370503003/ (N/A)
+	- https://codereview.chromium.org/2378083002/ (Landed)
+* 조희원님
+	- https://codereview.chromium.org/2369453006/ (N/A)
+	- https://codereview.chromium.org/2371573002/ (In review)
+	- https://codereview.chromium.org/2372913002/ (Landed)
+	- https://bugs.chromium.org/p/chromium/issues/detail?id=649938
+* 박열님
+	- https://codereview.chromium.org/2376643002/ (Landed)
+	- https://codereview.chromium.org/2381463002/ (In review)
+	- https://codereview.chromium.org/2380673002/ (Landed)
+	- https://codereview.chromium.org/2384753002/ (In review)
+	- Documentation: https://docs.google.com/presentation/d/1H38DfNZyUULOm9T3N_J7AdLFpb5BAvFQ4K4yZfWya4c/edit?usp=drive_web
+* 이수정님
+	- https://codereview.chromium.org/2374983002/ (In review)
+* 하동휘님
+	- https://codereview.chromium.org/2378663003/ (In review)
+* 구민석님
+	- https://codereview.chromium.org/2373773002/ (In review)
+* 도창욱님 Issue 진행 중(현재 개인 사정으로 진행 중단)
+
 # 9월 29일
 오프라인 모임, 참석 못한 멘티들은 Slack으로 진행.
 ## 오프라인 참석자 목록

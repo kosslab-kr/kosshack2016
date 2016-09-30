@@ -141,7 +141,7 @@ https://github.com/kosslab-kr/linux-perf/pull/149
 https://github.com/kosslab-kr/linux-perf/pull/148
 https://github.com/kosslab-kr/linux-perf/pull/147
 
-* 12시간 밤샘작업후 7시 반에 기쁨의 사진 :+1:
+* 12시간만에 리눅스 커널 PATCH 성공 후 기쁨의 사진 :+1:
 
 ![img_2534](https://cloud.githubusercontent.com/assets/3875235/18987456/b303485a-873c-11e6-9267-2d9d430bbd7f.JPG)
 
@@ -170,6 +170,10 @@ https://github.com/kosslab-kr/linux-perf/pull/147
 
 ![img_2550](https://cloud.githubusercontent.com/assets/3875235/18990039/571a007a-874a-11e6-8861-bab4cae45a14.PNG)
 
+* 초보자를 위한 Linux kernel 패치 가이드 (조성수)
+https://github.com/kosslab-kr/linux-perf/issues/153
+
+![screenshot from 2016-09-30 21-07-19](https://cloud.githubusercontent.com/assets/3875235/18991233/1bd1d33c-8752-11e6-8eac-4b2a355e4a37.png)
 
 
 ## Links

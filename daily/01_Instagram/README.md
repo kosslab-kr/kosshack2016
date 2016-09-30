@@ -91,7 +91,7 @@
 - 조승윤
 	- 팀원들에게 git 및 github에 대해 설명
 	- Open-Source의 전반적인 흐름 공부
-	
+
 #### Docs
 - 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
   - [Pull-Request #6](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/6)  : `package.json`에서 `author` 키워드 대신 `contributors`로 변경 후 `author` 목록 추가
@@ -369,8 +369,6 @@
 	- 오프라인 모임 참여
 	- github 연습
 	- Pull-Request 과정 오류 수정
-<<<<<<< HEAD
-=======
 
 ## 2016년 9월 29일
 
@@ -383,4 +381,23 @@
 	- 오프라인 모임 참여
 
 ### Task
->>>>>>> 24d47a955c3b2a8c13c43cc5573012477c10aa50
+
+- Team Goal
+	- Webpack 이해하고 사용하기
+	- Git 숙달
+	- ES6 문법에 맞춘 코드 스타일 통일
+
+- 신미르
+	- 인스타 데이터 수집을 위한 기본 환경 과 클래스 구축
+	- 조원들 Q&A 실시
+
+- 이태순
+	- npm-webpack-boilerplate 코드 정리
+		- [divide code] (https://github.com/TylorShin/npm-module-es2015-boilerplate/pull/13)
+	- 오프라인 모임 참여
+	- Instaparser Add method
+		- [최신 글 가져오기] (https://github.com/Instaparser/instaparser.js/pull/4)
+
+- 박경원
+	- github 정리 및 DailyReport 수정
+	- 오프라인 모임 참여

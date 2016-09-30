@@ -81,6 +81,15 @@ https://github.com/kosslab-kr/linux-perf/milestone/1
 * perf의 Documentation/tips.txt 실제적용 및 추가라인 만들기
 * perf 소스리딩 tool 익히기 미션
 
+* 온라인 작업중인 최왕용씨
+
+![img_2546](https://cloud.githubusercontent.com/assets/3875235/18988955/284d7b56-8744-11e6-8f84-e1707f1cad24.JPG)
+
+* 온라인 작업중인 양낙영씨
+
+![img_2547](https://cloud.githubusercontent.com/assets/3875235/18989881/7c4c7acc-8749-11e6-9eca-4114477ac5a4.JPG)
+
+
 ## 2016.09.28 (Online)
 * perf 소스리딩미션 "perf.data에서 이벤트샘플정보 읽어서 evlist에 어떻게 세팅하는가 ?"
 * perf 소스리딩 미션 "subcommand는 어떻게 실행되는가?"
@@ -89,6 +98,11 @@ https://github.com/kosslab-kr/linux-perf/milestone/1
 * perf diff 기능관련 상의중 캡쳐
 
 ![img_2541](https://cloud.githubusercontent.com/assets/3875235/18987351/2ccf63ea-873c-11e6-8be9-94f7c97ad015.JPG)
+
+* 새로운 perf stat diff 명령 (아이디어) 결과 사진
+
+![nambong_ha](https://cloud.githubusercontent.com/assets/3875235/18988770/185ba64c-8743-11e6-9eaa-ec7eed5c9266.png)
+
 
 ## 2016.09.29 (Offline)
 * (분석 정리) perf 소스리딩 미션 "subcommand는 어떻게 실행되는가?"
@@ -117,8 +131,27 @@ https://github.com/kosslab-kr/linux-perf/milestone/1
 
 ![img_2544](https://cloud.githubusercontent.com/assets/3875235/18987587/38ce525e-873d-11e6-83fc-5afd96b056ec.JPG)
 
+<img width="1251" alt="img_2548" src="https://cloud.githubusercontent.com/assets/3875235/18990027/48e5fc8e-874a-11e6-850c-90ce93ca24ee.PNG">
+
+
+![img_2549](https://cloud.githubusercontent.com/assets/3875235/18990029/4b55e592-874a-11e6-94ae-917fda27e0ad.JPG)
+
+
+* 커널에 보낸 PATCH 내용은 동일하게 pull-request도 연습
+https://github.com/kosslab-kr/linux-perf/pull/154
+https://github.com/kosslab-kr/linux-perf/pull/153
+https://github.com/kosslab-kr/linux-perf/pull/152
+https://github.com/kosslab-kr/linux-perf/pull/151
+https://github.com/kosslab-kr/linux-perf/pull/150
+https://github.com/kosslab-kr/linux-perf/pull/149
+https://github.com/kosslab-kr/linux-perf/pull/148
+https://github.com/kosslab-kr/linux-perf/pull/147
 
 ## 2016.09.30 (Online, Offline)
 * 도커를 활용한 perf 개발 테스트 환경 구축 작업
 * Linux Kernel - perf 프로젝트 초보개발자를 위한 가이드문서
 * 발표자료 작업 진행
+
+![img_2550](https://cloud.githubusercontent.com/assets/3875235/18990039/571a007a-874a-11e6-8861-bab4cae45a14.PNG)
+
+

@@ -26,6 +26,7 @@
 1. NPM Module Boilerplate 및 Instagram Module (멘토 강명구)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/01_Instagram/README.md)
 	- [Repository](https://github.com/JeffGuKang/npm-module-es2015-boilerplate)
+	- [Repository](https://github.com/Instaparser/instaparser.js)
 
 2. Titanium Boiler Plate Templete (멘토 김동우)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/02_Titanium_Boiler_Plate_Template/2016-09-24.md)

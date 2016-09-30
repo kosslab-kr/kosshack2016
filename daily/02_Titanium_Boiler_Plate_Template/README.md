@@ -270,7 +270,7 @@
 		- 최석환 (soulmade00) : 
 			- listview수정 -> sample소스 확인
 		- 김유진 (Yoojinn) : 
-			- 
+			- 코드분석
 		- 이필구 (Feelgu) : 
 			- 
 		- 유승연 (dbtmddus) : 

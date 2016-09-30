@@ -103,6 +103,15 @@ https://github.com/kosslab-kr/linux-perf/milestone/1
 
 ![nambong_ha](https://cloud.githubusercontent.com/assets/3875235/18988770/185ba64c-8743-11e6-9eaa-ec7eed5c9266.png)
 
+* subcommand 실행 과정 분석과정
+
+![screenshot from 2016-09-30 20-24-26](https://cloud.githubusercontent.com/assets/3875235/18990331/15ce1a50-874c-11e6-9f14-e4f86be9a242.png)
+
+
+* perf config --list 가 parse 되는 과정 분석중
+
+![screenshot from 2016-09-30 20-24-43](https://cloud.githubusercontent.com/assets/3875235/18990334/182e36f4-874c-11e6-954b-6c3660410acd.png)
+
 
 ## 2016.09.29 (Offline)
 * (분석 정리) perf 소스리딩 미션 "subcommand는 어떻게 실행되는가?"

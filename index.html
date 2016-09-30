@@ -42,6 +42,12 @@
         .card *{
             word-break: break-all;
         }
+
+        @media (min-width: 1200px) {
+            .container {
+                width: 100%;
+            }
+        }
     </style>
 </head>
 <body>
@@ -95,7 +101,7 @@
                         {{#payload}}
 
                         {{#commits}}
-                        <a href="{{#@htmlURL}}{{url}}{{/@htmlURL}}" target="_blank">{{{message}}}</a>
+                        <a href="{{#@htmlURL}}{{url}}{{/@htmlURL}}" target="_blank">{{#@message}}{{{message}}}{{/@message}}</a>
                         {{/commits}}
 
                         {{#pull_request}}
@@ -114,7 +120,7 @@
                     {{#comment}}
                     <a href="{{html_url}}" target="_blank">{{{title}}}</a>
                     <div style="color: #888;">
-                        {{{body}}}
+                        {{#@body}}{{{body}}}{{/@body}}
                     </div>
                     {{/comment}}
                     {{/issue}}
@@ -185,13 +191,23 @@
                                     //console.log(this);
                                     this.url = this.url.replace("https://api.", "https://").replace("repos/", "");
                                     return this;
+                                },
+                                '@message': function () {
+                                    //console.log(this);
+                                    this.message = this.message.substring(0, 200);
+                                    return this;
+                                },
+                                '@body': function () {
+                                    //console.log(this);
+                                    this.body = this.body.substring(0, 300);
+                                    return this;
                                 }
                             };
 
                             $result.html(ax5.mustache.render(tmpl, data));
                             $result.waterfall({
                                 gap: 10,
-                                gridWidth: [0, 400, 600, 800, 1200],
+                                gridWidth: [0, 400, 600, 800, 1200, 1400, 1900],
                                 refresh: 500,
                                 scrollbottom: {
                                     ele: $('body'),

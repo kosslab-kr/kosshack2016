@@ -12,15 +12,22 @@
   - Node.js
   - ES6 / ES5 : [Airbnb/JavaScript](https://github.com/tipjs/javascript-style-guide)
 
-## 레파지토리
-총 2개의 레파지토리를 가지고 있습니다.
-- [JeffGuKang/npm-webpack-boilerplate](https://github.com/JeffGuKang/npm-webpack-boilerplate)
-- [Instaparser/instaparser.js](https://github.com/Instaparser/instaparser.js)
-
 ## 마일드스톤
   <img src ="https://upload.wikimedia.org/wikipedia/commons/4/4e/Octicons-milestone.svg" width="27"> 첫 번째 `npm-webpack-boilerplate` 릴리즈 버전 배포
 
   <img src ="https://upload.wikimedia.org/wikipedia/commons/4/4e/Octicons-milestone.svg" width="27"> 릴리즈 버전을 기반으로  새로운 `instaparser.js` 모듈 생성 및 npm 업로드
+
+## 레파지토리
+총 2곳의 레파지토리를 가지고 있습니다.
+- [JeffGuKang/npm-webpack-boilerplate](https://github.com/JeffGuKang/npm-webpack-boilerplate)
+- [Instaparser/instaparser.js](https://github.com/Instaparser/instaparser.js)
+
+## NPM
+최종 결과물로 만들어진 `instaparser.js` 모듈은 NPM에 올려져 있습니다.
+
+```console
+npm install instaparser
+```
 
 ## 일일 보고서
 - [24일](./2016-09-24.md)
@@ -29,6 +36,7 @@
 - [27일](./2016-09-27.md)
 - [28일](./2016-09-28.md)
 - [29일](./2016-09-29.md)
+- [30일](./2016-09-30.md)
 
 ## 참여자 명단
 - 신미르 ([@TylorShin](https://github.com/TylorShin))

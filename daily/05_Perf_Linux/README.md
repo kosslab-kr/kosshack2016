@@ -17,18 +17,16 @@
 * git 을 이용해서 수정한 내용에 대해 패치를 만들고 그것을 메일링 리스트에 전송하거나, github 에 pull request 를 보내는 것을 학습하여 리눅스 커널이 개발되는 과정을 학습합니다.
 * 해커톤이 끝난 이후에도 지속적으로 perf 툴의 개발 진행상황에 관심을 가지고 지속적인 contribution 을 할 수 있기를 희망합니다.
 
-## Links
-perf 를 이해하는데 도움이 되는 링크를 공유합니다.
-* http://www.brendangregg.com/perf.html
-* http://egloos.zum.com/studyfoss/v/5636485
-* http://sandsoftwaresound.net/perf/
-* https://perf.wiki.kernel.org/index.php/Tutorial
-* http://blog.2ndquadrant.com/tracing-postgresql-perf/
-* http://events.linuxfoundation.org/sites/events/files/lcjp13_takata.pdf
-
 ## 마일스톤 관리 (각자 미션과 진행사항 표시)
 https://github.com/kosslab-kr/linux-perf/milestones
-* 중간과정 사진
+
+### * 총 14개의 pull-request 연습 약 10회의 PATCH 메일 연습 (최종)
+### * 총 145개 issues(미션, 과제) 중에서 96개  완료 (최종)
+
+![screenshot from 2016-09-30 20-31-46](https://cloud.githubusercontent.com/assets/3875235/18990460/f0970034-874c-11e6-8f4b-032103e4b859.png)
+
+
+* 각자 마일스톤을 통한 미션(issue) 처리 수행 중간과정 사진
 
 ![screenshot from 2016-09-27 23-56-22](https://cloud.githubusercontent.com/assets/3875235/18986875/e844d112-8739-11e6-81c3-d281c6c13f7a.png)
 
@@ -173,3 +171,12 @@ https://github.com/kosslab-kr/linux-perf/pull/147
 ![img_2550](https://cloud.githubusercontent.com/assets/3875235/18990039/571a007a-874a-11e6-8861-bab4cae45a14.PNG)
 
 
+
+## Links
+perf 를 이해하는데 도움이 되는 링크를 공유합니다.
+* http://www.brendangregg.com/perf.html
+* http://egloos.zum.com/studyfoss/v/5636485
+* http://sandsoftwaresound.net/perf/
+* https://perf.wiki.kernel.org/index.php/Tutorial
+* http://blog.2ndquadrant.com/tracing-postgresql-perf/
+* http://events.linuxfoundation.org/sites/events/files/lcjp13_takata.pdf

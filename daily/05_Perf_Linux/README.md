@@ -124,20 +124,7 @@ https://github.com/kosslab-kr/linux-perf/milestone/1
 
 
 ### * 마지막 커널패치 5명 모두 전송후 사진 (2명은 메인테이너(Arnaldo)에게 답변받고 적용 대기중)
-
-![img_2534](https://cloud.githubusercontent.com/assets/3875235/18987456/b303485a-873c-11e6-9267-2d9d430bbd7f.JPG)
-
-![img_2543](https://cloud.githubusercontent.com/assets/3875235/18987586/34b5127a-873d-11e6-92a3-b8addeef9aac.PNG)
-
-![img_2544](https://cloud.githubusercontent.com/assets/3875235/18987587/38ce525e-873d-11e6-83fc-5afd96b056ec.JPG)
-
-<img width="1251" alt="img_2548" src="https://cloud.githubusercontent.com/assets/3875235/18990027/48e5fc8e-874a-11e6-850c-90ce93ca24ee.PNG">
-
-
-![img_2549](https://cloud.githubusercontent.com/assets/3875235/18990029/4b55e592-874a-11e6-94ae-917fda27e0ad.JPG)
-
-
-* 커널에 보낸 PATCH 내용은 동일하게 pull-request도 연습
+### * 커널에 보낸 PATCH 내용은 동일하게 pull-request도 연습
 https://github.com/kosslab-kr/linux-perf/pull/154
 https://github.com/kosslab-kr/linux-perf/pull/153
 https://github.com/kosslab-kr/linux-perf/pull/152
@@ -146,6 +133,28 @@ https://github.com/kosslab-kr/linux-perf/pull/150
 https://github.com/kosslab-kr/linux-perf/pull/149
 https://github.com/kosslab-kr/linux-perf/pull/148
 https://github.com/kosslab-kr/linux-perf/pull/147
+
+* 12시간 밤샘작업후 7시 반에 기쁨의 사진 :+1:
+
+![img_2534](https://cloud.githubusercontent.com/assets/3875235/18987456/b303485a-873c-11e6-9267-2d9d430bbd7f.JPG)
+
+* 하남봉씨 Arnaldo (Linux Kernel - perf 메인테이너) 답장 받은 사진
+
+![img_2543](https://cloud.githubusercontent.com/assets/3875235/18987586/34b5127a-873d-11e6-92a3-b8addeef9aac.PNG)
+
+* 김선영 씨 Arnaldo (Linux Kernel - perf 메인테이너) 답장 받은 사진
+
+![img_2544](https://cloud.githubusercontent.com/assets/3875235/18987587/38ce525e-873d-11e6-83fc-5afd96b056ec.JPG)
+
+* 조성수씨 PATCH 메일 전송 결과
+
+<img width="1251" alt="img_2548" src="https://cloud.githubusercontent.com/assets/3875235/18990027/48e5fc8e-874a-11e6-850c-90ce93ca24ee.PNG">
+
+* 하남봉씨 PATCH 메일 내용
+
+![img_2549](https://cloud.githubusercontent.com/assets/3875235/18990029/4b55e592-874a-11e6-94ae-917fda27e0ad.JPG)
+
+
 
 ## 2016.09.30 (Online, Offline)
 * 도커를 활용한 perf 개발 테스트 환경 구축 작업

@@ -183,6 +183,7 @@
 
 ## 기여사항
 * iOS버전 구현: @Amanida @sikeeo
+* 텍스트 파일 불러오기: @pmw9027
 * 알람: @AWEEKJ
 * 웹페이지 본문 읽어주기: @kjy95
 * 재생 및 일시정지: @pmw9027 @AWEEKJ

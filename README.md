@@ -23,7 +23,7 @@
 * 미래창조과학부 & 정보통신산업진흥원, 한국IT비즈니스진흥협회, 공개SW개발자Lab
 
 ### 프로젝트 소개
-1. npm module 제작 boilerplate (멘토 강명구)
+1. NPM Module Boilerplate 및 Instagram Module (멘토 강명구)
 	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/01_Instagram/README.md)
 	- [Repository](https://github.com/JeffGuKang/npm-module-es2015-boilerplate)
 
@@ -57,6 +57,7 @@
 	- [활동 내용 Day 3](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-26.md)
 	- [활동 내용 Day 4](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-27.md)
 	- [활동 내용 Day 5](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-28.md)
+	- [활동 내용 Day 6](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-29.md)
 	- [Repository](https://github.com/soomtong/blititor)
 
 9. Say (멘토 정윤원)

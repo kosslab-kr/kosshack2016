@@ -246,3 +246,45 @@ https://github.com/ax5ui/ax5ui-kernel/issues/20
 ![미녀삼총사모임](assets/IMG_1891.JPG)
 ![미녀삼총사모임](assets/IMG_1892.JPG)
 ![미녀삼총사모임](assets/IMG_1895.JPG)
+
+
+# 9월 29일
+테스트코드 작성팀이 자바스크립트 이벤트결과에 대한 테스트코드를 짜기위해 한자리에 모여 불꽃코딩을 진행했습니다.
+나머지 팀들은 오늘도 열심히 오픈소스 컨트리뷰트활동을 했습니다. 하루도 쉬지 않는 이 열정에 박수를 보냅니다
+
+## 테스트 코드 작성
+|성명|링크|활동내역|파일수|add|del|
+|---|---|---|---|---|---|
+|박현준|[github](https://github.com/ax5ui/ax5ui-kernel/commit/fbb36c4e3fbccfbb8ee428904deb508aa3b5579d)|ax5core 테스트 코드 품질 개선|2|93|92|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/ba4aeeac76e2ccbc5cae00b254e9969a7c21e7fd)|karma setting with PhantomJS|3|47|42|
+|금대건|[github](https://github.com/ax5ui/ax5ui-kernel/commit/68613a1ef1b179e4bf83f4bbf254a736c12b9c07)|add dialog.setConfig.js|1|83|0|
+|이한빈|[github](https://github.com/ax5ui/ax5ui-kernel/commit/6e002d9076385374a60bfa3e0daaeb17e55b0899)|add ax5.mask.setConfig test TODO EVENT TESTING|3|48|2|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/04a325cfc508cc2d63a6b777c0cd75ad3a5fb70c)|add test.mask setting , add bower dependencies|4|26|2|
+
+## 문서작성
+|성명|링크|활동내역|파일수|add|del|
+|---|---|---|---|---|---|
+|김동욱|[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/2f41449ab1d4be9b7d75c299022e69804815ea17)|add media-viewer and autocomplete document|15|1191|11|
+| |[github](https://github.com/kosslab-kr/ax5ui-quick-start/commit/06e4b779d7dd643190eeed9b7ca0434e52cfe2b2)|add ax5ui-select doc|11|555|7|
+
+## 코드개발
+|성명|링크|활동내역|파일수|add|del|
+|---|---|---|---|---|---|
+|김동근|[github](https://github.com/ax5ui/ax5ui-kernel/commit/2619a569e228cb10bcedf5755dc737010f14417f)|example code 작성 (#63)|2|44|4|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/6d16d44f23c6cdd88a1f69fa65389e71039dd0b3)|ax5mask|3|14|1|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/08ffa020746653b4cad2c97747927f7248c0d12a)|ax5mask|4|67|37|
+|한대승|[github](https://github.com/ax5ui/ax5ui-kernel/commit/6cf94f7212decc8963c601e933a36e23ba0ff356)|AX5 샘플코드 작성 (#62)|10|120|21|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/bde0a5ed505bbd7047aa3e2ffea18b8efaef1d7a)|PHP 샘플 부트스트랩 레이아웃 적용 (#61)|1|59|6|
+|이소은|[github](https://github.com/ax5ui/ax5ui-kernel/commit/93f9a272d5b6330ea4e98c78f9865205a7787359)|feat: add js doc|15|132|24|
+
+
+## 번역
+|성명|링크|활동내역|파일수|add|del|
+|---|---|---|---|---|---|
+|김동영|[github](https://github.com/ax5ui/ax5ui-kernel/commit/5f02fbf6f180aede86e4602bde5db8425f047f94)|Documentation Content Fix - ax5ui-dialogue (#64)|0|0|0|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/465803405073fb80e4df97ae789ab2c7fc4a736c)|Documentation Content Fix - ax5ui-formatter (#55)|3|32|30|
+| |[github](https://github.com/ax5ui/ax5ui-kernel/commit/4be1f74f9f8510537e510d122e4f10aee2d93b38)|Documentation Content Fix - ax5ui-layout (#54)|1|15|15|
+
+### 테스트코드팀의 멋진 3남자들
+![테스트코드팀](assets/KakaoTalk_Photo_2016-09-30-02-38-31.jpeg)
+![테스트코드팀](assets/KakaoTalk_Photo_2016-09-30-02-38-52.jpeg)

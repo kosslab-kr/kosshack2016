@@ -86,7 +86,12 @@
 		- 오도근: 테스트툴 조사 후 해당 툴로 테스트 코드 작성
 		- 이동기: 작성된 테스트 코드 리뷰
 		- 이현주: Git과 JavaScript 학습 및 복습
+#### Example
 
+- 조승윤
+	- 팀원들에게 git 및 github에 대해 설명
+	- Open-Source의 전반적인 흐름 공부
+	
 #### Docs
 - 김무훈([@MuhunKim](https://github.com/MuhunKim)) : Group Leader
   - [Pull-Request #6](https://github.com/JeffGuKang/npm-webpack-boilerplate/pull/6)  : `package.json`에서 `author` 키워드 대신 `contributors`로 변경 후 `author` 목록 추가
@@ -328,6 +333,10 @@
 ## 2016년 9월 28일
 
 ### Docs
+
+- 최규호 ([@gyuho26](https://github.com/gyuho26))
+	- Github 사용법 숙지
+	- 오프라인 모임 참여
 ### Test
 ### Example
 
@@ -360,3 +369,18 @@
 	- 오프라인 모임 참여
 	- github 연습
 	- Pull-Request 과정 오류 수정
+<<<<<<< HEAD
+=======
+
+## 2016년 9월 29일
+
+### Docs
+### Test
+### Example
+
+- 조승윤(@choseungyoon)
+	- Instaparser example code 작성(https://github.com/Instaparser/instaparser.js/pull/8)
+	- 오프라인 모임 참여
+
+### Task
+>>>>>>> 24d47a955c3b2a8c13c43cc5573012477c10aa50

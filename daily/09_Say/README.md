@@ -43,9 +43,10 @@
 
 #2016-09-26
 
-오후 4시-오후11시까지 오프라인에서 작업을 하였습니다.
+## 오프라인 활동
+- 오후 4시-오후11시까지 오프라인에서 작업을 하였습니다.
+- 장소: 토즈 신촌본점 및 신촌 TOMS & TOMS
 
-## 참가자
 * @tobark
 * @pmw9027
 * @Amanida
@@ -65,7 +66,9 @@
 
 #2016-09-27
 
-오후 4시-오후10시 30분까지 오프라인에서 작업을 하였습니다
+## 오프라인 활동
+- 오후 4시-오후10시 30분까지 오프라인에서 작업을 하였습니다.
+- 장소: 토즈 신촌본점 및 토즈 아트레온점
 
 ## 참가자
 * @tobark
@@ -84,17 +87,18 @@
 * @tobark: [#41](https://github.com/youknowone/Say/pull/41) UI의 사소한 오류를 바로잡음
   * 창이 너무 작게 줄어들들지 않도 방지
   * 목소리 선택 콤보박스 동작 개선
-* @kjy95: URL 읽어주기 기능 계속 진행. 제목 읽기까지 머지하고 @tobark 님의 조언에 따라 본문 읽기도 진행 중
+* @kjy95: [#58](https://github.com/youknowone/Say/pull/58) URL 읽어주기 기능 계속 진행. 제목 읽기까지 머지하고 @tobark 님의 조언에 따라 본문 읽기도 진행 중
 * @closer27: 맥 버전과 iOS 버전의 다른 백엔드 인터페이스를 통합
 * @deffjoowon: 네이버 번역 API를 적용 중
-* @AWEEKJ: 투데이 확장에 일시정지 기능 도입 중
+* @AWEEKJ: 투데이 확장에 일시정지 기능 도입 시도
 
 
 #2016-09-28
 
-오후 7시-오후 10시까지 오프라인에서 작업을 하였습니다
+## 오프라인 활동
+- 오후 7시-오후 10시까지 오프라인에서 작업을 하였습니다
+- 장소: 토즈 선릉점
 
-## 참가자
 * @Amanida
 * @pmw9027
 * @kjy95
@@ -104,6 +108,43 @@
 ![](20160928_3.jpg)
 
 ## 활동
-* @Amanida: iOS 재생-정지 기능
-* @AWEEKJ: @tobark 님의 제안에 따라 알람 UI 개편 중
-* @kjy95: 본문 읽어주기 기능 계속 진행
+* @Amanida: [#48](https://github.com/youknowone/Say/pull/48) iOS 재생-정지 기능
+* @AWEEKJ: [#56](https://github.com/youknowone/Say/pull/56) @tobark 님의 제안에 따라 알람 UI 개편 중
+* @kjy95: [#58](https://github.com/youknowone/Say/pull/58) 본문 읽어주기 기능 계속 진행
+* @pmw9027:
+* @tobark: [#52](https://github.com/youknowone/Say/pull/52) UI에 stack 도입
+* @closer27: 프로젝트의 Collaborator로 등록하여 이슈를 관리하고 코드 리뷰
+
+#2016-09-29
+
+## 오프라인 활동
+- 오후 4시-오후 8시까지 오프라인에서 작업을 하였습니다
+- 장소: 토즈 신촌본점
+
+* @kjy95
+* @tobark
+* @pmw9027
+* @sikeeo
+* @eeneguee
+* @AWEEKJ
+
+![](20160929_1.jpg)
+
+## 활동
+* @kjy95: [#58](https://github.com/youknowone/Say/pull/58) 오랜 작업 끝에 드디어 결실을 맺어 URL 내용을 읽어주는 기능을 완성했습니다.
+* @pmw9027:
+* @sikeeo: [#55](https://github.com/youknowone/Say/pull/55) iOS에서 편집을 시작하면 키보드를 가릴 수 없던 문제 수정
+* @eeneguee: [#27](https://github.com/youknowone/Say/issues/27) 맥/iOS버전이 iCloud에 사용 내역 저장해 공유하도록
+* @AWEEKJ: [#56](https://github.com/youknowone/Say/pull/56) 알람 UI 개편 완료
+
+
+#2016-09-30
+
+## 오프라인 활동
+- 오후 4시-오후 10시까지 오프라인에서 작업을 하였습니다.
+- 장소: 메가젠토즈타워점
+
+* @kjy95
+* @tobark
+
+![](20160930_1.jpg)

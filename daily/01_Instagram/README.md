@@ -1,10 +1,19 @@
 # Instagram Team
 
 ## 팀 목표
-- 팀원 모두 각자 기여할 수 있는 부분에 꾸준히 기여를 해보자.
+팀원 모두 각자 기여할 수 있는 부분에 꾸준히 기여를 해보자.
+
+## 필요한 기술
+
+저희 팀은 Node.js에서 ES6를 사용하고 버전 관리 도구로 Git을 사용합니다.
+
+- Git, Github
+- JavaScript
+  - Node.js
+  - ES6 / ES5 : [Airbnb/JavaScript](https://github.com/tipjs/javascript-style-guide)
 
 ## 레파지토리
-총 2개의 레파지토리를 진행하고 있습니다.
+총 2개의 레파지토리를 가지고 있습니다.
 - [JeffGuKang/npm-webpack-boilerplate](https://github.com/JeffGuKang/npm-webpack-boilerplate)
 - [Instaparser/instaparser.js](https://github.com/Instaparser/instaparser.js)
 

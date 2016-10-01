@@ -237,7 +237,7 @@
             - https://github.com/kosslab-kr/zeppelin/pull/8 (강현정)
         - Johanna 작업 PR 및 리뷰
             - https://github.com/addnull/johanna/pull/34 (유주원)
-            - https://github.com/addnull/johanna/pull/33 (유주)
+            - https://github.com/addnull/johanna/pull/33 (유주원)
             - https://github.com/addnull/lili/pull/32 (권민재)
             - https://github.com/addnull/lili/pull/31 (전지성)
         - 발표자료 제작

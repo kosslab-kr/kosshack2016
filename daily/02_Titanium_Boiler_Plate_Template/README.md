@@ -313,34 +313,24 @@
 
 ### 2016-09-30 (금)
 	- Project [Brand New]
-		- 서장원 (wkddnjset) : 
-			- 
-		- 최석환 (soulmade00) : 
-			- 
-		- 김유진 (Yoojinn) : 
-			- 
-		- 이필구 (Feelgu) : 
-			- 
-		- 유승연 (dbtmddus) : 
-			- 
-		- 조소영 (s2s22) : 
-			- 
-		- 오충협 (ChungHyup) : 
-			- 
+		- 모두가 KossLab에서 밤새면서 불타는 코딩을 하였습니다.
+		- 성공적으로 어플리케이션 베타 버전 제작을 완료하였습니다.
+			- 서장원 (wkddnjset) : 
+			- 최석환 (soulmade00) : 
+			- 김유진 (Yoojinn) : 
+			- 이필구 (Feelgu) : 
+			- 유승연 (dbtmddus) : 
+			- 조소영 (s2s22) : 
+			- 오충협 (ChungHyup) : 
 	- Project [Save My Friends]
-		- 김덕윤 (kimdeokyun) : 
-			- 
-		- 진재언 (jinjaeeon) : 
-			- 
-		- 최형필 (Hyeongpil) : 
-			- 
-		- 김정래 (suprodigy) : 
-			- 
-		- 함유경 (ykhaam) : 
-			- 
-		- 김치현 (ChiHyeonKim) : 
-			- 
-		- 양준영 (yjy0431) : 
-			-
+		- 모두가 KossLab에서 밤새면서 불타는 코딩을 하였습니다.
+		- 성공적으로 어플리케이션 베타 버전 제작을 완료하였습니다.
+			- 김덕윤 (kimdeokyun) : 
+			- 진재언 (jinjaeeon) : 
+			- 최형필 (Hyeongpil) : 
+			- 김정래 (suprodigy) : 
+			- 함유경 (ykhaam) : 
+			- 김치현 (ChiHyeonKim) : 
+			- 양준영 (yjy0431) : 
 
 			

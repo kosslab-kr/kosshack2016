@@ -64,6 +64,7 @@
 * @tobark: [#34](https://github.com/youknowone/Say/pull/34) 선택한 텍스트 재생 기능으로 인해 발생한 버그 수정 ([#22](https://github.com/youknowone/Say/pull/22))
 * @closer27: [#36](https://github.com/youknowone/Say/pull/36) 말하기 백엔드를 명령줄 기반에서 NSSpeechSynthesizer로 완전히 교체
 
+![](slack1_1.png)
 
 #2016-09-27
 
@@ -93,6 +94,7 @@
 * @deffjoowon: 네이버 번역 API를 적용 중
 * @AWEEKJ: 투데이 확장에 일시정지 기능 도입 시도
 
+![](slack2_1.png)
 
 #2016-09-28
 
@@ -114,6 +116,8 @@
 * @kjy95: [#58](https://github.com/youknowone/Say/pull/58) 본문 읽어주기 기능 계속 진행
 * @tobark: [#52](https://github.com/youknowone/Say/pull/52) UI에 stack 도입
 * @closer27: 프로젝트의 Collaborator로 등록하여 이슈를 관리하고 코드 리뷰
+
+![](slack3_1.png)
 
 #2016-09-29
 
@@ -137,6 +141,7 @@
 * @eeneguee: [#27](https://github.com/youknowone/Say/issues/27) 맥/iOS버전이 iCloud에 사용 내역 저장해 공유하도록
 * @AWEEKJ: [#56](https://github.com/youknowone/Say/pull/56) 알람 UI 개편 완료
 
+![](slack4_1.png)
 
 #2016-09-30
 
@@ -164,6 +169,9 @@
 * @AWEEKJ: 발표 준비 [#69](https://github.com/youknowone/Say/pull/69) Today 확장에 일시정지 기능 추가 [#66]((https://github.com/youknowone/Say/pull/66) 정지 기능 버그 수정
 * @deffjoowon: [#68](https://github.com/youknowone/Say/pull/68) 번역해서 읽기 기능 기초를 완성
 * @closer27: 코드 리뷰 및 다른 사람들의 코드 작성을 도와주었습니다
+
+![](slack5_1.png)
+![](slack5_2.png)
 
 # 종합보고
 

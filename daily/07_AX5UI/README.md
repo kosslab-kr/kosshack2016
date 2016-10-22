@@ -288,3 +288,90 @@ https://github.com/ax5ui/ax5ui-kernel/issues/20
 ### 테스트코드팀의 멋진 3남자들
 ![테스트코드팀](assets/KakaoTalk_Photo_2016-09-30-02-38-31.jpeg)
 ![테스트코드팀](assets/KakaoTalk_Photo_2016-09-30-02-38-52.jpeg)
+
+
+# 9월 30일
+내일은 발표날이어서 문서팀은 발표준비를 중점적으로 하였습니다.
+코드개발팀과 테스트코드 작성팀은 마지막까지 열심히 커밋과 풀리퀘스트를 보냈습니다.
+
+#### @hyunjun19
+add formatter TEST (#76)  …
+hyunjun19 committed with thomasJang 2 hours ago
+https://github.com/ax5ui/ax5ui-kernel/commit/312729  
+  
+ #### @mojosoeun
+feat: add js doc for dialog (#77)  …
+mojosoeun committed with thomasJang 2 hours ago
+https://github.com/ax5ui/ax5ui-kernel/commit/eb03c6  
+  
+ #### @hyunjun19
+toast 비동기 이벤트 테스트 처리 추가 (#75)  …
+hyunjun19 committed with thomasJang 3 hours ago
+https://github.com/ax5ui/ax5ui-kernel/commit/339144  
+  
+ #### @hoksi
+AX 그리드 Remote 소트 기능 연동 샘플 (#74)  …
+hoksi committed with thomasJang 4 hours ago
+https://github.com/ax5ui/ax5ui-kernel/commit/490ced  
+  
+ #### @dongyoung86
+Documentation Content Fix - ax5ui-core (#73)  …
+dongyoung86 committed with thomasJang 4 hours ago
+https://github.com/ax5ui/ax5ui-kernel/commit/7536216  
+  
+ax5grid@0.2.22
+thomasJang committed 4 hours ago
+https://github.com/ax5ui/ax5ui-kernel/commit/e6455f6
+  
+bugfix ~ ax5grid remote soft
+thomasJang committed 4 hours ago
+https://github.com/ax5ui/ax5ui-kernel/commit/f566415
+  
+ax5grid remote soft 기능 테스트
+thomasJang committed 6 hours ago
+https://github.com/ax5ui/ax5ui-kernel/commit/b419a4a
+  
+ #### @groovedk
+ax5core example code 작성 (#71)  …
+groovedk committed with thomasJang 6 hours ago
+https://github.com/ax5ui/ax5ui-kernel/commit/0e86754
+  
+ #### @leehan0617
+add ax5.ui.modal test (#72)  …
+leehan0617 committed with thomasJang 6 hours ago
+https://github.com/ax5ui/ax5ui-kernel/commit/9f8ed9b
+  
+ #### @leehan0617  
+
+ax5.ui.calendar (#70)  …
+leehan0617 committed with thomasJang 8 hours ago
+https://github.com/ax5ui/ax5ui-kernel/commit/b5fe832
+  
+API update
+thomasJang committed 10 hours ago
+https://github.com/ax5ui/ax5ui-kernel/commit/2f13a57
+  
+ #### @hoksi
+API별 샘플코드 추가 (#69)  …
+hoksi committed with thomasJang 10 hours ago
+https://github.com/ax5ui/ax5ui-kernel/commit/0a240f5
+
+ #### @dongyoung86
+Documentation Content Fix - ax5ui-autocomplete (#68)  …
+dongyoung86 committed with thomasJang 14 hours ago
+https://github.com/ax5ui/ax5ui-kernel/commit/2af1ee3
+
+ #### @mojosoeun
+feat: add js doc (#67)  …
+mojosoeun committed with thomasJang a day ago
+https://github.com/ax5ui/ax5ui-kernel/commit/93f9a27
+
+ #### @dongyoung86
+Documentation Content Fix - ax5ui-calendar (#65)  …
+dongyoung86 committed with thomasJang a day ago
+https://github.com/ax5ui/ax5ui-kernel/commit/e63c861
+
+ #### @hyunjun19
+add ax5.ui.toast TEST (#66)  …
+hyunjun19 committed with thomasJang a day ago
+https://github.com/ax5ui/ax5ui-kernel/commit/c59f15fd20dab41566bd16b8384f3e8a7e44cd59

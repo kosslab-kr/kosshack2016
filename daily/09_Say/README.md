@@ -29,6 +29,7 @@
 * @tobark: [#20](https://github.com/youknowone/Say/pull/20) #20 완료
 * @eeneguee: [#22](https://github.com/youknowone/Say/issues/22) 완료
 
+![](20160924_1.png)
 
 # 2016-09-25
 
@@ -63,6 +64,7 @@
 * @tobark: [#34](https://github.com/youknowone/Say/pull/34) 선택한 텍스트 재생 기능으로 인해 발생한 버그 수정 ([#22](https://github.com/youknowone/Say/pull/22))
 * @closer27: [#36](https://github.com/youknowone/Say/pull/36) 말하기 백엔드를 명령줄 기반에서 NSSpeechSynthesizer로 완전히 교체
 
+![](slack1_1.png)
 
 #2016-09-27
 
@@ -92,6 +94,7 @@
 * @deffjoowon: 네이버 번역 API를 적용 중
 * @AWEEKJ: 투데이 확장에 일시정지 기능 도입 시도
 
+![](slack2_1.png)
 
 #2016-09-28
 
@@ -113,6 +116,8 @@
 * @kjy95: [#58](https://github.com/youknowone/Say/pull/58) 본문 읽어주기 기능 계속 진행
 * @tobark: [#52](https://github.com/youknowone/Say/pull/52) UI에 stack 도입
 * @closer27: 프로젝트의 Collaborator로 등록하여 이슈를 관리하고 코드 리뷰
+
+![](slack3_1.png)
 
 #2016-09-29
 
@@ -136,6 +141,7 @@
 * @eeneguee: [#27](https://github.com/youknowone/Say/issues/27) 맥/iOS버전이 iCloud에 사용 내역 저장해 공유하도록
 * @AWEEKJ: [#56](https://github.com/youknowone/Say/pull/56) 알람 UI 개편 완료
 
+![](slack4_1.png)
 
 #2016-09-30
 
@@ -164,6 +170,39 @@
 * @deffjoowon: [#68](https://github.com/youknowone/Say/pull/68) 번역해서 읽기 기능 기초를 완성
 * @closer27: 코드 리뷰 및 다른 사람들의 코드 작성을 도와주었습니다
 
+![](slack5_1.png)
+![](slack5_2.png)
+
 # 종합보고
 
+* 목표: Say는 오픈소스 연습용 프로젝트.
+  * 모두가 오픈소스 문화를 체험해 보자
+  * 모두가 지금의 & 미래의 오픈소스 컨트리뷰터가 되자
 
+## 통계
+
+* 프로젝트 기여자 1명 -> 10명 (9명 전원 참가)
+* 이슈 32개. 해결된 이슈 19개.
+* 풀리퀘스트 30개. 1인당 3개 이상.
+* 코드 리뷰 100건
+* 이슈 토론 150건
+* 모든 사람이 1개 이상의 풀리퀘스트를 제출하여 성공적으로 패치를 제출하고 머지되었습니다.
+* 모든 사람이 이슈를 제출하고 하나 이상의 이슈를 수정했습니다.
+* 코드 리뷰에는 9명 중 8명이 참여했습니다.
+
+## 기여사항
+* iOS버전 구현: @Amanida @sikeeo
+* 텍스트 파일 불러오기: @pmw9027
+* 알람: @AWEEKJ
+* 웹페이지 본문 읽어주기: @kjy95
+* 재생 및 일시정지: @pmw9027 @AWEEKJ
+* 선택한 텍스트만 읽어주기: @eeneguee @tobark
+* UI 개선: @tobark
+* 백엔드 현대화: @closer27
+
+## 오프라인 모임
+* 전원 1회 이상 참석
+* 월화수목금 빠짐없이 매일매일 모임
+* 참석 인원 25사람·일 or 140사람·시간
+* 1인당 평균 2.7일 15.5시간 참여
+* 매우 활발한 진행

@@ -220,3 +220,56 @@
 
 - 네번째 Office Hour
     - 멘토 직장 사정으로 인하여 Pass
+
+### 2016-09-30
+
+- 세번째 Office Hour
+    - 멘토 KOSSLAB 회의로 인해 늦음
+    - 일정
+        - 오후 6시 반 ~ 오후 10시
+        - 토즈 강남 2호점 (신논현역, 교보타워옆)
+        - 예약이름: KOSSLAB 해커톤 11팀
+    - 참여 멤버
+        - 한종원, 전지성, 권민재, 이선미, 유주원, 강현정
+    - 논의안건 및 작업
+        - Zeppelin 문서 PR 및 리뷰
+            - https://github.com/kosslab-kr/zeppelin/pull/9 (전지성)
+            - https://github.com/kosslab-kr/zeppelin/pull/8 (강현정)
+        - Johanna 작업 PR 및 리뷰
+            - https://github.com/addnull/johanna/pull/34 (유주원)
+            - https://github.com/addnull/johanna/pull/33 (유주원)
+            - https://github.com/addnull/lili/pull/32 (권민재)
+            - https://github.com/addnull/lili/pull/31 (전지성)
+        - 발표자료 제작
+            - 한종원, 전지성
+    - 사진
+    ![alt text](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/11_Apache_Zeppelin_Project_Johanna/photo/20160930.jpg "20160930.jpg")
+
+### 2016-10-01
+
+- 결과 발표 및 시상식
+    - 결과 발표
+        - Apache Zeppelin: 전지성
+        - Project Johanna: 한종원
+    - 시상식
+        - 참가자 전체대상 부문별 시상
+            - 에너자이저상: 유주원
+            - 코딩머신상: 한종원
+        - 탐별 참여자상
+            - 전지성
+            - 권민재
+            - 강현정
+        - 종합 5위/11팀중
+    - 후속
+        - 현장에서 못받은 수료증은 DM으로 주소를 알려주시면 우편으로 송부해 드려요
+        - 슬랙계정은 당분간 유지합니다.
+        - 슬랙에 참가자 분들의 이메일 연락처를 남겨두었습니다.
+        - PR하신 내용은 버려지지 않습니다!
+            - Apache Zeppelin
+                - 국내 관련 커뮤니티 수요를 조사후 PMC에 공식 경로로 제안 예정
+            - Project Johanna
+                - 지금 현재 개발하시는 PR과 Commit으로 계속 참여해 주세요!
+    - 사진
+    ![alt text](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/11_Apache_Zeppelin_Project_Johanna/photo/20161001_164101.jpg "20161001_164101.jpg")
+
+# 모두 고생하셨습니다!! 어디선가에서 또 뵈면 꼭 서로 인사 부탁드릴께요~~ :)

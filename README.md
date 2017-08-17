@@ -158,7 +158,7 @@
       <td align="center">사회자</td>
     </tr>
     <tr>
-      <td align="center" rowspan="10">	16:10~19:10 (3H)</td>
+      <td align="center" rowspan="2">	16:10~19:10 (3H)</td>
       <td align="center">팀별 진행방향 논의</td>
       <td align="center">멘토 & 팀장</td>
     </tr>
@@ -177,7 +177,7 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <th align="center" rowspan="5">9/24~9/30 프로젝트 활동</th>
+      <th align="center" rowspan="2">9/24~9/30 프로젝트 활동</th>
       <td align="center"></td>
       <td align="center">프로젝트 별 작업진행, 질의응답</td>
       <td align="center">사무국</td>

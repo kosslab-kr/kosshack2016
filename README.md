@@ -177,7 +177,7 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <th align="center" rowspan="2">9/24~9/30 프로젝트 활동</th>
+      <th align="center" rowspan="3">9/24~9/30 프로젝트 활동</th>
       <td align="center"></td>
       <td align="center">프로젝트 별 작업진행, 질의응답</td>
       <td align="center">사무국</td>
